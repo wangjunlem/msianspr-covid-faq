@@ -1,4 +1,9 @@
-# Other Matters
+---
+layout: page
+toc: true
+toc_title: Questions
+title: Other Matters
+---
 
 ## Passport Renewal 
 

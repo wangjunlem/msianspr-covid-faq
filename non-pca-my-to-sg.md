@@ -1,5 +1,9 @@
-# Travelling: Malaysia ⇾ Singapore (non-PCA) 
-
+---
+layout: page
+toc: true
+title: "Travelling: Malaysia ⇾ Singapore (non-PCA)"
+toc_title: Questions
+---
 
 ## What do I need to do to exit Malaysia? 
 

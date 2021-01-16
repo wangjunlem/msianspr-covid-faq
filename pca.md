@@ -1,5 +1,9 @@
-
-## Travelling with PCA
+---
+layout: page
+toc: true
+toc_title: Questions
+title: "Travelling: PCA"
+---
 
 
 ### Does the Periodic Commuting Arrangement (PCA) apply to us SPRs?

@@ -1,4 +1,9 @@
-# Travelling: Singapore ⇾ Malaysia (non-PCA)
+---
+layout: page
+toc: true
+title: "Travelling: Singapore ⇾ Malaysia (non-PCA)"
+toc_title: Questions
+---
 
 ## What do I need to do to exit Singapore?
 
@@ -185,7 +190,7 @@ The SOPs on delivery differ from hotel to hotel. You are advised to check with t
 
 The common SOP known is that for food delivery, only fast food is allowed. Home cooked food will not be allowed unless special approval is given by MOH (e.g. health reasons). 
 
-For personal belongings (e.g. clothes), **please only do so if it is urgent and necessary. Hotel workers are swamped with these requests. **Family members can bring it over; however, you are not allowed to hand over any items (including any perishables and souvenirs) back to your family members or friends.
+For personal belongings (e.g. clothes), **please only do so if it is urgent and necessary.** Hotel workers are swamped with these requests. Family members can bring it over; however, you are not allowed to hand over any items (including any perishables and souvenirs) back to your family members or friends.
 
 
 ## Are there laundry services at my hotel? 
@@ -251,9 +256,7 @@ For those travelling from 13th January onwards:
 
 Take note that inter-state travel is not allowed for the whole country, and states under MCO will not allow inter-district travel. See: [Known Areas Affected By MCO](#known-areas-affected-by-mco)
 
-_PENDING CONFIRMATION._ You will have to apply for a movement permit using the form [here](https://www.rmp.gov.my/docs/default-source/Penerbitan/borang-permit-pergerakan-pkpb.pdf?sfvrsn=2) at the nearest police station. Please send to your friends/relatives the photos of:
-
-
+You will have to apply for a movement permit using the form [here](https://www.rmp.gov.my/docs/default-source/Penerbitan/borang-permit-pergerakan-pkpb.pdf?sfvrsn=2) at the nearest police station. Please send to your friends/relatives the photos of:
 
 1. the Quarantine Order document given to you at the start of the quarantine
 2. (If applying last minute) the _Surat Pelepasan_
