@@ -136,78 +136,12 @@ For normal accommodation, it will cost RM150/night.
 
 Non-Malaysians also have to pay a fixed administrative cost of RM2600/person.
 
+|  | 10 days | 7 days (see here) |
+|-|-|-|
+| Malaysian | First person:<br>RM1500<br><br>Second person:<br>RM500<br><br>Third person (6y/o and below):<br>free | First person: <br>RM1050<br><br>Second person: <br>RM350<br>  <br>Third person (6y/o and below):<br>free |
+| Non-Malaysian | First person:<br>RM1500 + RM2600 = RM4100<br><br>Second person:<br>RM500 + RM2600 = RM3100<br><br>Third person (6y/o and below):<br>RM2600 | First person:<br>RM1050 + RM2600 = RM3650<br><br>Second person:<br>RM350 + RM2600 = RM2950<br><br>Third person (6y/o and below):<br>RM2600 |
 
-<table>
-  <tr>
-   <td>
-   </td>
-   <td><strong>10 days</strong>
-   </td>
-   <td><strong>7 days</strong> (see <a href="#how-many-days-is-the-quarantine-going-to-be">here</a>)
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Malaysian</strong>
-   </td>
-   <td>First person: 
-<p>
-RM1500
-<p>
-Second person: 
-<p>
-RM500
-<p>
-Third person (6y/o and below):
-<p>
-free
-   </td>
-   <td>First person: 
-<p>
-RM1050
-<p>
-Second person: 
-<p>
-RM350
-<p>
-Third person (6y/o and below):
-<p>
-free
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Non-Malaysian</strong>
-   </td>
-   <td>First person:
-<p>
-RM1500 + RM2600 = RM4100
-<p>
-Second person:
-<p>
-RM500 + RM2600 = RM3100
-<p>
-Third person (6y/o and below):
-<p>
-RM2600
-   </td>
-   <td>First person:
-<p>
-RM1050 + RM2600 = RM3650
-<p>
-Second person:
-<p>
-RM350 + RM2600 = RM2950
-<p>
-Third person (6y/o and below):
-<p>
-RM2600
-   </td>
-  </tr>
-  <tr>
-   <td colspan="3" ><em>The “second person” only applies to: legally married spouse, children, and siblings.</em>
-   </td>
-  </tr>
-</table>
-
+_The "second person" only applies to: legally married spouse, children, and siblings._
 
 Additional charges may apply if you opt for premium accommodation.
 
@@ -215,42 +149,10 @@ For swab tests, you will be swabbed a day or two before the end of quarantine.
 
 Those who have done a pre-departure RT-PCR swab test within 72 hours before departure to Malaysia will not be required to do an arrival swab (on the condition that they do not show any symptoms).
 
-
-<table>
-  <tr>
-   <td>
-   </td>
-   <td><strong>WITHOUT pre-departure RT-PCR swab 72 hours before departure to Malaysia</strong>
-   </td>
-   <td><strong>WITH pre-departure RT-PCR swab 72 hours before departure to Malaysia AND no symptoms (see <a href="#how-many-days-is-the-quarantine-going-to-be">here</a>)</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Malaysian</strong>
-   </td>
-   <td>RM150 x 2 = RM300
-<p>
-(arrival swab and end of quarantine swab)
-   </td>
-   <td>RM150
-<p>
-(end of quarantine swab)
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Non-Malaysian</strong>
-   </td>
-   <td>RM250 x 2 = RM500
-<p>
-(arrival swab and end of quarantine swab)
-   </td>
-   <td>RM250
-<p>
-(end of quarantine swab)
-   </td>
-  </tr>
-</table>
-
+|  | WITHOUT pre-departure RT-PCR swab 72 hours before departure to Malaysia | WITH pre-departure RT-PCR swab 72 hours before departure to Malaysia AND no symptoms (see here) |
+|-|-|-|
+| Malaysian | RM150 x 2 = RM300<br>(arrival swab and end of quarantine swab) | RM150<br>(end of quarantine swab) |
+| Non-Malaysian | RM250 x 2 = RM500<br>(arrival swab and end of quarantine swab) | RM250<br>(end of quarantine swab) |
 
 
 ## How many days is the quarantine going to be? 
@@ -308,76 +210,18 @@ Please refer to guidelines on requesting for exemptions: [Emailing MOH MY for Sp
 
 You will be exempted from paying the quarantine fees if you fall into categories below. The forms can be printed and filled in ahead of time [here](http://covid-19.moh.gov.my/garis-panduan/garis-panduan-pengecualian-caj-kuarantin-bagi-person-under-surveilence-pus-di-stesen-kuarantin) (advised to do so), or can be obtained at the counters after you arrive.
 
-
-<table>
-  <tr>
-   <td><strong>Category</strong>
-   </td>
-   <td><strong>Form Needed</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Kad OKU holder under Persons with Disabilities Act 2008
-   </td>
-   <td>Form A
-   </td>
-  </tr>
-  <tr>
-   <td>Malaysian from B40 group
-   </td>
-   <td>Form C
-   </td>
-  </tr>
-  <tr>
-   <td>Malaysian (parent/spouse/child aged 18 and below) of a Malaysian in B40 group returning together from overseas
-   </td>
-   <td>Form C
-   </td>
-  </tr>
-  <tr>
-   <td>Malaysian student from B40 family
-   </td>
-   <td>Form B
-   </td>
-  </tr>
-  <tr>
-   <td>Malaysian aged 6 and below
-   </td>
-   <td>Form A
-   </td>
-  </tr>
-  <tr>
-   <td>Malaysian aged 12 and below returning alone
-   </td>
-   <td>Form A
-   </td>
-  </tr>
-  <tr>
-   <td>Malaysian returning immediately from prison release abroad and cannot pay for expenses/has no source of income
-   </td>
-   <td>Form A
-   </td>
-  </tr>
-  <tr>
-   <td>Guardian (who is currently in Malaysia) of a Malaysian aged 12 and below accompanying the said child
-   </td>
-   <td>Form D
-   </td>
-  </tr>
-  <tr>
-   <td>Malaysian who has lost their job
-   </td>
-   <td><em>See below</em>
-   </td>
-  </tr>
-  <tr>
-   <td>Malaysian who has used up their sources of money due to being stuck in another country
-   </td>
-   <td><em>See below</em>
-   </td>
-  </tr>
-</table>
-
+|  Category  |  Form Needed  |
+|-|-|
+|  Kad OKU holder under Persons with Disabilities Act 2008  |  Form A  |
+|  Malaysian from B40 group  |  Form C  |
+|  Malaysian (parent/spouse/child aged 18 and below) of a Malaysian in B40 group returning together from overseas  |  Form C  |
+|  Malaysian student from B40 family  |  Form B  |
+|  Malaysian aged 6 and below  |  Form A  |
+|  Malaysian aged 12 and below returning alone  |  Form A  |
+|  Malaysian returning immediately from prison release abroad and cannot pay for expenses/has no source of income  |  Form A  |
+|  Guardian (who is currently in Malaysia) of a Malaysian aged 12 and below accompanying the said child  |  Form D  |
+|  Malaysian who has lost their job  |  *See below*  |
+|  Malaysian who has used up their sources of money due to being stuck in another country  |  *See below*  |
 
 If you require special consideration for exemption of quarantine fees due to either:
 

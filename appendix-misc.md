@@ -51,61 +51,21 @@ This list is not exhaustive and is not meant to be an endorsement of any hotel/f
 
 In Johor:
 
-
-<table>
-  <tr>
-   <td>Hotel Ramada Meridien
-   </td>
-  </tr>
-  <tr>
-   <td>Hotel Jen Puteri Harbour
-   </td>
-  </tr>
-  <tr>
-   <td>Somerset Medini
-   </td>
-  </tr>
-  <tr>
-   <td>Millesime Hotel
-   </td>
-  </tr>
-  <tr>
-   <td>Grand Paragon Hotel
-   </td>
-  </tr>
-  <tr>
-   <td>Resort KSL Hot Spring
-   </td>
-  </tr>
-  <tr>
-   <td>New York Hotel
-   </td>
-  </tr>
-  <tr>
-   <td>Hotel Amansari Nusajaya
-   </td>
-  </tr>
-  <tr>
-   <td>Hotel Mutiara
-   </td>
-  </tr>
-  <tr>
-   <td>Hotel Berjaya Waterfront
-   </td>
-  </tr>
-  <tr>
-   <td>Hotel Good Hope
-   </td>
-  </tr>
-  <tr>
-   <td>Crystal Crown Hotel
-   </td>
-  </tr>
-  <tr>
-   <td>Trove Hotel
-   </td>
-  </tr>
-</table>
+| Known Hotels in JB       |
+|--------------------------|
+| Hotel Ramada Meridien    |
+| Hotel Jen Puteri Harbour |
+| Somerset Medini          |
+| Millesime Hotel          |
+| Grand Paragon Hotel      |
+| Resort KSL Hot Spring    |
+| New York Hotel           |
+| Hotel Amansari Nusajaya  |
+| Hotel Mutiara            |
+| Hotel Berjaya Waterfront |
+| Hotel Good Hope          |
+| Crystal Crown Hotel      |
+| Trove Hotel              |
 
 
 For the latest updates and information about all quarantine stations (including in other states), see the NADMA Facebook page [here](https://www.facebook.com/nadma.pmd/).
@@ -121,124 +81,22 @@ The most updated list of hotels can be found [here](http://www.nadma.gov.my/comp
 
 #### Selangor 
 
-
-<table>
-  <tr>
-   <td><strong>No</strong>
-   </td>
-   <td><strong>Nama Hotel/Hotel Name</strong>
-   </td>
-   <td><strong>Telephone Number</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-   <td>Marriott Putrajaya
-   </td>
-   <td>+603-89498888
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-2</p>
-
-   </td>
-   <td>Sama-Sama KLIA
-   </td>
-   <td>+603-87873333
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-3</p>
-
-   </td>
-   <td>Dorsett Grand Subang
-   </td>
-   <td>+6016-2011672
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-4</p>
-
-   </td>
-   <td>Hilton Petaling Jaya
-   </td>
-   <td>+603-76249000
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-5</p>
-
-   </td>
-   <td>Hilton Garden Inn Puchong
-   </td>
-   <td>+603-80841299
-   </td>
-  </tr>
-</table>
-
-
+| No | Nama Hotel/Hotel Name     | Telephone Number |
+|----|---------------------------|------------------|
+|  1 | Marriott Putrajaya        | +603-89498888    |
+|  2 | Sama-Sama KLIA            | +603-87873333    |
+|  3 | Dorsett Grand Subang      | +6016-2011672    |
+|  4 | Hilton Petaling Jaya      | +603-76249000    |
+|  5 | Hilton Garden Inn Puchong | +603-80841299    |
 
 #### Kuala Lumpur 
 
-
-<table>
-  <tr>
-   <td><strong>No</strong>
-   </td>
-   <td><strong>Nama Hotel/Hotel Name</strong>
-   </td>
-   <td><strong>Telephone Number</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-   <td>Grand Millennium Bukit Bintang
-   </td>
-   <td>+603-21174310
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-2</p>
-
-   </td>
-   <td>Istana KL
-   </td>
-   <td>+603-21419988
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-3</p>
-
-   </td>
-   <td>Impiana KLCC
-   </td>
-   <td>+603-21471111
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-4</p>
-
-   </td>
-   <td>Swiss Garden KL
-   </td>
-   <td>+6019-8823326
-   </td>
-  </tr>
-</table>
-
+| No | Nama Hotel/Hotel Name          | Telephone Number |
+|----|--------------------------------|------------------|
+|  1 | Grand Millennium Bukit Bintang | +603-21174310    |
+|  2 | Istana KL                      | +603-21419988    |
+|  3 | Impiana KLCC                   | +603-21471111    |
+|  4 | Swiss Garden KL                | +6019-8823326    |
 
 
 ### Response from JIM Regarding MC/SPR Exiting Malaysia 
