@@ -1,9 +1,6 @@
 ---
 layout: page
-toc: true
 ---
-
-# FAQ for Malaysians with SPR
 
 **_Disclaimer:_**
 
@@ -22,25 +19,6 @@ If you are a WP/EP/SP holder, you may be better served by [this group](https://t
 Take care and stay safe!
 
 ____
-
-
-# Table of Contents
-
-| Links                           | Notes   |
-| ------------------------------- | ------- |
-| [Non-PCA: Malaysia > Singapore] |         |
-| [Non-PCA: Singapore > Malaysia] |         |
-| [PCA]                           |         |
-| [Other Matters]                 | Passport renewal<br/>Miscellaneous FAQs |
-|                                 |         |
-
-## Appendix
-
-| Links                           | Notes   |
-| ------------------------------- | ------- |
-| [Appendix: Acronyms]            |         |
-| [Appendix: MCO Areas]           |         |
-| [Appendix: Others]              | HSO exemption letter to KKM<br/>Known list of hotels (JB/SG) |
 
 
 [Non-PCA: Malaysia > Singapore]: ./non-pca-sg-to-my.md
