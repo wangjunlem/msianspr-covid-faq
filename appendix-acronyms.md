@@ -16,6 +16,7 @@ The following list is in alphabetical order.
 | CMCO | Conditional Movement Control Order |
 | DGI | Director-General of Immigration |
 | EMCO | Enhanced Movement Control Order |
+| HSO | Home Surveillance Order |
 | JIM | Jabatan Imigresen Malaysia<br/>Immigration Department of Malaysia |
 | KSAB | Kompleks Sultan Abu Bakar<br/>Malaysian checkpoint at Second Link, corresponding to Tuas |
 | LoU | Letter of Undertaking (link) |
