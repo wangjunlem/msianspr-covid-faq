@@ -2,6 +2,7 @@
 layout: page
 menubar: appendix_menu
 hide_footer: true
+hide_hero: true
 ---
 
 # Appendix - Acronyms
