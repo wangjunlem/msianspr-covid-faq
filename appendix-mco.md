@@ -35,7 +35,7 @@ A nationwide mix of RMCO/CMCO/MCO will be imposed based on the announcement by P
 </table>
 
 
-*_ CMCO at Kuching, Samarahan, Serian, Sibu**, Sarikei and Miri, same period. All other districts to start 18 Jan - 31 Jan 2021._
+\* _CMCO at Kuching, Samarahan, Serian, Sibu**, Sarikei and Miri, same period. All other districts to start 18 Jan - 31 Jan 2021._
 
 _** MCO at Sibu, 16 Jan - 29 Jan 2021._
 
@@ -121,7 +121,7 @@ Note that this includes movement to/from all airports in the affected areas.
    <td>Penang
    </td>
    <td>Mukim 12 (Southwest Penang Island),
-<p>
+<br/>
 Mukim 13 (Northwest Penang Island)
    </td>
    <td>9 Nov - 14 Jan
