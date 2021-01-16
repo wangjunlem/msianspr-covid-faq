@@ -28,6 +28,7 @@ ____
 | [PCA]                           |         |
 | [Other Matters]                 | Passport renewal |
 |                                 | Miscellaneous FAQs |
+|                                 |         |
 | **Appendix**                    |         |
 | [Appendix: Acronyms]            |         |
 | [Appendix: MCO Areas]           |         |
