@@ -1,9 +1,9 @@
-- label: Appendix
+- label: Appendices
   items:
+    - name: List of Areas Under MCO
+      link: appendix-mco
     - name: Acronyms
       link: appendix-acronyms
-    - name: Areas Affected by MCO
-      link: appendix-mco
     - name: Appeal to MOH MY for Quarantine Exemption
       link: appendix-appeal-moh-my
     - name: Miscellaneous

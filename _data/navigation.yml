@@ -8,6 +8,5 @@
   link: pca
 - name: Other Matters
   link: other-matters
-- name: Appendix
-  link: appendix
-  link: appendix-acronyms
+- name: Appendices
+  link: appendix-mco
