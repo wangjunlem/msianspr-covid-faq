@@ -1,2 +1,4 @@
 # theme: jekyll-theme-cayman
-remote_theme: wangjunlem/clean-bulma-themefixed_navbar: top
+# theme: bulma-clean-theme
+remote_theme: wangjunlem/clean-bulma-theme
+fixed_navbar: top
