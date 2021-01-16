@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # FAQ for Malaysians with SPR
 
 **_Disclaimer:_**
