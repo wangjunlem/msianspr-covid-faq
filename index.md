@@ -10,17 +10,15 @@ _This document is meant for quick reference and is updated on a best effort basi
 
 _---_
 
-This document contains information that is most relevant to Malaysian citizens with Singapore Permanent Residence (SPR) status who are not travelling under any official schemes.
+This document contains information that is most relevant to Malaysian citizens with Singapore Permanent Residence (SPR) status.
 
 If you find any errors (links not working, outdated information) in the document, please leave a comment and we’ll rectify it as soon as we can. Segala kesulitan amat dikesali. 🤭
 
-If you’d like to join our little support group on Telegram, you can do so [here](https://t.me/joinchat/Q9FUYRwC_eE4ICr-WSSGAg).
+Take care and stay safe! :) #FlattenTheCurve
 
-If you are a WP/EP/SP holder, you may be better served by [this group](https://t.me/joinchat/Nu6nTh2FlWFgHB8KucUv8Q) on Telegram.
 
-Take care and stay safe!
+**- Jun Lem**
 
-____
 
 
 [Non-PCA: Malaysia > Singapore]: ./non-pca-sg-to-my.md
