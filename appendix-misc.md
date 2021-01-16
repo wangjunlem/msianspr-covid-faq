@@ -65,8 +65,3 @@ The most updated list of hotels can be found [here](http://www.nadma.gov.my/comp
 |  2 | Istana KL                      | +603-21419988    |
 |  3 | Impiana KLCC                   | +603-21471111    |
 |  4 | Swiss Garden KL                | +6019-8823326    |
-
-
-## Response from JIM Regarding MC/SPR Exiting Malaysia 
-
-![JIM Response](/assets/imigresen-response.jpg)
