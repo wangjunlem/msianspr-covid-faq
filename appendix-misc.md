@@ -39,7 +39,6 @@ In Johor:
 For the latest updates and information about all quarantine stations (including in other states), see the NADMA Facebook page [here](https://www.facebook.com/nadma.pmd/).
 
 
-
 ## Premium Hotels on NADMA Form 
 
 If you choose to use these premium hotels, you will need to liaise directly with the hotel for booking and transportation arrangements. Please show proof of booking and payment to the secretariat upon arrival at International Entry Point.

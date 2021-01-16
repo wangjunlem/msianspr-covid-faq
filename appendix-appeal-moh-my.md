@@ -21,7 +21,7 @@ Please write the following details and provide proof documents for further consi
 
 
 *   Name of Applicant
-*   Application for &lt;Name> + IC & Passport Number
+*   Application for &lt;Name&gt; + IC & Passport Number
 *   Phone & Email Address
 *   Intent of Appeal
     *   Quarantine exemption from stations
