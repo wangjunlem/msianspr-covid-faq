@@ -14,13 +14,9 @@ Please verify that your Re-entry Permit (REP) is still valid before exiting Sing
 
 Regarding the issue of myPASS for travel to Malaysia, if you are travelling:
 
-- by land
+- **by land**: ICA should not be asking for a myPASS. If they do, inform them that the Malaysian side will not ask for myPASS on entry.
 
-    ICA should not be asking for a myPASS. If they do, inform them that the Malaysian side will not ask for myPASS on entry.
-
-- by air
-
-    Airlines and immigration authorities may ask you to show your [myPASS/Travel Note](#is-applying-for-mypass-travel-note-still-necessary) because they liaise with the Malaysian High Comm. To be safe, please apply.
+- **by air**: Airlines and immigration authorities may ask you to show your [myPASS/Travel Note](#is-applying-for-mypass-still-necessary) because they liaise with the Malaysian High Comm. To be safe, please apply.
 
 ## What do I need to do to enter Malaysia?
 
@@ -29,11 +25,10 @@ You will need to print out, fill in, and sign a [Letter of Undertaking](http://w
 At least 3 working days before entering, you should also: 
 
 1. download MySejahtera
-2. fill in the form located at [this](#qr-code-for-nadma-registration) QR code
-3. make payment for all costs (accommodation, swab test, operational costs if foreigner) at [MySafeTravel](https://safetravel.myeg.com.my) _* note - this is not recommended for now due to rule changes to MCO_
-4. ~~apply for a [myPASS](https://mypass.mhc.org.sg/)/Travel Note from the High Commission of Malaysia~~ _(practically optional, see [note below](#is-applying-for-mypass-travel-note-still-necessary))_
+1. make payment for all costs (accommodation, swab test, operational costs if foreigner) at [MySafeTravel](https://safetravel.myeg.com.my) _(not recommended for now due to rule changes to MCO)_
+1. ~~apply for a [myPASS](https://mypass.mhc.org.sg/)/Travel Note from the High Commission of Malaysia~~ _(practically optional, see [note below](#is-applying-for-mypass-still-necessary))_
 
-If you are entering the country with non-Malaysian citizen(s) (e.g. your spouse or children who holds non-Malaysian citizenship, and including those with Malaysian PR), see below: [What if my spouse/children are going over with me to Malaysia?](#what-if-my-spouse-children-are-going-over-with-me-to-malaysia)
+If you are entering the country with non-Malaysian citizen(s) (e.g. your spouse or children who holds non-Malaysian citizenship, and including those with Malaysian PR), see below: [What if my spouse/children are going over with me to Malaysia?](#what-if-my-spousechildren-are-going-over-with-me-to-malaysia)
 
 If you are entering Sabah or Sarawak, please take note of the latest SOPs found on [this page](https://hednp.sabah.gov.my). Take note that non-Sabahans may need approval to enter the state; see more details [here](https://phednp.wixsite.com/website). Fill in the Health Declaration Form [here](http://sm.jknsabah.gov.my/HDF/hdf.php) within 12 hours of your arrival. 
 
@@ -70,13 +65,13 @@ The validity period will be stated on the document that you have applied for, in
 Please re-apply for the passes if you are not travelling within the stated validity period(s).
 
 
-## Is applying for myPASS/Travel Note still necessary? 
+## Is applying for myPASS still necessary? 
 
-So far, most anecdotes show that both Singaporean and Malaysian authorities do not check if you have a myPASS/Travel Note before exiting Singapore and entering Malaysia respectively. Separately, [JIM has confirmed](#response-from-jim-regarding-mc-spr-exiting-malaysia) that there is no restriction of entry into Malaysia as a Malaysian citizen.
+So far, most anecdotes show that both Singaporean and Malaysian authorities do not check if you have a myPASS/Travel Note before exiting Singapore and entering Malaysia respectively. Separately, [JIM has confirmed](/appendix-response-jim) that there is no restriction of entry into Malaysia as a Malaysian citizen.
 
 However, the directive to apply myPASS is given by the MHC, and airlines may still ask for a valid myPASS before travel.
 
-If you want to err on the side of caution, you may apply. In the event of emergency travel or if you have not received your myPASS before you travel, the recommendation at the moment is to travel regardless and explain your situation to the authorities (if needed) that Malaysian citizens are not barred from re-entering Malaysia using the [JIM confirmation](#response-from-jim-regarding-mc-spr-exiting-malaysia) and [this news article](https://www.malaymail.com/news/malaysia/2020/12/28/malaysians-abroad-cannot-be-prevented-from-returning-says-ismail-sabri/1935587).
+If you want to err on the side of caution, you may apply. In the event of emergency travel or if you have not received your myPASS before you travel, the recommendation at the moment is to travel regardless and explain your situation to the authorities (if needed) that Malaysian citizens are not barred from re-entering Malaysia using the [JIM confirmation](/appendix-response-jim) and [this news article](https://www.malaymail.com/news/malaysia/2020/12/28/malaysians-abroad-cannot-be-prevented-from-returning-says-ismail-sabri/1935587).
 
 
 ## Is there anything to do/note before entering Malaysia on the day of my travel? 
@@ -96,7 +91,7 @@ Bring along the following with you:
 5. cash of at least RM400 (if payment not made ahead of time)
 6. a printed and signed Letter of Undertaking (LoU) (optional, can be filled on arrival)
 
-Do not worry if you don’t have a MyPass, see: [Is applying for myPASS/Travel Note still necessary?](#is-applying-for-mypass-travel-note-still-necessary)
+Do not worry if you don’t have a MyPass, see: [Is applying for myPASS still necessary?](#is-applying-for-mypass-still-necessary)
 
 If you are travelling in via the land checkpoints, make sure that you are expected to reach the checkpoints while they are open. For BSI, the operating hours are 7am to 7pm; for KSAB, the operating hours are 8am to 12am. See also: [How can I enter Malaysia from Singapore via the land checkpoints?](#how-can-i-enter-malaysia-from-singapore-via-the-land-checkpoints)
 
@@ -173,7 +168,7 @@ Follow the date on the wristband.
 
 ## Can I choose which hotel to stay in? 
 
-You may put in a request with [APM](#what-do-the-acronyms-mean) on the day of your arrival for your choice of hotel/room if:
+You may put in a request with [APM](/appendix-acronyms) on the day of your arrival for your choice of hotel/room if:
 
 
 
@@ -255,7 +250,7 @@ Yes, you can. From 7th December onwards until 12th January, travelling between a
 
 For those travelling from 13th January onwards:
 
-Take note that inter-state travel is not allowed for the whole country, and states under MCO will not allow inter-district travel. See: [Known Areas Affected By MCO](#known-areas-affected-by-mco)
+Take note that inter-state travel is not allowed for the whole country, and states under MCO will not allow inter-district travel. See: [Known Areas Affected By MCO](/appendix-mco)
 
 You will have to apply for a movement permit using the form [here](https://www.rmp.gov.my/docs/default-source/Penerbitan/borang-permit-pergerakan-pkpb.pdf?sfvrsn=2) at the nearest police station. Please send to your friends/relatives the photos of:
 

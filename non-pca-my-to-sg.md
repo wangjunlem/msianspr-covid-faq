@@ -10,11 +10,11 @@ hide_footer: true
 
 If you are a SPR and travelling alone or with other long-term pass holders, you will have to show your long-term pass(es) - SG NRIC or FIN - to the immigration officers. Please also prepare a copy of your REP in case they ask for it. 
 
-You do not need a MyTravelPass at the moment (see [announcement (video) by DGI](https://youtu.be/oRNEHKjrel4?t=323), [JIM FB post](https://www.facebook.com/imigresen/posts/3576029612463468), [response from enquiry to MyTravelPass](#response-from-jim-regarding-mc-spr-exiting-malaysia)); however, please check official sources before your travel date to ensure that this is still true on the date of your departure. If in doubt and if you have time, it is recommended to apply for [MyTravelPass](https://mtp.imi.gov.my/myTravelPass/main?) approval 5 working days before your date of departure.
+You do not need a MyTravelPass at the moment (see [announcement (video) by DGI](https://youtu.be/oRNEHKjrel4?t=323), [JIM FB post](https://www.facebook.com/imigresen/posts/3576029612463468), [response from enquiry to MyTravelPass](/appendix-response-jim)); however, please check official sources before your travel date to ensure that this is still true on the date of your departure. If in doubt and if you have time, it is recommended to apply for [MyTravelPass](https://mtp.imi.gov.my/myTravelPass/main?) approval 5 working days before your date of departure.
 
 Note that holding SPR In-Principle Approval (IPA) does not constitute being a PR, so you will need to apply for a MyTravelPass to exit.
 
-If you are travelling with others, see: [What if my spouse/children are going over with me to Singapore?](#what-if-my-spouse-children-are-going-over-with-me-to-singapore)
+If you are travelling with others, see: [What if my spouse/children are going over with me to Singapore?](#what-if-my-spousechildren-are-going-over-with-me-to-singapore)
 
 
 ## What do I need to do to enter Singapore? 
@@ -70,7 +70,7 @@ All related costs (tests, SHN, medical fees if any) will no longer be waived by 
 
 You may want to download TraceTogether and/or SingPass, as well as the StayHome@SG app.
 
-If you are driving into, or passing through any districts/states with any form of MCO in effect, please apply for a movement permit using the form [here](https://www.rmp.gov.my/docs/default-source/Penerbitan/borang-permit-pergerakan-pkpb.pdf?sfvrsn=2) at the nearest police station. This applies to travellers departing from KLIA/KLIA2 as well. See: [Known Areas Affected By MCO](#known-areas-affected-by-mco) 
+If you are driving into, or passing through any districts/states with any form of MCO in effect, please apply for a movement permit using the form [here](https://www.rmp.gov.my/docs/default-source/Penerbitan/borang-permit-pergerakan-pkpb.pdf?sfvrsn=2) at the nearest police station. This applies to travellers departing from KLIA/KLIA2 as well. See: [Known Areas Affected By MCO](/appendix-mco)
 
 ## How long is the SHN going to be? 
 
