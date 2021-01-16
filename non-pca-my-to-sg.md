@@ -22,11 +22,6 @@ If you are entering Singapore with a non-SC/non-SPR, please ensure that they hav
 
 From 27 November 2020 onwards, to enter Singapore, non-SC/non-SPR travellers will also require a valid negative RT-PCR COVID-19 swab test within 72 hours before departure to Singapore. See [press release](https://www.moh.gov.sg/news-highlights/details/updated-border-measures-for-travellers-from-malaysia-and-japan) and [info sheet](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf) for more details.
 
-<span style="text-decoration:underline;">If you are entering Singapore before 22 November 2020, 2359hrs:</span>
-
-If you left Singapore after 27 March 2020 and/or you are renting a place, you may need to arrange for accommodation to serve your SHN. See: [Can I serve my SHN at my residence in Singapore?](#can-i-serve-my-shn-at-my-residence-in-singapore)
-
-
 ## How can I enter Singapore from Malaysia via the land checkpoints? 
 
 If you have your own vehicle (car/motorcycle), you may head to either checkpoint during their operating hours.
@@ -51,17 +46,6 @@ _You are strongly advised to not abuse this, please, and to only travel if absol
 
 No. You must serve a [14-day SHN](https://www.moh.gov.sg/news-highlights/details/updated-border-measures-for-travellers-from-malaysia-and-japan) at a SHN dedicated facility, including any RGL travellers. For normal travellers, all prevailing costs for tests and accommodation apply. (If you are travelling under RGL, please check with the authorities, but the likelihood is that you will have to pay for the prevailing costs as well.)
 
-<span style="text-decoration:underline;">If you are entering Singapore before 22 November 2020, 2359hrs:</span>
-
-If you have a travel history to <span style="text-decoration:underline;">Sabah</span> in the last 14 days and are entering Singapore after 14th Oct 2359hrs, no, you must serve it at a SHN dedicated facility for 14 days. You will bear the full payment if you have left Singapore from 27 March 2020 onwards.
-
-The SG government’s stance is that you are strongly encouraged to have a dedicated room and toilet in your residence while serving your SHN, and minimise contact with other residents/tenants.
-
-If you are renting a room/unit, please ensure that the landlord/other tenants are agreeable to your SHN, as they may have to report this to their own companies. If there are disagreements, you are advised to arrange for your own SHN accommodation.
-
-Some suggestions for SHN accommodation can be found in the appendix: [Hotels for Serving Stay-Home Notice](#hotels-for-serving-stay-home-notice)
-
-
 ## What if my spouse/children are going over with me to Singapore? 
 
 If you are exiting the country with Malaysian citizen(s) who do not qualify for any approval exemptions listed in the JIM memo [here](https://www.facebook.com/imigresen/posts/3525366314196465) (latest as of 7th October 2020; please check JIM page in case this becomes outdated), then you will need to apply for [MyTravelPass](https://mtp.imi.gov.my/myTravelPass/main?) for them to exit the country at least 5 working days before your journey. Include all relevant supporting documents - your SPR NRIC and reentry permit, marriage/birth certificates, and an appeal letter at the bare minimum. Please submit your application only once until there is a response on your application.
@@ -85,32 +69,9 @@ You may want to download TraceTogether and/or SingPass, as well as the StayHome@
 
 If you are driving into, or passing through any districts/states with any form of MCO in effect, please apply for a movement permit using the form [here](https://www.rmp.gov.my/docs/default-source/Penerbitan/borang-permit-pergerakan-pkpb.pdf?sfvrsn=2) at the nearest police station. This applies to travellers departing from KLIA/KLIA2 as well. See: [Known Areas Affected By MCO](#known-areas-affected-by-mco) 
 
-
-## What should I expect about checks during my SHN? 
-
-This section is no longer relevant if you enter after 23 November 2020 until further notice.
-
-You may be called to confirm that you are at your SHN location. Most commonly, personnel contracted by MOH will call you via WhatsApp and request that you turn on your camera to show your surrounding area, the wristband being worn correctly, and the gateway is turned on.
-
-There is also the possibility of random checks conducted in-person.
-
-See ICA’s page [here](https://www.ica.gov.sg/covid-19/shn), enforcement checks section.
-
-
 ## How long is the SHN going to be? 
 
-<span style="text-decoration:underline;">If you are entering Singapore after 22 November 2020, 2359hrs:</span>
-
 14 days at a SHN dedicated facility. See [here](https://www.moh.gov.sg/news-highlights/details/updated-border-measures-for-travellers-from-malaysia-and-japan) for the latest update.
-
-<span style="text-decoration:underline;">If you are entering Singapore before 22 November 2020, 2359hrs:</span>
-
-If you have a travel history to Sabah within the last 14 days, it is 14 days at SHN dedicated facilities if you enter after 14th Oct, 2359hrs. See [here](https://www.facebook.com/sghealthministry/posts/10158568207415631) for the latest update.
-
-Otherwise, it is 7 days.
-
-If you have travel history outside of Malaysia, please refer to the ICA site [here](https://www.ica.gov.sg/covid-19/arrivalsg) for the latest guidelines.
-
 
 ## How much will the entirety of the SHN cost? 
 
