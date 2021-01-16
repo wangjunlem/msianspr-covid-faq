@@ -40,7 +40,7 @@ If you have your own vehicle (car/motorcycle), you may head to either checkpoint
 
 Otherwise, you may only enter via BSI/Woodlands. You may choose to walk across the Causeway. 
 
-Alternatively, you may use the shuttle bus arranged by the Johor government, chargeable at S$1 (note: <span style="text-decoration:underline;">cannot</span> be paid with RM3, no change provided). They operate hourly from 7.30am to 6.30pm (except 1.30pm for lunch break). See [here](https://www.facebook.com/officialpaj/posts/3930626316950618) for timetable.
+Alternatively, you may use the shuttle bus arranged by the Johor government, chargeable at S$1 (note: cannot be paid with RM3, no change provided). They operate hourly from 7.30am to 6.30pm (except 1.30pm for lunch break). See [here](https://www.facebook.com/officialpaj/posts/3930626316950618) for timetable.
 
 Take note of the operating hours at each checkpoint in Malaysia (BSI operates from 7am to 7pm; KSAB operates from 8am to 12am for light vehicles). The Singapore checkpoints operate 24 hours a day.
 
@@ -75,7 +75,7 @@ If you want to err on the side of caution, you may apply. In the event of emerge
 
 ## Is there anything to do/note before entering Malaysia on the day of my travel? 
 
-All travellers are now <span style="text-decoration:underline;">strongly</span> recommended to make payment for their accommodation, swab tests, and operational costs (for foreigners) with [MySafeTravel](https://safetravel.myeg.com.my/) before entering the country.
+All travellers are now recommended to make payment for their accommodation, swab tests, and operational costs (for foreigners) with [MySafeTravel](https://safetravel.myeg.com.my/) before entering the country.
 
 You may also want to do a pre-departure swab test. See [here](#do-i-need-to-do-a-swab-test-before-entering-malaysia).
 
@@ -98,8 +98,6 @@ You may want to pack some (dry) food for consumption while going through the pro
 
 Do not bring: 
 
-
-
 1. drugs (unless for medical purposes - it’s recommended to bring along a doctor’s note/prescription)
 2. drinking alcohol
 3. cigarettes
@@ -112,7 +110,7 @@ They will be confiscated by the team during bag checks and there is no guarantee
 
 If you’re going back as a normal returning Malaysian, it is not mandatory to do a swab test; you will be swabbed on entry into Malaysia and be quarantined for 10 days.
 
-However, if you complete an RT-PCR (<span style="text-decoration:underline;">not</span> RTK antigen) swab test within 72 hours before departure to Malaysia, you will skip the arrival swab and have your quarantine shortened to 7 days. See [here](#how-much-will-the-quarantine-cost) for costs and [here](#how-many-days-is-the-quarantine-going-to-be) for explanation and sources. 
+However, if you complete an RT-PCR (**not** RTK antigen) swab test within 72 hours before departure to Malaysia, you will skip the arrival swab and have your quarantine shortened to 7 days. See [here](#how-much-will-the-quarantine-cost) for costs and [here](#how-many-days-is-the-quarantine-going-to-be) for explanation and sources. 
 
 For those returning from Singapore, you can find a list of RT-PCR swab test providers [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers).
 

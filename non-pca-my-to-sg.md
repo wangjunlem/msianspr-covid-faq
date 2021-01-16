@@ -42,8 +42,6 @@ _You are strongly advised to not abuse this, please, and to only travel if absol
 
 ## Can I serve my SHN at my residence in Singapore? 
 
-<span style="text-decoration:underline;">If you are entering Singapore after 22 November 2020, 2359hrs:</span>
-
 No. You must serve a [14-day SHN](https://www.moh.gov.sg/news-highlights/details/updated-border-measures-for-travellers-from-malaysia-and-japan) at a SHN dedicated facility, including any RGL travellers. For normal travellers, all prevailing costs for tests and accommodation apply. (If you are travelling under RGL, please check with the authorities, but the likelihood is that you will have to pay for the prevailing costs as well.)
 
 ## What if my spouse/children are going over with me to Singapore? 
