@@ -26,7 +26,7 @@ ____
 | [Non-PCA: Singapore > Malaysia] | |
 | [PCA] | |
 | [Other Matters] | Passport renewal |
-| | Miscellaneous FAQs | |
+| | Miscellaneous FAQs |
 | **Appendix** | |
 | [Appendix: Acronyms] | |
 | [Appendix: MCO Areas] | |
