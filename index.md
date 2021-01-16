@@ -2,6 +2,7 @@
 layout: page
 title: Travel FAQ for Malaysians with SPR
 menubar: misc_links_menu
+hide_footer: true
 ---
 
 **_Disclaimer:_**

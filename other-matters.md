@@ -3,6 +3,7 @@ layout: page
 toc: true
 toc_title: Questions
 title: Other Matters
+hide_footer: true
 ---
 
 ## Passport Renewal 

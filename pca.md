@@ -3,6 +3,7 @@ layout: page
 toc: true
 toc_title: Questions
 title: "Travelling: PCA"
+hide_footer: true
 ---
 
 ## Does the Periodic Commuting Arrangement (PCA) apply to us SPRs?

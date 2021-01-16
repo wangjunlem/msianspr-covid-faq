@@ -1,6 +1,7 @@
 ---
 layout: page
 menubar: appendix_menu
+hide_footer: true
 ---
 
 ## Appendix 

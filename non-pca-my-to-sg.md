@@ -3,6 +3,7 @@ layout: page
 toc: true
 title: "Travelling: Malaysia ⇾ Singapore (non-PCA)"
 toc_title: Questions
+hide_footer: true
 ---
 
 ## What do I need to do to exit Malaysia? 
