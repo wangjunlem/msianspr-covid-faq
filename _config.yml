@@ -1,6 +1,7 @@
 # theme: jekyll-theme-cayman
 # theme: bulma-clean-theme
 remote_theme: wangjunlem/clean-bulma-theme
+baseurl: "/msianspr-covid-faq"
 plugins:
 - github-pages
 
