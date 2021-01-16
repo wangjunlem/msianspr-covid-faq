@@ -1,10 +1,5 @@
-<p style="text-align: center; font-size: 28px; font-weight: 700">FAQ for Malaysians with SPR</p>
-
-<p style="text-align: center; font-size: 40px; line-height: 40px; vertical-align: bottom; height: 12px; font-weight: 700;">
-<a href="https://wangjunlem.github.io/msianspr-covid-faq">Link to Website</a></p>
-<p style="text-align: center; font-style: italic; font-size:13px">(click on it, it'll be good, I promise, please)
-</p>
-----
+# [FAQ for Malaysians with SPR](https://wangjunlem.github.io/msianspr-covid-faq) <sub><sup><sub>(it's a link, click on it :D)</sub></sup></sub>
+<br/>
 
 **_Disclaimer:_**
 
