@@ -1,3 +1,8 @@
+---
+layout: page
+menubar: appendix_menu
+---
+
 # Appendix - MCO Areas
 
 The entire country is on RMCO until 31 Mar 2020.

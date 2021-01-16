@@ -1,3 +1,8 @@
+---
+layout: page
+menubar: appendix_menu
+---
+
 # Appendix - Acronyms
 
 The following list is in alphabetical order.

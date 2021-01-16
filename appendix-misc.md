@@ -1,3 +1,8 @@
+---
+layout: page
+menubar: appendix_menu
+---
+
 ## Appendix 
 
 ### Emailing MOH MY for Special Consideration of Hotel Quarantine Exemption 
