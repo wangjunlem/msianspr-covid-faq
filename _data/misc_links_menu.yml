@@ -1,0 +1,32 @@
+- label: Useful Links
+  items:
+    - name: Malaysia
+      items:
+        - name: MyTravelPass
+          link: https://mtp.imi.gov.my/myTravelPass/main
+        - name: myPASS / Travel Note
+          link: https://mypass.mhc.org.sg/
+        - name: Malaysian High Commission FAQ
+          link: https://tinyurl.com/jervois301
+        - name: MySejahtera
+          link: https://mysejahtera.malaysia.gov.my/intro_en/#team
+    - name: Singapore
+      items:
+        - name: MOH Covid-19 Updates
+          link: https://www.moh.gov.sg/covid-19
+        - name: HealthHub
+          link: https://www.healthhub.sg/
+        - name: Pre-arrival Health Declaration
+          link: https://eservices.ica.gov.sg/sgarrivalcard/
+        - name: SafeTravel
+          link: https://safetravel.ica.gov.sg/health/
+    - name: Telegram Groups
+      items:
+        - name: SPRs Chat
+          link: https://t.me/joinchat/Q9FUYRwC_eE4ICr-WSSGAg
+        - name: WP/SP/EP Chat
+          link: https://t.me/joinchat/Nu6nTh2FlWFgHB8KucUv8Q
+        - name: Majlis Keselamatan Negara (MKN)
+          link: https://t.me/MKNRasmi
+        - name: Gov.sg
+          link: https://t.me/Govsg
