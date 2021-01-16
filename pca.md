@@ -5,13 +5,12 @@ toc_title: Questions
 title: "Travelling: PCA"
 ---
 
-
-### Does the Periodic Commuting Arrangement (PCA) apply to us SPRs?
+## Does the Periodic Commuting Arrangement (PCA) apply to us SPRs?
 
 Yes, if you are employed by a company. Please consult with your company’s HR on the exact procedures.
 
 
-### What are the travel requirements, conditions, restrictions?
+## What are the travel requirements, conditions, restrictions?
 
 You must travel in and out via the land borders (i.e. Woodlands/BSI and Tuas/KSAB).
 
@@ -22,16 +21,16 @@ You can be out of Singapore for up to 60 days per PCA application, and will have
 The total number of PCA travellers per day is subject to a daily quota (unknown number). Please make arrangements with your employer ahead of time.
 
 
-### I am self-employed/unemployed. Am I allowed to apply for PCA?
+## I am self-employed/unemployed. Am I allowed to apply for PCA?
 
 No. The application for PCA requires the company to apply for you with a CorpPass account.
 
 
-### Do I need to quarantine after returning from Singapore to Malaysia?
+## Do I need to quarantine after returning from Singapore to Malaysia?
 
 You will need to quarantine for the first 3 days while waiting for results. During this time, even if you are staying home, you should minimise contact with others.
 
 
-### Do I need to quarantine after returning from Malaysia to Singapore?
+## Do I need to quarantine after returning from Malaysia to Singapore?
 
 Yes. Due to increase in Covid-19 cases in Malaysia, Singapore now imposes a 14-day SHN at SDFs. payable by the employer. The final cost arrangement between you and your employer will differ from company to company.
