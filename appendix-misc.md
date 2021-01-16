@@ -67,3 +67,4 @@ The most updated list of hotels can be found [here](http://www.nadma.gov.my/comp
 
 ### Response from JIM Regarding MC/SPR Exiting Malaysia 
 
+![JIM Response](/assets/imigresen-response.jpg)
