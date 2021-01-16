@@ -22,8 +22,9 @@ Effective date: until **26 Jan 2021**
 ## Additional Notes
 
 ### Sarawak
+
 | MCO Type | Areas Affected | Effective Date |
 |:--------:|----------------|:--------------:|
 | MCO | Sibu | 16 Jan - 29 Jan 2021 |
-| CMCO | Kuching, Samarahan, Serian, Sarikei, Miri | 16 Jan - 31 Jan 2021
-| CMCO | Sri Aman, Betong, Kapit, Mukah, Bintulu, Limbang | 18 Jan - 31 Jan 2021
+| CMCO | Kuching, Samarahan, Serian, Sarikei, Miri | 16 Jan - 31 Jan 2021 |
+| CMCO | Sri Aman, Betong, Kapit, Mukah, Bintulu, Limbang | 18 Jan - 31 Jan 2021 |
