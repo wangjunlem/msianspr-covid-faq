@@ -135,8 +135,8 @@ For normal accommodation, it will cost RM150/night.
 
 Non-Malaysians also have to pay a fixed administrative cost of RM2600/person.
 
-|  | 10 days | 7 days (see here) |
-|-|-|-|
+|  | 10 days | 7 days (see [here](#how-many-days-is-the-quarantine-going-to-be)) |
+|-|:-:|:-:|
 | Malaysian | First person:<br>RM1500<br><br>Second person:<br>RM500<br><br>Third person (6y/o and below):<br>free | First person: <br>RM1050<br><br>Second person: <br>RM350<br>  <br>Third person (6y/o and below):<br>free |
 | Non-Malaysian | First person:<br>RM1500 + RM2600 = RM4100<br><br>Second person:<br>RM500 + RM2600 = RM3100<br><br>Third person (6y/o and below):<br>RM2600 | First person:<br>RM1050 + RM2600 = RM3650<br><br>Second person:<br>RM350 + RM2600 = RM2950<br><br>Third person (6y/o and below):<br>RM2600 |
 
@@ -148,8 +148,8 @@ For swab tests, you will be swabbed a day or two before the end of quarantine.
 
 Those who have done a pre-departure RT-PCR swab test within 72 hours before departure to Malaysia will not be required to do an arrival swab (on the condition that they do not show any symptoms).
 
-|  | WITHOUT pre-departure RT-PCR swab 72 hours before departure to Malaysia | WITH pre-departure RT-PCR swab 72 hours before departure to Malaysia AND no symptoms (see here) |
-|-|-|-|
+|  | **WITHOUT** pre-departure RT-PCR swab<br>72 hours before departure to Malaysia | **WITH** pre-departure RT-PCR swab<br>72 hours before departure to Malaysia <br>AND no symptoms (see [here](#how-many-days-is-the-quarantine-going-to-be)) |
+|-|:-:|:-:|
 | Malaysian | RM150 x 2 = RM300<br>(arrival swab and end of quarantine swab) | RM150<br>(end of quarantine swab) |
 | Non-Malaysian | RM250 x 2 = RM500<br>(arrival swab and end of quarantine swab) | RM250<br>(end of quarantine swab) |
 
