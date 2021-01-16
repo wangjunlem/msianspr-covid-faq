@@ -6,51 +6,11 @@ hide_footer: true
 
 ## Appendix 
 
-### Emailing MOH MY for Special Consideration of Hotel Quarantine Exemption 
-
-**NOTE: **Please understand that in almost all cases, unless there are truly extenuating circumstances, you will **not** be granted exemption from quarantine. 
-
-Unless there is a need (**NOT** a want), please be more understanding, and do not take up unnecessary time and resources from MOH appealing with ridiculous and selfish reasons (i.e. you want to spend quarantine at home with your family for leisure).
-
-As the Malay saying goes: _siapa yang makan cili, dia yang terasa pedas._
-
-Please write the following details and provide proof documents for further consideration:
-
-
-
-*   Name of Applicant
-*   Application for &lt;Name> + IC & Passport Number
-*   Phone & Email Address
-*   Intent of Appeal
-    *   Quarantine exemption from stations
-    *   Visit sick relative
-    *   Attending funeral
-    *   Seeking treatment at clinic or hospital for dialysis or other ailments
-*   Status of Citizenship (Malaysian/Non-Malaysian, scanned IC & passport)
-*   Relevant Documents According to Case
-    *   Medical records/report
-    *   Death certificate for funeral
-    *   Permission for hospital admission in Malaysia
-*   Location of Funeral/Sick Relative Visit
-*   Travel Details
-    *   Flight/road
-    *   Travel date
-    *   Port of entry
-*   Full Home Address/Contact Number (for home quarantine)
-
-Email the letter to [hso@moh.gov.my](mailto:hso@moh.gov.my) and [cprc@moh.gov.my](mailto:cprc@moh.gov.my).
-
-_Source (Chinese): [https://jomshow.com/2020/08/23/back-my-appeal-to-moh/](https://jomshow.com/2020/08/23/back-my-appeal-to-moh/)_
-
-
 ### Hotels for Serving Stay-Home Notice 
 
 This list is not exhaustive and is not meant to be an endorsement of any hotel/facility.
 
 [https://docs.google.com/document/d/1Rp7iC1MuLlHABuE-RHwbnXVGXPKNcMel_eMcJWcxmFU/edit](https://docs.google.com/document/d/1Rp7iC1MuLlHABuE-RHwbnXVGXPKNcMel_eMcJWcxmFU/edit)
-
-
-### 
 
 
 ### Last Known Hotels for Quarantine in Malaysia 
