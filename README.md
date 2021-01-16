@@ -26,12 +26,12 @@ ____
 | [Non-PCA: Singapore > Malaysia] | |
 | [PCA] | |
 | [Other Matters] | Passport renewal |
-| | Miscellaneous FAQs
+| | Miscellaneous FAQs |
 | **Appendix** | 
 | [Appendix: Acronyms] |
 | [Appendix: MCO Areas] |
 | [Appendix: Others] | HSO exemption letter to KKM |
-| | Known list of hotels (JB/SG)
+| | Known list of hotels (JB/SG) |
 
 
 [Non-PCA: Malaysia > Singapore]: ./non-pca-sg-to-my.md
