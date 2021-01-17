@@ -7,6 +7,9 @@ hide_hero: true
 
 # Appendix - Acronyms
 
+{{ site.github.latest_release | jsonify }}
+{{ site.github.latest_release | inspect }}
+
 The following list is in alphabetical order.
 
 | Acronym | Meaning |
