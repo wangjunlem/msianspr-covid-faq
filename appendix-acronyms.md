@@ -10,6 +10,8 @@ hide_hero: true
 {{ site.github.latest_release | jsonify }}
 {{ site.github.latest_release | inspect }}
 
+{{ site.github | inspect }}
+
 The following list is in alphabetical order.
 
 | Acronym | Meaning |
