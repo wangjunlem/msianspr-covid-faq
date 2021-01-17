@@ -12,7 +12,7 @@ The definition of each type of MCO is given [here](/appendix-acronyms).
 
 ## Current Status
 
-The entire country is on RMCO until 31 Mar 2020.
+The entire country is on RMCO until 31 Mar 2021.
 
 A nationwide mix of RMCO/CMCO/MCO will be imposed based on the announcement by PM Muhyiddin on 11 Jan 2021.
 
