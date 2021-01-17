@@ -1,6 +1,6 @@
 # theme: jekyll-theme-cayman
-# theme: bulma-clean-theme
-remote_theme: wangjunlem/bulma-clean-theme
+theme: bulma-clean-theme
+# remote_theme: wangjunlem/bulma-clean-theme
 plugins:
 - github-pages
 
