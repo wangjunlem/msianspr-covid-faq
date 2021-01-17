@@ -10,12 +10,13 @@ hide_footer: true
 
 If you are a SPR and travelling alone or with other long-term pass holders, you will have to show your long-term pass(es) - SG NRIC or FIN - to the immigration officers. Please also prepare a copy of your REP in case they ask for it. 
 
-You do not need a MyTravelPass at the moment (see [announcement (video) by DGI](https://youtu.be/oRNEHKjrel4?t=323), [JIM FB post](https://www.facebook.com/imigresen/posts/3576029612463468), [response from enquiry to MyTravelPass](/appendix-response-jim)); however, please check official sources before your travel date to ensure that this is still true on the date of your departure. If in doubt and if you have time, it is recommended to apply for [MyTravelPass] approval 5 working days before your date of departure.
+You do not need a MyTravelPass at the moment (see [announcement (video) by DGI](https://youtu.be/oRNEHKjrel4?t=323), [JIM FB post](https://www.facebook.com/imigresen/posts/3576029612463468), [response from enquiry to MyTravelPass](/appendix-response-jim)); however, please check official sources before your travel date to ensure that this is still true on the date of your departure. If in doubt and if you have time, it is recommended to apply for [MyTravelPass] approval 5 working days* before your date of departure.
 
 Note that holding SPR In-Principle Approval (IPA) does not constitute being a PR, so you will need to apply for a MyTravelPass to exit.
 
 If you are travelling with others, see: [What if my spouse/children are going over with me to Singapore?](#what-if-my-spousechildren-are-going-over-with-me-to-singapore)
 
+\* _Please expect delays in the approval process due to the existing [nationwide MCO][Appendix MCO]._
 
 ## What do I need to do to enter Singapore? 
 
@@ -51,12 +52,13 @@ No. You must serve a [14-day SHN](https://www.moh.gov.sg/news-highlights/details
 
 ## What if my spouse/children are going over with me to Singapore? 
 
-If you are exiting the country with Malaysian citizen(s) who do not qualify for any approval exemptions listed in the JIM memo [here](https://www.facebook.com/imigresen/posts/3525366314196465) (please check JIM page in case this becomes outdated), then you will need to apply for [MyTravelPass] for them to exit the country at least 5 working days before your journey. Include all relevant supporting documents - your SPR NRIC and reentry permit, marriage/birth certificates, and an appeal letter at the bare minimum. Please submit your application only once until there is a response on your application.
+If you are exiting the country with Malaysian citizen(s) who do not qualify for any approval exemptions listed in the JIM memo [here](https://www.facebook.com/imigresen/posts/3525366314196465) (please check JIM page in case this becomes outdated), then you will need to apply for [MyTravelPass] for them to exit the country at least 5 working days\* before your journey. Include all relevant supporting documents - your SPR NRIC and reentry permit, marriage/birth certificates, and an appeal letter at the bare minimum. Please submit your application only once until there is a response on your application.
 
 You will also need to [submit an appeal](https://form.gov.sg/#!/5e3648e9405c180011dc5f9c) to ICA for entry to Singapore for people not holding SPR; see [here](https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process) for more info. Non-SC/non-SPR travellers will also require a valid negative COVID-19 to enter Singapore. See [here](https://www.moh.gov.sg/news-highlights/details/updated-border-measures-for-travellers-from-malaysia-and-japan) for more details.
 
 When exiting Malaysia, the current rule is that you (as the SPR) must exit together with any travellers under 12 who have gained the special approval on MyTravelPass.
 
+\* _Please expect delays in the approval process due to the existing [nationwide MCO][Appendix MCO]._
 
 ## Is there anything to do/note before I enter Singapore? 
 
