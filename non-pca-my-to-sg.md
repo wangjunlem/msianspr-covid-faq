@@ -10,7 +10,7 @@ hide_footer: true
 
 If you are a SPR and travelling alone or with other long-term pass holders, you will have to show your long-term pass(es) - SG NRIC or FIN - to the immigration officers. Please also prepare a copy of your REP in case they ask for it. 
 
-You do not need a MyTravelPass at the moment (see [announcement (video) by DGI](https://youtu.be/oRNEHKjrel4?t=323), [JIM FB post](https://www.facebook.com/imigresen/posts/3576029612463468), [response from enquiry to MyTravelPass](/appendix-response-jim)); however, please check official sources before your travel date to ensure that this is still true on the date of your departure. If in doubt and if you have time, it is recommended to apply for [MyTravelPass](https://mtp.imi.gov.my/myTravelPass/main?) approval 5 working days before your date of departure.
+You do not need a MyTravelPass at the moment (see [announcement (video) by DGI](https://youtu.be/oRNEHKjrel4?t=323), [JIM FB post](https://www.facebook.com/imigresen/posts/3576029612463468), [response from enquiry to MyTravelPass](/appendix-response-jim)); however, please check official sources before your travel date to ensure that this is still true on the date of your departure. If in doubt and if you have time, it is recommended to apply for [MyTravelPass] approval 5 working days before your date of departure.
 
 Note that holding SPR In-Principle Approval (IPA) does not constitute being a PR, so you will need to apply for a MyTravelPass to exit.
 
@@ -40,7 +40,7 @@ Take note of the operating hours at each checkpoint in Malaysia (BSI operates fr
 
 ## I entered Malaysia after 18 March 2020 (first day of MCO). Can I still exit Malaysia now? 
 
-Yes, with the condition that you hold a valid Singapore PR or long-term pass. Otherwise, you will need to apply for approval to exit the country via [MyTravelPass](https://mtp.imi.gov.my/myTravelPass/main?).
+Yes, with the condition that you hold a valid Singapore PR or long-term pass. Otherwise, you will need to apply for approval to exit the country via [MyTravelPass].
 
 _You are strongly advised to not abuse this, please, and to only travel if absolutely necessary._
 
@@ -51,7 +51,7 @@ No. You must serve a [14-day SHN](https://www.moh.gov.sg/news-highlights/details
 
 ## What if my spouse/children are going over with me to Singapore? 
 
-If you are exiting the country with Malaysian citizen(s) who do not qualify for any approval exemptions listed in the JIM memo [here](https://www.facebook.com/imigresen/posts/3525366314196465) (latest as of 7th October 2020; please check JIM page in case this becomes outdated), then you will need to apply for [MyTravelPass](https://mtp.imi.gov.my/myTravelPass/main?) for them to exit the country at least 5 working days before your journey. Include all relevant supporting documents - your SPR NRIC and reentry permit, marriage/birth certificates, and an appeal letter at the bare minimum. Please submit your application only once until there is a response on your application.
+If you are exiting the country with Malaysian citizen(s) who do not qualify for any approval exemptions listed in the JIM memo [here](https://www.facebook.com/imigresen/posts/3525366314196465) (latest as of 7th October 2020; please check JIM page in case this becomes outdated), then you will need to apply for [MyTravelPass] for them to exit the country at least 5 working days before your journey. Include all relevant supporting documents - your SPR NRIC and reentry permit, marriage/birth certificates, and an appeal letter at the bare minimum. Please submit your application only once until there is a response on your application.
 
 You will also need to [submit an appeal](https://form.gov.sg/#!/5e3648e9405c180011dc5f9c) to ICA for entry to Singapore for people not holding SPR. From 27 November 2020 onwards, non-SC/non-SPR travellers will also require a valid negative COVID-19 to enter Singapore. See [here](https://www.moh.gov.sg/news-highlights/details/updated-border-measures-for-travellers-from-malaysia-and-japan) for more details.
 
@@ -115,3 +115,4 @@ You can throw away the wristband after the end of SHN.
 
 There will be arrangements made to collect the gateway one day before the end of your SHN.
 
+[MyTravelPass]: https://mtp.imi.gov.my/myTravelPass/main
