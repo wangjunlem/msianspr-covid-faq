@@ -78,14 +78,15 @@ If you are driving into, or passing through any districts/states with any form o
 
 14 days at a SHN dedicated facility. See [here](https://www.moh.gov.sg/news-highlights/details/updated-border-measures-for-travellers-from-malaysia-and-japan) for the latest update.
 
+Additionally, from 19th January onwards, if you have recent travel history to the UK or South Africa, you will serve 7 more days of SHN at your place of residence. See [here](https://www.moh.gov.sg/news-highlights/details/updates-on-border-measures-and-travel-insurance).
+
 ## How much will the entirety of the SHN cost? 
 
 For staying at a SHN Dedicated Facility (SDF), it will cost $2000 per person. If you are sharing the room with another person (limited to family members and subject to approval), the cost will be $1300 per person.
 
 If you have children, they may qualify for reduced charges depending on their age. You can appeal to ICA via the hotel in which you are serving your SHN; the hotel manager on duty will forward the appeal.
 
-For the swab test, it will cost less than $200 per person. (Last known price: $125)
-
+For the swab test, it will cost maximum $200 per person per swab. (Last known price: $125)
 
 ## What happens to my vehicle if I’m driving in? 
 
@@ -96,7 +97,9 @@ There have been instances of escort officers and vehicles that will follow you t
 
 ## When is my swab test? 
 
-You will be contacted via SMS and phone regarding your swab test up to 2 days before the actual day of the swab test. From experience, the swab test will take place 3-4 days before the end of your SHN.
+You will complete a swab test closer to the end of your SHN.
+
+Additionally, from 25th January onwards, you will also take a swab test on arrival in Singapore. This rule applies to all travellers.
 
 
 ## When and where can I check my swab test results? 
