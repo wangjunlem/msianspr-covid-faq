@@ -21,7 +21,7 @@ If you find any errors (links not working, outdated information) in the document
 Take care and stay safe! :) #FlattenTheCurve
 
 
-\- [Wang Jun Lem](mailto:wangjunlem@gmail.com)
+\- [Wang Jun Lem](mailto:me@junlem.com)
 
 ______
 
