@@ -19,7 +19,7 @@ The following list is in alphabetical order.
 | HSO | Home Surveillance Order |
 | JIM | Jabatan Imigresen Malaysia<br/>Immigration Department of Malaysia |
 | KSAB | Kompleks Sultan Abu Bakar<br/>Malaysian checkpoint at Second Link, corresponding to Tuas |
-| LoU | Letter of Undertaking (link) |
+| LoU | Letter of Undertaking ([link][LOU File]) |
 | MCO | Movement Control Order |
 | MOH | Ministry of Health |
 | MOHA | Ministry of Home Affairs |
@@ -34,5 +34,9 @@ The following list is in alphabetical order.
 | RGL | Reciprocal Green Lane scheme |
 | RMCO | Recovery Movement Control Order |
 | SDF | SHN Dedicated Facility |
+| STO | [Sistem Temujanji Online] |
 | SHN | Stay Home Notice |
 | TEMCO | Targeted Enhanced Movement Control Order |
+
+[Sistem Temujanji Online]: http://www.sto.imi.gov.my/
+[LOU File]: http://www.nadma.gov.my/images/nadma/documents/garispanduan/LATEST_LOU.pdf
