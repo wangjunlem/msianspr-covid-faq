@@ -210,7 +210,7 @@ Please refer to guidelines on requesting for exemptions: [Emailing MOH MY for Sp
 You will be exempted from paying the quarantine fees if you fall into categories below. The forms can be printed and filled in ahead of time [here](http://covid-19.moh.gov.my/garis-panduan/garis-panduan-pengecualian-caj-kuarantin-bagi-person-under-surveilence-pus-di-stesen-kuarantin) (advised to do so), or can be obtained at the counters after you arrive.
 
 |  Category  |  Form Needed  |
-|-|-|
+|-|:-:|
 |  Kad OKU holder under Persons with Disabilities Act 2008  |  Form A  |
 |  Malaysian from B40 group  |  Form C  |
 |  Malaysian (parent/spouse/child aged 18 and below) of a Malaysian in B40 group returning together from overseas  |  Form C  |
