@@ -5,7 +5,12 @@ hide_footer: true
 hide_hero: true
 ---
 
+
 # Appendix - MCO Areas
+
+The definition of each type of MCO is given [here](/appendix-acronyms).
+
+## Current Status
 
 The entire country is on RMCO until 31 Mar 2020.
 
@@ -17,7 +22,7 @@ Effective date: until **26 Jan 2021**
 |:--------:|-------------------------------------------------------------------------|
 | MCO      | Kelantan, Penang, Selangor, KL, Putrajaya, Labuan, Johor, Sabah, Melaka |
 | CMCO     | Kedah, Perak, Negeri Sembilan, Terengganu, Pahang                       |
-| RMCO     | Sarawak*, Perlis                                                        |
+| RMCO     | Sarawak, Perlis                                                         |
 
 ## Additional Notes
 
