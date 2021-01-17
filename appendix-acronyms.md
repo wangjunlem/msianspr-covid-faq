@@ -7,11 +7,7 @@ hide_hero: true
 
 # Appendix - Acronyms
 
-{{ site.github.latest_release | jsonify }}
-{{ site.github.latest_release | inspect }}
-{{ site.github.latest_release }}
-
-{{ site.github | inspect }}
+```{{ site.github | jsonify }}```
 
 The following list is in alphabetical order.
 
