@@ -42,5 +42,5 @@ Please write the following details and provide proof documents for further consi
 
 Email the letter to [hso@moh.gov.my](mailto:hso@moh.gov.my) and [cprc@moh.gov.my](mailto:cprc@moh.gov.my).
 
-_Source (Chinese): [https://jomshow.com/2020/08/23/back-my-appeal-to-moh/](https://jomshow.com/2020/08/23/back-my-appeal-to-moh/)_
+_[Source (Chinese)](https://jomshow.com/2020/08/23/back-my-appeal-to-moh/)_
 
