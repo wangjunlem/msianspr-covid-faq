@@ -25,7 +25,7 @@ You will need to print out, fill in, and sign a [Letter of Undertaking](http://w
 At least 3 working days before entering, you should also: 
 
 1. download MySejahtera
-1. make payment for all costs (accommodation, swab test, operational costs if foreigner) at [MySafeTravel](https://safetravel.myeg.com.my) _(not recommended for now due to rule changes to MCO)_
+1. make payment for all costs (accommodation, swab test, operational costs if foreigner) at [MySafeTravel] _(not recommended for now due to rule changes to MCO)_
 1. ~~apply for a [myPASS](https://mypass.mhc.org.sg/)/Travel Note from the High Commission of Malaysia~~ _(practically optional, see [note below](#is-applying-for-mypass-still-necessary))_
 
 If you are entering the country with non-Malaysian citizen(s) (e.g. your spouse or children who holds non-Malaysian citizenship, and including those with Malaysian PR), see below: [What if my spouse/children are going over with me to Malaysia?](#what-if-my-spousechildren-are-going-over-with-me-to-malaysia)
@@ -48,9 +48,9 @@ Take note of the operating hours at each checkpoint in Malaysia (BSI operates fr
 
 ## What if my spouse/children are going over with me to Malaysia? 
 
-If you are entering Malaysia with non-citizen(s) including those holding Malaysia PR, then you will need to apply for [MyTravelPass](https://mtp.imi.gov.my/myTravelPass/main?) for them to enter the country at least 5 working days before your journey. Please submit your application only once until there is a response on your application.
+If you are entering Malaysia with non-citizen(s) including those holding Malaysia PR, then you will need to apply for [MyTravelPass] for them to enter the country at least 5 working days before your journey. Please submit your application only once and wait for a response on your application.
 
-Additionally, foreigners must make payment for the accommodation and operational costs using [MySafeTravel](https://safetravel.myeg.com.my) before entering Malaysia, or they will be denied entry. Payment cannot be made on the spot.
+Additionally, foreigners must make payment for the accommodation and operational costs using [MySafeTravel] before entering Malaysia, or they will be denied entry. Payment cannot be made on the spot.
 
 
 ## Who do I need to put as Witness on my Letter of Undertaking (LoU)? 
@@ -58,7 +58,7 @@ Additionally, foreigners must make payment for the accommodation and operational
 There is no need. It will be filled in when you arrive at the checkpoint.
 
 
-## I am not leaving on the day stated on the myPASS/MyTravelPass/MySafeTravel, do I need to re-apply? 
+## I am not leaving on the day stated on the myPASS / MyTravelPass / MySafeTravel, do I need to re-apply? 
 
 The validity period will be stated on the document that you have applied for, including for any other travellers following you. 
 
@@ -76,7 +76,7 @@ If you want to err on the side of caution, you may apply. In the event of emerge
 
 ## Is there anything to do/note before entering Malaysia on the day of my travel? 
 
-All travellers are now recommended to make payment for their accommodation, swab tests, and operational costs (for foreigners) with [MySafeTravel](https://safetravel.myeg.com.my/) before entering the country.
+All travellers are now recommended to make payment for their accommodation, swab tests, and operational costs (for foreigners) with [MySafeTravel] before entering the country.
 
 You may also want to do a pre-departure swab test. See [here](#do-i-need-to-do-a-swab-test-before-entering-malaysia).
 
@@ -170,14 +170,12 @@ Follow the date on the wristband.
 
 You may put in a request with [APM](/appendix-acronyms) on the day of your arrival for your choice of hotel/room if:
 
-
-
 1. You are returning in your own vehicle (i.e. not public transport); and
 2. You have made prior arrangements (enquiry & booking, not payment) with the hotel of your choice.
 
 On the day of your arrival, show the booking confirmation from the hotel to the APM officer on site (not JIM or MOH personnel) to show that they are willing to check you in.
 
-See the known quarantine stations [here](#last-known-hotels-for-quarantine-in-malaysia). All arrangements are subject to hotel availability, and additional charges may apply depending on the location.
+See the known quarantine stations [here](/appendix-misc#last-known-hotels-for-quarantine-in-malaysia). All arrangements are subject to hotel availability, and additional charges may apply depending on the location.
 
 
 ## Can I get food or personal items delivered to/from my hotel via Grab or by family members? 
@@ -202,7 +200,7 @@ If there are non-life-threatening medical conditions, you may inform the officer
 
 If there are truly extenuating circumstances (e.g. people requiring long term care or constant monitoring), you may apply for special consideration, however note that the success rate is (understandably) low. 
 
-Please refer to guidelines on requesting for exemptions: [Emailing MOH MY for Special Consideration of Hotel Quarantine Exemption](#emailing-moh-my-for-special-consideration-of-hotel-quarantine-exemption)
+Please refer to [guidelines on requesting for exemptions](/appendix-appeal-moh-my).
 
 
 ## Can I be exempted from paying the quarantine fees? 
@@ -223,8 +221,6 @@ You will be exempted from paying the quarantine fees if you fall into categories
 |  Malaysian who has used up their sources of money due to being stuck in another country  |  *See below*  |
 
 If you require special consideration for exemption of quarantine fees due to either:
-
-
 
 1. being stuck in another country and have exhausted your funds; or
 2. loss of employment (e.g. due to retrenchment)
@@ -250,7 +246,7 @@ Yes, you can. From 7th December onwards until 12th January, travelling between a
 
 For those travelling from 13th January onwards:
 
-Take note that inter-state travel is not allowed for the whole country, and states under MCO will not allow inter-district travel. See: [Known Areas Affected By MCO](/appendix-mco)
+Take note that inter-state travel is not allowed for the whole country, and states under MCO will not allow inter-district travel. See: [Known Areas Affected by MCO]
 
 You will have to apply for a movement permit using the form [here](https://www.rmp.gov.my/docs/default-source/Penerbitan/borang-permit-pergerakan-pkpb.pdf?sfvrsn=2) at the nearest police station. Please send to your friends/relatives the photos of:
 
@@ -260,3 +256,8 @@ You will have to apply for a movement permit using the form [here](https://www.r
 as supporting documents for their movement permit application to fetch you.
 
 Your family/friends who will pick you up will then carry the letter when they pick you up from the quarantine station at the end of your quarantine.
+
+[Known Areas Affected by MCO]: /appendix-mco
+[Sistem Temujanji Online]: http://www.sto.imi.gov.my
+[MyTravelPass]: https://mtp.imi.gov.my/myTravelPass/main
+[MySafeTravel]: https://safetravel.myeg.com.my
