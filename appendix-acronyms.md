@@ -20,6 +20,7 @@ The following list is in alphabetical order.
 | JIM | Jabatan Imigresen Malaysia<br/>Immigration Department of Malaysia |
 | KSAB | Kompleks Sultan Abu Bakar<br/>Malaysian checkpoint at Second Link, corresponding to Tuas |
 | LoU | Letter of Undertaking ([link][LOU File]) |
+| LTSVP | Long-Term Social Visit Pass |
 | MCO | Movement Control Order |
 | MOH | Ministry of Health |
 | MOHA | Ministry of Home Affairs |

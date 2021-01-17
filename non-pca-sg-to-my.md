@@ -50,8 +50,9 @@ Take note of the operating hours at each checkpoint in Malaysia (BSI operates fr
 
 If you are entering Malaysia with non-citizen(s) including those holding Malaysia PR, then you will need to apply for [MyTravelPass] for them to enter the country at least 5 working days before your journey. Please submit your application only once and wait for a response on your application.
 
-Additionally, foreigners must make payment for the accommodation and operational costs using [MySafeTravel] before entering Malaysia, or they will be denied entry. Payment cannot be made on the spot.
+If the non-citizen traveller(s) do not have a [LTSVP][Acronyms] yet, also apply for an appointment slot at [STO][Sistem Temujanji Online] to apply for the LTSVP within 30 days of their arrival date. Proof of appointment slot is required on arrival; they risk being denied entry if it is not done.
 
+Additionally, foreigners are required to make payment for the accommodation and operational costs using [MySafeTravel] before entering Malaysia.
 
 ## Who do I need to put as Witness on my Letter of Undertaking (LoU)? 
 
@@ -258,6 +259,7 @@ as supporting documents for their movement permit application to fetch you.
 Your family/friends who will pick you up will then carry the letter when they pick you up from the quarantine station at the end of your quarantine.
 
 [Known Areas Affected by MCO]: /appendix-mco
+[Acronyms]: /appendix-acronyms
 [Sistem Temujanji Online]: http://www.sto.imi.gov.my
 [MyTravelPass]: https://mtp.imi.gov.my/myTravelPass/main
 [MySafeTravel]: https://safetravel.myeg.com.my
