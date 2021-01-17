@@ -12,3 +12,12 @@ It will contain:
 - ```Removed``` for now removed features.
 - ```Fixed``` for any bug fixes.
 - ```Security``` in case of vulnerabilities.
+
+## Understanding Commit Messages
+
+For brevity's sake, there are some short forms used in the document that's not documented in the acronyms appendix:
+
+| Short Form | Meaning |
+|------------|---------|
+| ex-_SG/MY_ | **ex**iting from which country |
+| NTL | not to land |
