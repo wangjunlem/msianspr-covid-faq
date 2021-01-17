@@ -12,7 +12,9 @@ _This document is meant for quick reference and is updated on a best effort basi
 
 _---_
 
-This document contains information that is most relevant to Malaysian citizens with Singapore Permanent Residence (SPR) status.
+This document site contains information that is most relevant to Malaysian citizens with Singapore Permanent Residence (SPR) status.
+
+The information in the site should be accurate as of the version number in the top right, read as date in YYYY-MM-DD and time in 24-hour format.
 
 If you find any errors (links not working, outdated information) in the document, please shoot me an email and I'll rectify it as soon as I can. Segala kesulitan amat dikesali. 🤭
 

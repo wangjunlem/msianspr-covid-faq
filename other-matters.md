@@ -38,3 +38,9 @@ Please contact the relevant High Commissions for help!
 You may refer to the original set of documents written in Markdown on GitHub [here]({{ site.github.repository_url }}).
 
 Any pull requests are appreciated. Otherwise, please raise an [issue]({{ site.github.issues.url }}) and I'll get to it ASAP.
+
+### How do I know if the information in this document is accurate?
+
+The version number (seen in the top bar) is the last guaranteed date/time that the information remains accurate.
+
+It should be read like so: v**<u>YYYY</u>MM<u>DD</u>**-**<u>HH</u>mm**, which corresponds to the date and time in 24h format (GMT+8).
