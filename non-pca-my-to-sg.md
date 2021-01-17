@@ -72,7 +72,7 @@ All related costs (tests, SHN, medical fees if any) will no longer be waived by 
 
 You may want to download TraceTogether and/or SingPass, as well as the StayHome@SG app.
 
-If you are driving into, or passing through any districts/states with any form of MCO in effect, please apply for a movement permit using the form [here](https://www.rmp.gov.my/docs/default-source/Penerbitan/borang-permit-pergerakan-pkpb.pdf?sfvrsn=2) at the nearest police station. This applies to travellers departing from KLIA/KLIA2 as well. See: [Known Areas Affected By MCO](/appendix-mco)
+If you are driving into, or passing through any districts/states with any form of MCO in effect, please apply for a movement permit using the form [here](https://www.rmp.gov.my/docs/default-source/Penerbitan/borang-permit-pergerakan-pkpb.pdf?sfvrsn=2) at the nearest police station. This applies to travellers departing from KLIA/KLIA2 as well. See: [Known Areas Affected By MCO][Appendix MCO]
 
 ## How long is the SHN going to be? 
 
@@ -117,4 +117,5 @@ You can throw away the wristband after the end of SHN.
 
 There will be arrangements made to collect the gateway one day before the end of your SHN.
 
+[Appendix MCO]: /appendix-mco
 [MyTravelPass]: https://mtp.imi.gov.my/myTravelPass/main
