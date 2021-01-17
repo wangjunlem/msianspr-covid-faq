@@ -9,6 +9,7 @@ hide_hero: true
 
 {{ site.github.latest_release | jsonify }}
 {{ site.github.latest_release | inspect }}
+{{ site.github.latest_release }}
 
 {{ site.github | inspect }}
 
