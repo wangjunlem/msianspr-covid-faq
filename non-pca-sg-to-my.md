@@ -245,11 +245,7 @@ Yes, you can. If you are travelling onwards to other districts outside of your q
 
 ## I would like to travel to another state/district after my quarantine ends (e.g. quarantine in Selangor after entering KLIA, but my hometown is in Perak). Can I do so? 
 
-Yes, you can. From 7th December onwards until 12th January, travelling between areas of RMCO/CMCO is allowed without a permit; however, restrictions on EMCO/TEMCO areas apply.
-
-For those travelling from 13th January onwards:
-
-Take note that inter-state travel is not allowed for the whole country, and states under MCO will not allow inter-district travel. See: [Known Areas Affected by MCO][Appendix MCO]
+Take note that inter-state travel is not allowed for the whole country, and states under MCO will not allow inter-district travel. See the [latest information about the nationwide MCO][Appendix MCO]
 
 You will have to apply for a movement permit using the form [here](https://www.rmp.gov.my/docs/default-source/Penerbitan/borang-permit-pergerakan-pkpb.pdf?sfvrsn=2) at the nearest police station. Please send to your friends/relatives the photos of:
 
