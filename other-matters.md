@@ -35,6 +35,6 @@ Please contact the relevant High Commissions for help!
 
 ### How do I correct mistakes on this document? 
 
-You may refer to the original set of documents written in Markdown on GitHub [here](https://github.com/wangjunlem/msianspr-covid-faq).
+You may refer to the original set of documents written in Markdown on GitHub [here]({{ site.github.repository_url }}).
 
-Any pull requests are appreciated. Otherwise, please raise an [issue](https://github.com/wangjunlem/msianspr-covid-faq/issues) and I'll get to it ASAP.
+Any pull requests are appreciated. Otherwise, please raise an [issue]({{ site.github.issues.url }}) and I'll get to it ASAP.
