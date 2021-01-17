@@ -10,6 +10,8 @@ hide_footer: true
 
 Yes, if you are employed by a company. Please consult with your company’s HR on the exact procedures.
 
+See more information about the PCA scheme [here][SafeTravel].
+
 
 ## What are the travel requirements, conditions, restrictions?
 
@@ -35,3 +37,6 @@ You will need to quarantine for the first 3 days while waiting for results. Duri
 ## Do I need to quarantine after returning from Malaysia to Singapore?
 
 Yes. Due to increase in Covid-19 cases in Malaysia, Singapore now imposes a 14-day SHN at SDFs. payable by the employer. The final cost arrangement between you and your employer will differ from company to company.
+
+
+[SafeTravel]: https://safetravel.ica.gov.sg/pca/overview
