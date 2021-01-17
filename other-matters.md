@@ -35,6 +35,6 @@ Please contact the relevant High Commissions for help!
 
 ### How do I correct mistakes on this document? 
 
-If you want to be an active maintainer of this document, please email me and I’ll add you as an editor. Help is appreciated. :)
+You may refer to the original set of documents written in Markdown on GitHub [here](https://github.com/wangjunlem/msianspr-covid-faq).
 
-Please leave a comment and we’ll get to it as soon as we can.
+Any pull requests are appreciated. Otherwise, please raise an [issue](https://github.com/wangjunlem/msianspr-covid-faq/issues) and I'll get to it ASAP.
