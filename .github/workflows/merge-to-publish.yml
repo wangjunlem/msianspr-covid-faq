@@ -30,7 +30,5 @@ jobs:
           type: now
           # The name of target branch to merge
           target_branch: publish
-          # Alias head_to_merge input
-          from_branch: master
           # Github token
           github_token: ${{secrets.GITHUB_TOKEN}}
