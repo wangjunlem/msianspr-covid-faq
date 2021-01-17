@@ -3,6 +3,7 @@ layout: page
 title: Travel FAQ for Malaysians with SPR
 menubar: misc_links_menu
 hide_footer: true
+reverse_order: true
 ---
 
 **_Disclaimer:_**
@@ -20,7 +21,7 @@ Take care and stay safe! :) #FlattenTheCurve
 
 \- [Wang Jun Lem](mailto:wangjunlem@gmail.com)
 
-
+______
 
 [Non-PCA: Malaysia > Singapore]: ./non-pca-sg-to-my.md
 [Non-PCA: Singapore > Malaysia]: ./non-pca-my-to-sg.md
