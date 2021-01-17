@@ -18,7 +18,7 @@ You may refer to the [myPassport](https://eservices.imi.gov.my/myimms/myPassport
 
 Your re-entry permit is fine as long as you do not leave Singapore while it is expired.
 
-Once you have received your re-entry permit, please update ICA through [e-REP](https://www.ica.gov.sg/esvclandingpage/erep).
+Once you have received your renewed passport, please update ICA through [e-REP](https://www.ica.gov.sg/esvclandingpage/erep).
 
 
 ### What if there are issues with my passport renewal? 
