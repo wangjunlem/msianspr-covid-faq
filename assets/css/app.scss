@@ -1,0 +1,69 @@
+---
+---
+
+$family-sans-serif: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+$family-primary: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+
+@import "main";
+    
+.hero.is-fullheight.is-hero-only {
+    min-height: calc(100vh - 3.25rem);
+
+    & + .section {
+        display: none;
+    }
+}
+
+@mixin margin-top-tag-with-id($original-margin-top) {
+    &[id] {
+        $phantom-height: 1.5 * $navbar-height;
+        padding-top: $phantom-height;
+        margin-top: calc(-#{$phantom-height} + #{$original-margin-top});
+    }
+}
+
+.content {
+    // Sizes are copied from bulma/sass/elements/content.sass
+    h1, h2, h3, h4, h5, h6 {
+        @include margin-top-tag-with-id(0px);
+    }
+    h1:not(:first-child) {
+        @include margin-top-tag-with-id(1em);
+    }
+    h2:not(:first-child) {
+        @include margin-top-tag-with-id(1.1428em);
+    }
+    h3:not(:first-child) {
+        @include margin-top-tag-with-id(1.3333em);
+    }
+}
+
+// Bold the brand name
+.navbar-brand a {
+    font-weight: 700;
+}
+
+// Show divider for version
+.navbar-end .navbar-divider {
+    display: block;
+}
+
+@include mobile() {
+    .columns.is-reverse-order-mobile {
+        display: flex;
+        flex-wrap: wrap-reverse;
+
+        .column {
+            flex: 100%;
+        }
+    }
+}
+
+// Last version indicator
+.navbar-item.navbar-item__last-version {
+    font-size: 0.875em;
+    opacity: 0.6;
+    text-align: center;
+}
