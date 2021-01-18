@@ -36,7 +36,7 @@ States that have additional arrangements will be marked with an asterisk (\*).
 
 | MCO Type | Areas Affected | Effective Period |
 |:--------:|----------------|:--------------:|
-| MCO | Seremban, Port Dickson | 19 Jan - 1 Feb 2021 |
+| MCO | Seremban, Port Dickson | until 1 Feb 2021 |
 | CMCO | All other areas | until 26 Jan 2021 |
 
 ### Sarawak
