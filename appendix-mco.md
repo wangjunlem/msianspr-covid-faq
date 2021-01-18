@@ -25,12 +25,19 @@ States that have additional arrangements will be marked with an asterisk (\*).
 | MCO Type | States/FTs Affected                                                     |
 |:--------:|-------------------------------------------------------------------------|
 | MCO      | Kelantan, Penang, Selangor, KL, Putrajaya, Labuan, Johor, Sabah, Melaka |
-| CMCO     | Kedah, Perak, Negeri Sembilan, Terengganu, Pahang, Sarawak*             |
+| CMCO     | Kedah, Perak, [Negeri Sembilan]\*, Terengganu, Pahang, [Sarawak]\*             |
 | RMCO     | Perlis                                                                  |
 
 \* _Sarawak's CMCO ends 31 Jan 2021. See below for more details._
 
 ## Additional Notes
+
+### Negeri Sembilan
+
+| MCO Type | Areas Affected | Effective Period |
+|:--------:|----------------|:--------------:|
+| MCO | Seremban, Port Dickson | 19 Jan - 1 Feb 2021 |
+| CMCO | All other areas | until 26 Jan 2021 |
 
 ### Sarawak
 
@@ -38,3 +45,6 @@ States that have additional arrangements will be marked with an asterisk (\*).
 |:--------:|----------------|:--------------:|
 | MCO | Sibu | until 29 Jan 2021 |
 | CMCO | All other areas | until 31 Jan 2021 |
+
+[Sarawak]: #sarawak
+[Negeri Sembilan]: #negeri-sembilan
