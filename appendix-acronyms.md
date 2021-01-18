@@ -18,10 +18,15 @@ The following list is in alphabetical order.
 | EMCO | Enhanced Movement Control Order |
 | HSO | Home Surveillance Order |
 | JIM | Jabatan Imigresen Malaysia<br/>Immigration Department of Malaysia |
+| KDN | Kementerian Dalam Negeri - MOHA Malaysia |
+| KKM | Kementerian Kesihatan Malaysia - MOH Malaysia |
+| KLN | Kementerian Luar Negeri - MOFA Malaysia |
 | KSAB | Kompleks Sultan Abu Bakar<br/>Malaysian checkpoint at Second Link, corresponding to Tuas |
 | LoU | Letter of Undertaking ([link][LOU File]) |
 | LTSVP | Long-Term Social Visit Pass |
 | MCO | Movement Control Order |
+| MHC | [Malaysian High Commission (of Singapore)][MHC] |
+| MOFA | Minister of Foreign Affairs |
 | MOH | Ministry of Health |
 | MOHA | Ministry of Home Affairs |
 | PCA | Periodic Commuting Arrangement scheme |
@@ -41,3 +46,4 @@ The following list is in alphabetical order.
 
 [Sistem Temujanji Online]: http://www.sto.imi.gov.my/
 [LOU File]: http://www.nadma.gov.my/images/nadma/documents/garispanduan/LATEST_LOU.pdf
+[MHC]: https://www.kln.gov.my/web/sgp_singapore/home/
