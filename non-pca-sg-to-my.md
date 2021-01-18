@@ -233,11 +233,6 @@ You may fill in Form E ahead of time found [here](http://covid-19.moh.gov.my/gar
 The full memo from the Sec-Gen of MOH MY (in Bahasa Malaysia), including all forms and the flowchart for payment exemptions can be found [here](http://covid-19.moh.gov.my/garis-panduan/garis-panduan-pengecualian-caj-kuarantin-bagi-person-under-surveilence-pus-di-stesen-kuarantin/Panduan_Pengecualian_Kos_Kuarantin_PUS_KKM.pdf).
 
 
-## I exited Malaysia before 18 March 2020 (first day of MCO). Can I still enter Malaysia now? 
-
-Yes, there are no longer restrictions for entering or reentering Malaysia.
-
-
 ## There is an active MCO/PKP at my point of entry, can I still go back? 
 
 Yes, you can. If you are travelling onwards to other districts outside of your quarantine location, please see below on instructions for travelling _after_ quarantine has ended.
