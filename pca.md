@@ -10,12 +10,14 @@ hide_footer: true
 
 Yes, if you are employed by a company. Please consult with your company’s HR on the exact procedures.
 
-See more information about the PCA scheme [here][SafeTravel].
+See more information about the PCA scheme [here][SafeTravel] and the requirements and process [here][PCA Requirements and Process].
 
 
 ## What are the travel requirements, conditions, restrictions?
 
 You must travel in and out via the land borders (i.e. Woodlands/BSI and Tuas/KSAB).
+
+You must strictly follow the date agreed to return to Singapore as specified in your PCA application. See [here](#pca-date-change).
 
 While waiting for your swab test results on entry to Malaysia, you must have a place of residence in the state of Johor, if not, you will need to arrange for a hotel room to stay. If your Malaysia IC does not reflect it, please show proof of residence (e.g. bank statements or bills).
 
@@ -47,11 +49,20 @@ No, PRs are exempt from the pre-departure swab test.
 
 However, you will undergo a swab test at the end of your SHN. If you are entering from 25th January onwards, you will also take a swab test on arrival.
 
+## I would like to travel on a different date from the dates in the PCA application. Am I allowed to do so? {#pca-date-change}
+
+No, you must travel on the dates that were mentioned. 
+
+No amendments are allowed once the PCA application is approved. The PCA pre-payment for SHN and swab will be forfeited and not refunded. A new PCA application can only be done 90 days after your last entry date.
+
+You may still [exit to Malaysia](/non-pca-sg-to-my) and [enter to Singapore](/non-pca-my-to-sg) without the PCA, subject to the conditions and process as a non-PCA traveller.
+
 ## What are the differences between returning via the PCA and non-PCA routes?
 
 |  | PCA | Non-PCA<br>w/o pre-swab | Non-PCA<br>with pre-swab |
 |--|:-----:|:---------:|:------:|
 |Freedom to enter/exit without approval|No; see [above](#what-are-the-travel-requirements-conditions-restrictions)|Yes|Yes|
+|Freedom to enter/exit on any date|No; see [above](#pca-date-change)|Yes|Yes|
 |Mode of transport|Land only|Any|Any|
 |Allowed points of entry|BSI or KSAB|Any|Any|
 |**RETURNING TO MALAYSIA**| | |
@@ -76,5 +87,6 @@ However, you will undergo a swab test at the end of your SHN. If you are enterin
 ^ _Estimated total spend in both countries assumes a solo SPR traveller. See detailed costs for [Singapore][SG SHN Cost] and [Malaysia][Non-PCA Quarantine]._
 
 [SafeTravel]: https://safetravel.ica.gov.sg/pca/overview
+[PCA Requirements and Process]: https://safetravel.ica.gov.sg/pca/requirements-and-process
 [Non-PCA Quarantine]: /non-pca-sg-to-my#how-much-will-the-quarantine-cost
 [SG SHN Cost]: /non-pca-my-to-sg#how-much-will-the-entirety-of-the-shn-cost
