@@ -114,11 +114,5 @@ First, please verify the end date of your SHN using the calculator provided [her
 You can leave your accommodation after 12pm on the last day of your SHN, but only if your Covid-19 test results are out.
 
 
-## Do I throw away the wristband and gateway at the end of my SHN? 
-
-You can throw away the wristband after the end of SHN.
-
-There will be arrangements made to collect the gateway one day before the end of your SHN.
-
 [Appendix MCO]: /appendix-mco
 [MyTravelPass]: https://mtp.imi.gov.my/myTravelPass/main
