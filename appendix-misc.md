@@ -8,14 +8,14 @@ toc: true
 
 # Miscellaneous Appendices
 
-## Hotels for Serving Stay-Home Notice 
+## Hotels for Serving Stay-Home Notice {#hotels-shn}
 
 This list is not exhaustive and is not meant to be an endorsement of any hotel/facility.
 
 [https://docs.google.com/document/d/1Rp7iC1MuLlHABuE-RHwbnXVGXPKNcMel_eMcJWcxmFU/edit](https://docs.google.com/document/d/1Rp7iC1MuLlHABuE-RHwbnXVGXPKNcMel_eMcJWcxmFU/edit)
 
 
-## Last Known Hotels for Quarantine in Malaysia 
+## Last Known Hotels for Quarantine in Malaysia {#hotels-hso}
 
 In Johor:
 
@@ -39,14 +39,14 @@ In Johor:
 For the latest updates and information about all quarantine stations (including in other states), see the NADMA Facebook page [here](https://www.facebook.com/nadma.pmd/).
 
 
-## Premium Hotels on NADMA Form 
+## Premium Hotels on NADMA Form {#hotels-premium}
 
 If you choose to use these premium hotels, you will need to liaise directly with the hotel for booking and transportation arrangements. Please show proof of booking and payment to the secretariat upon arrival at International Entry Point.
 
 The most updated list of hotels can be found [here](http://www.nadma.gov.my/component/sppagebuilder/?view=page&id=190). If you cannot access this, please see the list below (not updated frequently):
 
 
-### Selangor 
+### Selangor {#hotels-premium-selangor}
 
 | No | Nama Hotel/Hotel Name     | Telephone Number |
 |----|---------------------------|------------------|
@@ -56,7 +56,7 @@ The most updated list of hotels can be found [here](http://www.nadma.gov.my/comp
 |  4 | Hilton Petaling Jaya      | +603-76249000    |
 |  5 | Hilton Garden Inn Puchong | +603-80841299    |
 
-### Kuala Lumpur 
+### Kuala Lumpur {#hotels-premium-kl}
 
 | No | Nama Hotel/Hotel Name          | Telephone Number |
 |----|--------------------------------|------------------|

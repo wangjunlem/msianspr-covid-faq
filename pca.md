@@ -6,14 +6,14 @@ title: "Travelling: PCA"
 hide_footer: true
 ---
 
-## Does the Periodic Commuting Arrangement (PCA) apply to us SPRs?
+## Does the Periodic Commuting Arrangement (PCA) apply to us SPRs? {#pca-spr-qualify}
 
 Yes, if you are employed by a company. Please consult with your company’s HR on the exact procedures.
 
 See more information about the PCA scheme [here][SafeTravel] and the requirements and process [here][PCA Requirements and Process].
 
 
-## What are the travel requirements, conditions, restrictions?
+## What are the travel requirements, conditions, restrictions? {#pca-travel-conditions}
 
 You must travel in and out via the land borders (i.e. Woodlands/BSI and Tuas/KSAB).
 
@@ -26,24 +26,24 @@ You can be out of Singapore for up to 60 days per PCA application, and will have
 The total number of PCA travellers per day is subject to a daily quota (unknown number). Please make arrangements with your employer ahead of time.
 
 
-## I am self-employed/unemployed. Am I allowed to apply for PCA?
+## I am self-employed/unemployed. Am I allowed to apply for PCA? {#pca-no-corppass}
 
 No. The application for PCA requires the company to apply for you with a CorpPass account.
 
 
-## Do I need to quarantine after returning from Singapore to Malaysia?
+## Do I need to quarantine after returning from Singapore to Malaysia? {#pca-my-hso}
 
 You will need to quarantine for the first 3 days while waiting for results. During this time, even if you are staying home, you should minimise contact with others.
 
-## Do I need to do a swab test before returning to Malaysia?
+## Do I need to do a swab test before returning to Malaysia? {#pca-my-swab}
 
 No. You will be swabbed on arrival in Malaysia, and placed under quarantine while waiting for the swab test results.
 
-## Do I need to quarantine after returning from Malaysia to Singapore?
+## Do I need to quarantine after returning from Malaysia to Singapore? {#pca-sg-shn}
 
 Yes. Due to increase in Covid-19 cases in Malaysia, Singapore now imposes a 14-day SHN at SDFs. payable by the employer. The final cost arrangement between you and your employer will differ from company to company.
 
-## Do I need to do a swab test before going back to Singapore?
+## Do I need to do a swab test before going back to Singapore? {#pca-sg-swab}
 
 No, PRs are exempt from the pre-departure swab test.
 
@@ -57,11 +57,11 @@ No amendments are allowed once the PCA application is approved. The PCA pre-paym
 
 You may still [exit to Malaysia](/non-pca-sg-to-my) and [enter to Singapore](/non-pca-my-to-sg) without the PCA, subject to the conditions and process as a non-PCA traveller.
 
-## What are the differences between returning via the PCA and non-PCA routes?
+## What are the differences between returning via the PCA and non-PCA routes? {#pca-comparison}
 
 |  | PCA | Non-PCA<br>w/o pre-swab | Non-PCA<br>with pre-swab |
 |--|:-----:|:---------:|:------:|
-|Freedom to enter/exit without approval|No; see [above](#what-are-the-travel-requirements-conditions-restrictions)|Yes|Yes|
+|Freedom to enter/exit without approval|No; see [above](#pca-travel-conditions)|Yes|Yes|
 |Freedom to enter/exit on any date|No; see [above](#pca-date-change)|Yes|Yes|
 |Mode of transport|Land only|Any|Any|
 |Allowed points of entry|BSI or KSAB|Any|Any|
@@ -88,5 +88,5 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [enter to Singapore](/no
 
 [SafeTravel]: https://safetravel.ica.gov.sg/pca/overview
 [PCA Requirements and Process]: https://safetravel.ica.gov.sg/pca/requirements-and-process
-[Non-PCA Quarantine]: /non-pca-sg-to-my#how-much-will-the-quarantine-cost
-[SG SHN Cost]: /non-pca-my-to-sg#how-much-will-the-entirety-of-the-shn-cost
+[Non-PCA Quarantine]: /non-pca-sg-to-my#my-hso-cost
+[SG SHN Cost]: /non-pca-my-to-sg#shn-cost

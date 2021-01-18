@@ -6,7 +6,7 @@ toc_title: Questions
 hide_footer: true
 ---
 
-## What do I need to do to exit Singapore?
+## What do I need to do to exit Singapore? {#exit-sg}
 
 There are no restrictions for exiting Singapore. The official travel advisory by MOH is to defer all travel to Malaysia. The latest advisory can be found [here](https://www.moh.gov.sg/covid-19).
 
@@ -16,9 +16,9 @@ Regarding the issue of myPASS for travel to Malaysia, if you are travelling:
 
 - **by land**: ICA should not be asking for a myPASS. If they do, inform them that the Malaysian side will not ask for myPASS on entry.
 
-- **by air**: Airlines and immigration authorities may ask you to show your [myPASS/Travel Note](#is-applying-for-mypass-still-necessary) because they liaise with the Malaysian High Comm. To be safe, please apply.
+- **by air**: Airlines and immigration authorities may ask you to show your [myPASS/Travel Note](#mypass-necessary) because they liaise with the Malaysian High Comm. To be safe, please apply.
 
-## What do I need to do to enter Malaysia?
+## What do I need to do to enter Malaysia? {#enter-my}
 
 You will need to print out, fill in, and sign a [Letter of Undertaking](http://www.nadma.gov.my/images/nadma/documents/garispanduan/LATEST_LOU.pdf) stating that you agree to pay any quarantine costs applicable (accommodation and Covid-19 test). 
 
@@ -26,16 +26,16 @@ At least 3 working days before entering, you should also:
 
 1. download MySejahtera
 1. make payment for all costs (accommodation, swab test, operational costs if foreigner) at [MySafeTravel] _(not recommended for now due to rule changes to MCO)_
-1. ~~apply for a [myPASS](https://mypass.mhc.org.sg/)/Travel Note from the High Commission of Malaysia~~ _(practically optional, see [note below](#is-applying-for-mypass-still-necessary))_
+1. ~~apply for a [myPASS](https://mypass.mhc.org.sg/)/Travel Note from the High Commission of Malaysia~~ _(practically optional, see [note below](#mypass-necessary))_
 
-If you are entering the country with non-Malaysian citizen(s) (e.g. your spouse or children who holds non-Malaysian citizenship, and including those with Malaysian PR), see below: [What if my spouse/children are going over with me to Malaysia?](#what-if-my-spousechildren-are-going-over-with-me-to-malaysia)
+If you are entering the country with non-Malaysian citizen(s) (e.g. your spouse or children who holds non-Malaysian citizenship, and including those with Malaysian PR), see below: [What if my spouse/children are going over with me to Malaysia?](#enter-my-family-non-citizen)
 
 If you are entering Sabah or Sarawak, please take note of the latest SOPs found on [this page](https://hednp.sabah.gov.my). Take note that non-Sabahans may need approval to enter the state; see more details [here](https://phednp.wixsite.com/website). Fill in the Health Declaration Form [here](http://sm.jknsabah.gov.my/HDF/hdf.php) within 12 hours of your arrival. 
 
 If you are entering Sarawak, please take note of the latest SOPs found on [this page](https://sarawakdisastermc.com/). If you meet the requirements, you will need to [apply for enterSarawak](https://entersarawak.socoe.co/register) and fill in the Health Declaration Form [here](https://ms.microweb.my/) within 12 hours of your arrival.
 
 
-## How can I enter Malaysia from Singapore via the land checkpoints? 
+## How can I enter Malaysia from Singapore via the land checkpoints? {#enter-my-transport}
 
 If you have your own vehicle (car/motorcycle), you may head to either checkpoint during their operating hours.
 
@@ -46,7 +46,7 @@ Alternatively, you may use the shuttle bus arranged by the Johor government, cha
 Take note of the operating hours at each checkpoint in Malaysia (BSI operates from 7am to 7pm; KSAB operates from 8am to 12am for light vehicles). The Singapore checkpoints operate 24 hours a day.
 
 
-## What if my spouse/children are going over with me to Malaysia? 
+## What if my spouse/children are going over with me to Malaysia? {#enter-my-family-non-citizen}
 
 If you are entering Malaysia with non-citizen(s) including those holding Malaysia PR, then you will need to apply for [MyTravelPass] for them to enter the country at least 5 working days* before your journey. Please submit your application only once and wait for a response on your application.
 
@@ -56,19 +56,19 @@ Additionally, foreigners are required to make payment for the accommodation and 
 
 \* _Please expect delays in the approval process due to the existing [nationwide MCO][Appendix MCO]._
 
-## Who do I need to put as Witness on my Letter of Undertaking (LoU)? 
+## Who do I need to put as Witness on my Letter of Undertaking (LoU)? {#lou-witness}
 
 There is no need. It will be filled in when you arrive at the checkpoint.
 
 
-## I am not leaving on the day stated on the myPASS / MyTravelPass / MySafeTravel, do I need to re-apply? 
+## I am not leaving on the day stated on the myPASS / MyTravelPass / MySafeTravel, do I need to re-apply? {#my-enter-different-date}
 
 The validity period will be stated on the document that you have applied for, including for any other travellers following you. 
 
 Please re-apply for the passes if you are not travelling within the stated validity period(s).
 
 
-## Is applying for myPASS still necessary? 
+## Is applying for myPASS still necessary? {#mypass-necessary}
 
 So far, most anecdotes show that both Singaporean and Malaysian authorities do not check if you have a myPASS/Travel Note before exiting Singapore and entering Malaysia respectively. Separately, [JIM has confirmed](/appendix-response-jim) that there is no restriction of entry into Malaysia as a Malaysian citizen.
 
@@ -77,11 +77,11 @@ However, the directive to apply myPASS is given by the MHC, and airlines may sti
 If you want to err on the side of caution, you may apply. In the event of emergency travel or if you have not received your myPASS before you travel, the recommendation at the moment is to travel regardless and explain your situation to the authorities (if needed) that Malaysian citizens are not barred from re-entering Malaysia using the [JIM confirmation](/appendix-response-jim) and [this news article](https://www.malaymail.com/news/malaysia/2020/12/28/malaysians-abroad-cannot-be-prevented-from-returning-says-ismail-sabri/1935587).
 
 
-## Is there anything to do/note before entering Malaysia on the day of my travel? 
+## Is there anything to do/note before entering Malaysia on the day of my travel? {#before-entering-my}
 
 All travellers are now recommended to make payment for their accommodation, swab tests, and operational costs (for foreigners) with [MySafeTravel] before entering the country.
 
-You may also want to do a pre-departure swab test. See [here](#do-i-need-to-do-a-swab-test-before-entering-malaysia).
+You may also want to do a pre-departure swab test. See [here](#my-pre-entry-swab).
 
 If you are a Malaysian citizen and choose not to pay in advance, please make sure you have sufficient cash with you to pay for all prevailing charges, especially the swab test which is payable by cash upon arrival (to be safe, bring at least RM400). Credit cards may not be accepted at checkpoints.
 
@@ -94,9 +94,9 @@ Bring along the following with you:
 5. cash of at least RM400 (if payment not made ahead of time)
 6. a printed and signed Letter of Undertaking (LoU) (optional, can be filled on arrival)
 
-Do not worry if you don’t have a MyPass, see: [Is applying for myPASS still necessary?](#is-applying-for-mypass-still-necessary)
+Do not worry if you don’t have a MyPass, see: [Is applying for myPASS still necessary?](#mypass-necessary)
 
-If you are travelling in via the land checkpoints, make sure that you are expected to reach the checkpoints while they are open. For BSI, the operating hours are 7am to 7pm; for KSAB, the operating hours are 8am to 12am. See also: [How can I enter Malaysia from Singapore via the land checkpoints?](#how-can-i-enter-malaysia-from-singapore-via-the-land-checkpoints)
+If you are travelling in via the land checkpoints, make sure that you are expected to reach the checkpoints while they are open. For BSI, the operating hours are 7am to 7pm; for KSAB, the operating hours are 8am to 12am. See also: [How can I enter Malaysia from Singapore via the land checkpoints?](#enter-my-transport)
 
 You may want to pack some (dry) food for consumption while going through the procedures and during hotel quarantine.
 
@@ -110,16 +110,16 @@ Do not bring:
 They will be confiscated by the team during bag checks and there is no guarantee that the items will be returned to you in their original condition.
 
 
-## Do I need to do a swab test before entering Malaysia?
+## Do I need to do a swab test before entering Malaysia? {#my-pre-entry-swab}
 
 If you’re going back as a normal returning Malaysian, it is not mandatory to do a swab test; you will be swabbed on entry into Malaysia and be quarantined for 10 days.
 
-However, if you complete an RT-PCR (**not** RTK antigen) swab test within 72 hours before departure to Malaysia, you will skip the arrival swab and have your quarantine shortened to 7 days. See [here](#how-much-will-the-quarantine-cost) for costs and [here](#how-many-days-is-the-quarantine-going-to-be) for explanation and sources. 
+However, if you complete an RT-PCR (**not** RTK antigen) swab test within 72 hours before departure to Malaysia, you will skip the arrival swab and have your quarantine shortened to 7 days. See [here](#my-hso-cost) for costs and [here](#my-hso-duration) for explanation and sources. 
 
 For those returning from Singapore, you can find a list of RT-PCR swab test providers [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers).
 
 
-## What are the procedures I can expect after entering Malaysia? 
+## What are the procedures I can expect after entering Malaysia? {#after-entering-my-procedures}
 
 At arrival, you will be cleared for immigration. You will also submit your LoU (if you’ve forgotten to bring it along, you can sign a copy on the spot). 
 
@@ -132,13 +132,13 @@ If your test results are negative, you will then be brought to the hotel for che
 The total duration from arrival at immigration to hotel check-in can take anywhere from 5 hours up to 12 hours. Please prepare sufficient water, snacks, medication, etc.
 
 
-## How much will the quarantine cost? 
+## How much will the quarantine cost? {#my-hso-cost}
 
 For normal accommodation, it will cost RM150/night.
 
 Non-Malaysians also have to pay a fixed administrative cost of RM2600/person.
 
-|  | 10 days | 7 days (see [here](#how-many-days-is-the-quarantine-going-to-be)) |
+|  | 10 days | 7 days (see [here](#my-hso-duration)) |
 |-|:-:|:-:|
 | Malaysian | First person:<br>RM1500<br><br>Second person:<br>RM500<br><br>Third person (6y/o and below):<br>free | First person: <br>RM1050<br><br>Second person: <br>RM350<br>  <br>Third person (6y/o and below):<br>free |
 | Non-Malaysian | First person:<br>RM1500 + RM2600 = RM4100<br><br>Second person:<br>RM500 + RM2600 = RM3100<br><br>Third person (6y/o and below):<br>RM2600 | First person:<br>RM1050 + RM2600 = RM3650<br><br>Second person:<br>RM350 + RM2600 = RM2950<br><br>Third person (6y/o and below):<br>RM2600 |
@@ -151,25 +151,25 @@ For swab tests, you will be swabbed a day or two before the end of quarantine.
 
 Those who have done a pre-departure RT-PCR swab test within 72 hours before departure to Malaysia will not be required to do an arrival swab (on the condition that they do not show any symptoms).
 
-|  | **WITHOUT** pre-departure RT-PCR swab<br>72 hours before departure to Malaysia | **WITH** pre-departure RT-PCR swab<br>72 hours before departure to Malaysia <br>AND no symptoms (see [here](#how-many-days-is-the-quarantine-going-to-be)) |
+|  | **WITHOUT** pre-departure RT-PCR swab<br>72 hours before departure to Malaysia | **WITH** pre-departure RT-PCR swab<br>72 hours before departure to Malaysia <br>AND no symptoms (see [here](#my-hso-duration)) |
 |-|:-:|:-:|
 | Malaysian | RM150 x 2 = RM300<br>(arrival swab and end of quarantine swab) | RM150<br>(end of quarantine swab) |
 | Non-Malaysian | RM250 x 2 = RM500<br>(arrival swab and end of quarantine swab) | RM250<br>(end of quarantine swab) |
 
 
-## How many days is the quarantine going to be? 
+## How many days is the quarantine going to be? {#my-hso-duration}
 
 7 days if you have done a pre-departure RT-PCR swab test within 72 hours before departure to Malaysia. (You will also skip the arrival swab if you do not show any symptoms; see [here](https://www.facebook.com/MajlisKeselamatanNegara/posts/3003689579733928).)
 
 Otherwise, 10 days.
 
 
-## How do I know the last date of my quarantine? 
+## How do I know the last date of my quarantine? {#my-hso-last-day}
 
 Follow the date on the wristband.
 
 
-## Can I choose which hotel to stay in? 
+## Can I choose which hotel to stay in? {#my-hso-choose-hotel}
 
 You may put in a request with [APM](/appendix-acronyms) on the day of your arrival for your choice of hotel/room if:
 
@@ -178,10 +178,10 @@ You may put in a request with [APM](/appendix-acronyms) on the day of your arriv
 
 On the day of your arrival, show the booking confirmation from the hotel to the APM officer on site (not JIM or MOH personnel) to show that they are willing to check you in.
 
-See the known quarantine stations [here](/appendix-misc#last-known-hotels-for-quarantine-in-malaysia). All arrangements are subject to hotel availability, and additional charges may apply depending on the location.
+See the known quarantine stations [here](/appendix-misc#hotels-hso). All arrangements are subject to hotel availability, and additional charges may apply depending on the location.
 
 
-## Can I get food or personal items delivered to/from my hotel via Grab or by family members? 
+## Can I get food or personal items delivered to/from my hotel via Grab or by family members? {#my-hso-delivery-personal}
 
 The SOPs on delivery differ from hotel to hotel. You are advised to check with the hotel directly.
 
@@ -190,12 +190,12 @@ The common SOP known is that for food delivery, only fast food is allowed. Home 
 For personal belongings (e.g. clothes), **please only do so if it is urgent and necessary.** Hotel workers are swamped with these requests. Family members can bring it over; however, you are not allowed to hand over any items (including any perishables and souvenirs) back to your family members or friends.
 
 
-## Are there laundry services at my hotel? 
+## Are there laundry services at my hotel? {#my-hso-laundry}
 
 You are to stay in your room at all times. In general, most reports have said that laundry services are not provided. You may opt to do your own washing in your room.
 
 
-## Can I choose to quarantine at home? 
+## Can I choose to quarantine at home? {#my-hso-at-home}
 
 No, all returning Malaysians will have to quarantine at designated hotels.
 
@@ -206,7 +206,7 @@ If there are truly extenuating circumstances (e.g. people requiring long term ca
 Please refer to [guidelines on requesting for exemptions](/appendix-appeal-moh-my).
 
 
-## Can I be exempted from paying the quarantine fees? 
+## Can I be exempted from paying the quarantine fees? {#my-hso-payment-exemption}
 
 You will be exempted from paying the quarantine fees if you fall into categories below. The forms can be printed and filled in ahead of time [here](http://covid-19.moh.gov.my/garis-panduan/garis-panduan-pengecualian-caj-kuarantin-bagi-person-under-surveilence-pus-di-stesen-kuarantin) (advised to do so), or can be obtained at the counters after you arrive.
 
@@ -233,12 +233,12 @@ You may fill in Form E ahead of time found [here](http://covid-19.moh.gov.my/gar
 The full memo from the Sec-Gen of MOH MY (in Bahasa Malaysia), including all forms and the flowchart for payment exemptions can be found [here](http://covid-19.moh.gov.my/garis-panduan/garis-panduan-pengecualian-caj-kuarantin-bagi-person-under-surveilence-pus-di-stesen-kuarantin/Panduan_Pengecualian_Kos_Kuarantin_PUS_KKM.pdf).
 
 
-## There is an active MCO/PKP at my point of entry, can I still go back? 
+## There is an active MCO/PKP at my point of entry, can I still go back? {#enter-with-active-mco}
 
 Yes, you can. If you are travelling onwards to other districts outside of your quarantine location, please see below on instructions for travelling _after_ quarantine has ended.
 
 
-## I would like to travel to another state/district after my quarantine ends (e.g. quarantine in Selangor after entering KLIA, but my hometown is in Perak). Can I do so? 
+## I would like to travel to another state/district after my quarantine ends (e.g. quarantine in Selangor after entering KLIA, but my hometown is in Perak). Can I do so? {#travel-after-mco}
 
 Take note that inter-state travel is not allowed for the whole country, and states under MCO will not allow inter-district travel. See the [latest information about the nationwide MCO][Appendix MCO]
 
