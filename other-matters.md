@@ -11,19 +11,19 @@ hide_footer: true
 
 ### Where can I renew my passport? 
 
-You may refer to the [myPassport](https://eservices.imi.gov.my/myimms/myPassport?lang=en) service. Also see the Malaysian High Comm FAQ page [here](http://tinyurl.com/jervois301).
+You may refer to the [myPassport] service. Also see the Malaysian High Comm FAQ page [here][MHC FAQ].
 
 
 ### My passport is expiring soon. What will happen to my Re-entry Permit? 
 
 Your re-entry permit is fine as long as you do not leave Singapore while it is expired.
 
-Once you have received your renewed passport, please update ICA through [e-REP](https://www.ica.gov.sg/esvclandingpage/erep).
+Once you have received your renewed passport, please update ICA through [e-REP].
 
 
 ### What if there are issues with my passport renewal? 
 
-Follow the instructions at the Malaysian High Comm FAQ page [here](http://tinyurl.com/jervois301).
+Follow the instructions at the Malaysian High Comm FAQ page [here][MHC FAQ].
 
 
 ## Miscellaneous 
@@ -44,3 +44,7 @@ Any pull requests are appreciated. Otherwise, please raise an [issue]({{ site.gi
 The version number (seen in the top bar) is the last guaranteed date/time that the information remains accurate.
 
 It should be read like so: v**<u>YYYY</u>MM<u>DD</u>**-**<u>HH</u>mm**, which corresponds to the date and time in 24h format (GMT+8).
+
+[myPassport]: https://eservices.imi.gov.my/myimms/myPassport?lang=en
+[MHC FAQ]: http://tinyurl.com/jervois301
+[e-REP]: https://www.ica.gov.sg/esvclandingpage/erep
