@@ -20,6 +20,21 @@ A nationwide mix of RMCO/CMCO/MCO has been imposed based on the announcement by 
 
 Effective date: until **26 Jan 2021**
 
+| States |  |  |  |
+|--------|--|--|--|
+| Johor<sup>1</sup>    | [N. Sembilan][Negeri Sembilan]  | Perlis<sup>3</sup>   | Terengganu<sup>2</sup> |
+| Kedah<sup>2</sup>    | Pahang<sup>2</sup> | Sabah<sup>1</sup>    | W.P. Kuala Lumpur<sup>1</sup> |
+| Kelantan<sup>1</sup> | Penang<sup>1</sup> | [Sarawak]            | W.P. Labuan<sup>1</sup> |
+| Melaka<sup>1</sup>   | Perak<sup>2</sup>  | Selangor<sup>1</sup> | W.P. Putrajaya<sup>1</sup> |
+
+
+_<sup>1</sup> MCO until 26 Jan 2021_
+
+_<sup>2</sup> CMCO until 21 Jan 2021, then MCO until 4 Feb 2021_
+
+_<sup>3</sup> RMCO until 21 Jan 2021, then MCO until 4 Feb 2021_
+
+<!-- 
 | States/F.T.s | MCOs and Effective Periods |
 |--------|-|
 |Johor| MCO: until 26 Jan 2021 |
@@ -37,7 +52,7 @@ Effective date: until **26 Jan 2021**
 |Terengganu| CMCO: until 21 Jan 2021<br/>MCO: 22 Jan - 4 Feb 2021 |
 |W.P. Kuala Lumpur| MCO: until 26 Jan 2021 |
 |W.P. Labuan| MCO: until 26 Jan 2021 |
-|W.P. Putrajaya| MCO: until 26 Jan 2021 |
+|W.P. Putrajaya| MCO: until 26 Jan 2021 | -->
 
 <!-- | MCO Type | States/FTs Affected                                                     |
 |:--------:|-------------------------------------------------------------------------|
@@ -125,7 +140,8 @@ Effective date: until **26 Jan 2021**
 [Johor]: #johor
 [Kedah]: #kedah
 [Kelantan]: #kelantan
-[KL]: #kl
+[KL]: #kuala-lumpur
+[Kuala Lumpur]: #kuala-lumpur
 [Labuan]: #labuan
 [Melaka]: #melaka
 [Negeri Sembilan]: #negeri-sembilan
@@ -138,3 +154,6 @@ Effective date: until **26 Jan 2021**
 [Sarawak]: #sarawak
 [Selangor]: #selangor
 [Terengganu]: #terengganu
+[W.P. Kuala Lumpur]: #kuala-lumpur
+[W.P. Labuan]: #labuan
+[W.P. Putrajaya]: #putrajaya
