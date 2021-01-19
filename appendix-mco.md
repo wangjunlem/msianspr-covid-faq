@@ -32,19 +32,90 @@ States that have additional arrangements will be marked with an asterisk (\*).
 
 ## Additional Notes
 
-### Negeri Sembilan
+### Johor {#johor}
+
+\-
+
+### Kedah {#kedah}
+
+\-
+
+### Kelantan {#kelantan}
+
+\-
+
+### Kuala Lumpur {#kuala-lumpur}
+
+\-
+
+### Labuan {#labuan}
+
+\-
+
+### Melaka {#melaka}
+
+\-
+
+### Negeri Sembilan {#negeri-sembilan}
 
 | MCO Type | Areas Affected | Effective Period |
 |:--------:|----------------|:--------------:|
 | MCO | Seremban, Port Dickson | until 1 Feb 2021 |
 | CMCO | All other areas | until 26 Jan 2021 |
 
-### Sarawak
+### Pahang {#pahang}
+
+\-
+
+### Penang {#penang}
+
+\-
+
+### Perak {#perak}
+
+\-
+
+### Perlis {#perlis}
+
+\-
+
+### Putrajaya {#putrajaya}
+
+\-
+
+### Sabah {#sabah}
+
+\-
+
+### Sarawak {#sarawak}
 
 | MCO Type | Areas Affected | Effective Period |
 |:--------:|----------------|:--------------:|
 | MCO | Sibu | until 29 Jan 2021 |
 | CMCO | All other areas | until 31 Jan 2021 |
 
-[Sarawak]: #sarawak
+### Selangor {#selangor}
+
+\-
+
+### Terengganu {#terengganu}
+
+\-
+
+
+[Johor]: #johor
+[Kedah]: #kedah
+[Kelantan]: #kelantan
+[KL]: #kl
+[Labuan]: #labuan
+[Melaka]: #melaka
 [Negeri Sembilan]: #negeri-sembilan
+[Pahang]: #pahang
+[Penang]: #penang
+[Perak]: #perak
+[Perlis]: #perlis
+[Putrajaya]: #putrajaya
+[Sabah]: #sabah
+[Sarawak]: #sarawak
+[Selangor]: #selangor
+[Terengganu]: #terengganu
