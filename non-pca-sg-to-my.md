@@ -242,17 +242,21 @@ Yes, you can. If you are travelling onwards to other districts outside of your q
 
 Take note that inter-state travel is not allowed for the whole country, and states under MCO will not allow inter-district travel. See the [latest information about the nationwide MCO][Appendix MCO]
 
-You will have to apply for a movement permit using the form [here](https://www.rmp.gov.my/docs/default-source/Penerbitan/borang-permit-pergerakan-pkpb.pdf?sfvrsn=2) at the nearest police station. Please send to your friends/relatives the photos of:
+You should make arrangements to travel home on your own, if possible.
+
+If you have difficulties travelling home on your own, your family will have to apply for a movement permit using the [MCO / PKP][Movement Permit MCO] or [CMCO / PKPB][Movement Permit CMCO] forms. Physical copies of the form are available at the nearest police station, or can be printed using the above links.
+
+Please send to your friends/relatives photos of these documents to support the movement permit application:
 
 1. the Quarantine Order document given to you at the start of the quarantine
 2. (If applying last minute) the _Surat Pelepasan_
 
-as supporting documents for their movement permit application to fetch you.
-
-Your family/friends who will pick you up will then carry the letter when they pick you up from the quarantine station at the end of your quarantine.
+The police will have to approve your family's movement permit, after which your family/friends must then carry the letter when they pick you up from the quarantine station at the end of your quarantine.
 
 [Appendix MCO]: /appendix-mco
 [Acronyms]: /appendix-acronyms
 [Sistem Temujanji Online]: http://www.sto.imi.gov.my
 [MyTravelPass]: https://mtp.imi.gov.my/myTravelPass/main
 [MySafeTravel]: https://safetravel.myeg.com.my
+[Movement Permit MCO]: https://www.rmp.gov.my/docs/default-source/permit-pergerakan-perintah-kawalan-pergerakan-(pkp)/borang-permit-pergerakan-perintah-kawalan-pergerakan-(pkp).jpeg
+[Movement Permit CMCO]: https://www.rmp.gov.my/docs/default-source/Penerbitan/borang-permit-pergerakan-pkpb.pdf?sfvrsn=2
