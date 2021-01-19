@@ -20,15 +20,34 @@ A nationwide mix of RMCO/CMCO/MCO has been imposed based on the announcement by 
 
 Effective date: until **26 Jan 2021**
 
-States that have additional arrangements will be marked with an asterisk (\*).
+| States/F.T.s | MCOs and Effective Periods |
+|--------|-|
+|Johor| MCO: until 26 Jan 2021 |
+|Kedah| CMCO: until 21 Jan 2021<br/>MCO: 22 Jan - 4 Feb 2021 |
+|Kelantan| MCO: until 26 Jan 2021 |
+|Melaka| MCO: until 26 Jan 2021 |
+|[Negeri Sembilan]| CMCO: until 21 Jan 2021<br/>MCO: 22 Jan - 4 Feb 2021 |
+|Pahang| CMCO: until 21 Jan 2021<br/>MCO: 22 Jan - 4 Feb 2021 |
+|Penang| MCO: until 26 Jan 2021 |
+|Perak| CMCO: until 21 Jan 2021<br/>MCO: 22 Jan - 4 Feb 2021 |
+|Perlis| RMCO: until 21 Jan 2021<br/>MCO: 22 Jan - 4 Feb 2021 |
+|Sabah| MCO: until 26 Jan 2021 |
+|[Sarawak]| CMCO: until 31 Jan 2021 |
+|Selangor| MCO: until 26 Jan 2021 |
+|Terengganu| CMCO: until 21 Jan 2021<br/>MCO: 22 Jan - 4 Feb 2021 |
+|W.P. Kuala Lumpur| MCO: until 26 Jan 2021 |
+|W.P. Labuan| MCO: until 26 Jan 2021 |
+|W.P. Putrajaya| MCO: until 26 Jan 2021 |
 
-| MCO Type | States/FTs Affected                                                     |
+<!-- | MCO Type | States/FTs Affected                                                     |
 |:--------:|-------------------------------------------------------------------------|
-| MCO      | Kelantan, Penang, Selangor, KL, Putrajaya, Labuan, Johor, Sabah, Melaka |
-| CMCO     | Kedah, Perak, [Negeri Sembilan]\*, Terengganu, Pahang, [Sarawak]\*             |
-| RMCO     | Perlis                                                                  |
-
+| MCO      | [Kelantan], [Penang], [Selangor], [KL], [Putrajaya], [Labuan], [Johor], [Sabah], [Melaka] |
+| CMCO     | [Kedah]^, [Perak]^, [Negeri Sembilan]\*, [Terengganu]^, [Pahang]^, [Sarawak]\*             |
+| RMCO     | [Perlis]^                                                                  | -->
+<!-- 
 \* _Sarawak's CMCO ends 31 Jan 2021. See below for more details._
+
+^ _States marked will enter MCO from 22 Jan to 4 Feb 2021._ -->
 
 ## Additional Notes
 
