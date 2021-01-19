@@ -55,7 +55,7 @@ No, you must travel on the dates that were mentioned.
 
 No amendments are allowed once the PCA application is approved. The PCA pre-payment for SHN and swab will be forfeited and not refunded. A new PCA application can only be done 90 days after your last entry date.
 
-You may still [exit to Malaysia](/non-pca-sg-to-my) and [enter to Singapore](/non-pca-my-to-sg) without the PCA, subject to the conditions and process as a non-PCA traveller.
+You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/non-pca-my-to-sg) without the PCA, subject to the conditions and process as a non-PCA traveller.
 
 ## What are the differences between returning via the PCA and non-PCA routes? {#pca-comparison}
 
