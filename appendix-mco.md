@@ -66,6 +66,7 @@ _<sup>3</sup> RMCO until 21 Jan 2021, then MCO until 4 Feb 2021_
 
 ## Additional Notes
 
+<!-- 
 ### Johor {#johor}
 
 \-
@@ -88,15 +89,18 @@ _<sup>3</sup> RMCO until 21 Jan 2021, then MCO until 4 Feb 2021_
 
 ### Melaka {#melaka}
 
-\-
+\- 
+-->
 
 ### Negeri Sembilan {#negeri-sembilan}
 
 | MCO Type | Areas Affected | Effective Period |
 |:--------:|----------------|:--------------:|
-| MCO | Seremban, Port Dickson | until 1 Feb 2021 |
-| CMCO | All other areas | until 26 Jan 2021 |
+| CMCO | All other areas | until 21 Jan 2021 |
+| MCO | Seremban, Port Dickson | until 4 Feb 2021 |
+| MCO | All areas | 22 Jan - 4 Feb 2021 |
 
+<!-- 
 ### Pahang {#pahang}
 
 \-
@@ -120,6 +124,7 @@ _<sup>3</sup> RMCO until 21 Jan 2021, then MCO until 4 Feb 2021_
 ### Sabah {#sabah}
 
 \-
+-->
 
 ### Sarawak {#sarawak}
 
@@ -128,6 +133,7 @@ _<sup>3</sup> RMCO until 21 Jan 2021, then MCO until 4 Feb 2021_
 | MCO | Sibu | until 29 Jan 2021 |
 | CMCO | All other areas | until 31 Jan 2021 |
 
+<!--
 ### Selangor {#selangor}
 
 \-
@@ -135,7 +141,7 @@ _<sup>3</sup> RMCO until 21 Jan 2021, then MCO until 4 Feb 2021_
 ### Terengganu {#terengganu}
 
 \-
-
+ -->
 
 [Johor]: #johor
 [Kedah]: #kedah
