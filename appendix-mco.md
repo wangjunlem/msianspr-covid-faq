@@ -22,7 +22,7 @@ Effective date: until **26 Jan 2021**
 
 | States |  |  |  |
 |--------|--|--|--|
-| Johor<sup>1</sup>    | [N. Sembilan][Negeri Sembilan]  | Perlis<sup>3</sup>   | Terengganu<sup>2</sup> |
+| Johor<sup>1</sup>    | [Negeri Sembilan]  | Perlis<sup>3</sup>   | Terengganu<sup>2</sup> |
 | Kedah<sup>2</sup>    | Pahang<sup>2</sup> | Sabah<sup>1</sup>    | W.P. Kuala Lumpur<sup>1</sup> |
 | Kelantan<sup>1</sup> | Penang<sup>1</sup> | [Sarawak]            | W.P. Labuan<sup>1</sup> |
 | Melaka<sup>1</sup>   | Perak<sup>2</sup>  | Selangor<sup>1</sup> | W.P. Putrajaya<sup>1</sup> |
