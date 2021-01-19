@@ -18,8 +18,6 @@ The entire country is on RMCO until 31 Mar 2021.
 
 A nationwide mix of RMCO/CMCO/MCO has been imposed based on the announcement by PM Muhyiddin on 11 Jan 2021.
 
-Effective date: until **26 Jan 2021**
-
 | States |  |  |  |
 |--------|--|--|--|
 | Johor<sup>1</sup>    | [Negeri Sembilan]  | Perlis<sup>3</sup>   | Terengganu<sup>2</sup> |
