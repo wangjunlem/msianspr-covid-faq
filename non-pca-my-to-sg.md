@@ -22,7 +22,7 @@ If you are travelling with others, see: [What if my spouse/children are going ov
 
 You will need to submit a [Health Declaration](https://eservices.ica.gov.sg/sgarrivalcard/) up to 3 days before your arrival in Singapore.
 
-You will need to pay for your swab test (up to $200 including GST). Payment will not be made at the border; register and follow the instructions [here](https://go.gov.sg/covid19test). You will be informed of the date of your swab test later.
+You will need to pay for your swab test (up to $200 per swab, including GST). Payment will not be made at the border; register and follow the instructions [here](https://go.gov.sg/covid19test). You will be informed of the date of your swab test later.
 
 If you are entering Singapore with a non-SC/non-SPR, please ensure that they have approval from the relevant authorities for entry into Singapore. See the ICA page for more information [here](https://www.ica.gov.sg/covid-19/enteringsg). 
 
@@ -66,6 +66,8 @@ Please remember to keep all receipts during your SHN, including any taxi rides, 
 
 Please ensure that you have a thermometer with you to monitor your health during SHN.
 
+You do not need to do a swab test before entering Singapore. See [here](#sg-pre-entry-swab).
+
 There is a regular hourly bus offered by the Johor government. See [here](#enter-sg-transport).
 
 All related costs (tests, SHN, medical fees if any) will no longer be waived by the Singapore government if you enter after 1 January 2021. See [here](https://www.gov.sg/article/cost-of-shn-stays-swab-tests-and-medical-expenses-when-you-travel) for the latest updates on cost, and [here](https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers) for the change in policy.
@@ -73,6 +75,13 @@ All related costs (tests, SHN, medical fees if any) will no longer be waived by 
 You may want to download TraceTogether and/or SingPass, as well as the StayHome@SG app.
 
 If you are driving into, or passing through any districts/states with any form of MCO in effect, please apply for a movement permit using the form [here](https://www.rmp.gov.my/docs/default-source/Penerbitan/borang-permit-pergerakan-pkpb.pdf?sfvrsn=2) at the nearest police station. This applies to travellers departing from KLIA/KLIA2 as well. See: [Known Areas Affected By MCO][Appendix MCO]
+
+
+## Do I need to do a swab test before entering Singapore? {#sg-pre-entry-swab}
+
+No. Singapore PRs are exempt from the rule.
+
+However, if there are non-SCs/non-SPRs in your travelling party, they will need to do a pre-departure swab. See [here](#enter-sg-non-pr).
 
 ## How long is the SHN going to be? {#shn-duration}
 
