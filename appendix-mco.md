@@ -16,7 +16,9 @@ This page will not include targeted small-scale lockdowns with EMCO/TEMCO (e.g. 
 
 The entire country is on RMCO until 31 Mar 2021.
 
-| States |  |  |  |
+The current nationwide MCO (except Sarawak) is in effect until **<u>4 Feb 2021</u>**.
+
+<!-- | States |  |  |  |
 |--------|--|--|--|
 | Johor<sup>1</sup>    | [Negeri Sembilan]  | Perlis<sup>3</sup>   | Terengganu<sup>2</sup> |
 | Kedah<sup>2</sup>    | Pahang<sup>2</sup> | Sabah<sup>1</sup>    | W.P. Kuala Lumpur<sup>1</sup> |
@@ -28,7 +30,7 @@ _<sup>1</sup> MCO until 4 Feb 2021_
 
 _<sup>2</sup> CMCO until 21 Jan 2021, then MCO until 4 Feb 2021_
 
-_<sup>3</sup> RMCO until 21 Jan 2021, then MCO until 4 Feb 2021_
+_<sup>3</sup> RMCO until 21 Jan 2021, then MCO until 4 Feb 2021_ -->
 
 <!-- 
 | States/F.T.s | MCOs and Effective Periods |
@@ -50,15 +52,11 @@ _<sup>3</sup> RMCO until 21 Jan 2021, then MCO until 4 Feb 2021_
 |W.P. Labuan| MCO: until 26 Jan 2021 |
 |W.P. Putrajaya| MCO: until 26 Jan 2021 | -->
 
-<!-- | MCO Type | States/FTs Affected                                                     |
+| MCO Type | States/FTs Affected                                                     |
 |:--------:|-------------------------------------------------------------------------|
-| MCO      | [Kelantan], [Penang], [Selangor], [KL], [Putrajaya], [Labuan], [Johor], [Sabah], [Melaka] |
-| CMCO     | [Kedah]^, [Perak]^, [Negeri Sembilan]\*, [Terengganu]^, [Pahang]^, [Sarawak]\*             |
-| RMCO     | [Perlis]^                                                                  | -->
-<!-- 
-\* _Sarawak's CMCO ends 31 Jan 2021. See below for more details._
-
-^ _States marked will enter MCO from 22 Jan to 4 Feb 2021._ -->
+| MCO      | All states except Sarawak |
+| CMCO     | [Sarawak]\* |
+| RMCO     | - | 
 
 ## Additional Notes
 
@@ -86,17 +84,12 @@ _<sup>3</sup> RMCO until 21 Jan 2021, then MCO until 4 Feb 2021_
 ### Melaka {#melaka}
 
 \- 
--->
 
 ### Negeri Sembilan {#negeri-sembilan}
 
 | MCO Type | Areas Affected | Effective Period |
 |:--------:|----------------|:--------------:|
-| CMCO | All other areas | until 21 Jan 2021 |
-| MCO | Seremban, Port Dickson | until 4 Feb 2021 |
-| MCO | All areas | 22 Jan - 4 Feb 2021 |
 
-<!-- 
 ### Pahang {#pahang}
 
 \-
