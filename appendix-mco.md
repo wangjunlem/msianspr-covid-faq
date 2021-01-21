@@ -16,8 +16,6 @@ This page will not include targeted small-scale lockdowns with EMCO/TEMCO (e.g. 
 
 The entire country is on RMCO until 31 Mar 2021.
 
-A nationwide mix of RMCO/CMCO/MCO has been imposed based on the announcement by PM Muhyiddin on 11 Jan 2021.
-
 | States |  |  |  |
 |--------|--|--|--|
 | Johor<sup>1</sup>    | [Negeri Sembilan]  | Perlis<sup>3</sup>   | Terengganu<sup>2</sup> |
@@ -26,7 +24,7 @@ A nationwide mix of RMCO/CMCO/MCO has been imposed based on the announcement by 
 | Melaka<sup>1</sup>   | Perak<sup>2</sup>  | Selangor<sup>1</sup> | W.P. Putrajaya<sup>1</sup> |
 
 
-_<sup>1</sup> MCO until 26 Jan 2021_
+_<sup>1</sup> MCO until 4 Feb 2021_
 
 _<sup>2</sup> CMCO until 21 Jan 2021, then MCO until 4 Feb 2021_
 
