@@ -16,7 +16,7 @@ This page will not include targeted small-scale lockdowns with EMCO/TEMCO (e.g. 
 
 The entire country is on RMCO until 31 Mar 2021.
 
-The current nationwide MCO (except Sarawak) is in effect until **<u>4 Feb 2021</u>**.
+The current nationwide MCO (except Sarawak) is in effect until **<u>18 Feb 2021</u>**.
 
 <!-- | States |  |  |  |
 |--------|--|--|--|
@@ -119,8 +119,8 @@ _<sup>3</sup> RMCO until 21 Jan 2021, then MCO until 4 Feb 2021_ -->
 
 | MCO Type | Areas Affected | Effective Period |
 |:--------:|----------------|:--------------:|
-| MCO | Sibu | until 29 Jan 2021 |
-| CMCO | All other areas | until 31 Jan 2021 |
+| MCO | Sibu | until 14 Feb 2021 |
+| CMCO | All other areas | until 14 Feb 2021 |
 
 <!--
 ### Selangor {#selangor}

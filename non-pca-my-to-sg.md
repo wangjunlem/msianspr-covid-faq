@@ -74,7 +74,7 @@ All related costs (tests, SHN, medical fees if any) will no longer be waived by 
 
 You may want to download TraceTogether and/or SingPass, as well as the StayHome@SG app.
 
-If you are driving into, or passing through any districts/states with any form of MCO in effect, please apply for a movement permit using the form [here](https://www.rmp.gov.my/docs/default-source/Penerbitan/borang-permit-pergerakan-pkpb.pdf?sfvrsn=2) at the nearest police station. This applies to travellers departing from KLIA/KLIA2 as well. See: [Known Areas Affected By MCO][Appendix MCO]
+If you are driving into, or passing through any districts/states with any form of MCO in effect, please apply for a movement permit using the form [here](/assets/borang-permit-pergerakan-pkpb.pdf) at the nearest police station. This applies to travellers departing from KLIA/KLIA2 as well. See: [Known Areas Affected By MCO][Appendix MCO]
 
 
 ## Do I need to do a swab test before entering Singapore? {#sg-pre-entry-swab}

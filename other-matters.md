@@ -19,7 +19,7 @@ You may refer to the [myPassport] service. Also see the Malaysian High Comm FAQ 
 
 Your re-entry permit is fine as long as you do not leave Singapore while it is expired.
 
-Once you have received your renewed passport, please update ICA through [e-REP].
+Once you have received your renewed passport, please transfer your re-entry permit through [e-REP].
 
 
 ### What if there are issues with my passport renewal? 

@@ -258,5 +258,5 @@ The police will have to approve your family's movement permit, after which your 
 [Sistem Temujanji Online]: http://www.sto.imi.gov.my
 [MyTravelPass]: https://mtp.imi.gov.my/myTravelPass/main
 [MySafeTravel]: https://safetravel.myeg.com.my
-[Movement Permit MCO]: https://www.rmp.gov.my/docs/default-source/permit-pergerakan-perintah-kawalan-pergerakan-(pkp)/borang-permit-pergerakan-perintah-kawalan-pergerakan-(pkp).jpeg
-[Movement Permit CMCO]: https://www.rmp.gov.my/docs/default-source/Penerbitan/borang-permit-pergerakan-pkpb.pdf?sfvrsn=2
+[Movement Permit MCO]: /assets/borang-permit-pergerakan-pkp.jpg
+[Movement Permit CMCO]: /assets/borang-permit-pergerakan-pkpb.pdf
