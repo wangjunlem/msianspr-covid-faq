@@ -50,7 +50,9 @@ However, you will undergo a swab test at the end of your SHN. If you are enterin
 
 ## Is it possible to stay in the same room for SHN with other people? {#pca-sg-shn-share}
 
-Yes, but only if the person is a family member (spouse/child who does not need to be under PCA). Employees from the same company are no longer allowed to share the room.
+Yes, but only if the person is a family member (spouse/child who does not need to be under PCA). Please prepare proof of familial ties, such as a copy of the marriage/birth certificate.
+
+Employees from the same company are no longer allowed to share rooms.
 
 See the [response][ICA SafeTravel Response] from the Safe Travel team on costs and appeal details.
 
