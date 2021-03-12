@@ -16,8 +16,6 @@ Note that holding SPR In-Principle Approval (IPA) does not constitute being a PR
 
 If you are travelling with others, see: [What if my spouse/children are going over with me to Singapore?](#enter-sg-non-pr)
 
-\* _Please expect delays in the approval process due to the existing [nationwide MCO][Appendix MCO]._
-
 ## What do I need to do to enter Singapore? {#enter-sg}
 
 You will need to submit a [Health Declaration](https://eservices.ica.gov.sg/sgarrivalcard/) up to 3 days before your arrival in Singapore.
@@ -61,7 +59,6 @@ You will also need to [submit an appeal](https://form.gov.sg/#!/5e3648e9405c1800
 
 When exiting Malaysia, the current rule is that you (as the SPR) must exit together with any travellers under 12 who have gained the special approval on MyTravelPass.
 
-\* _Please expect delays in the approval process due to the existing [nationwide MCO][Appendix MCO]._
 
 ## Is there anything to do/note before I enter Singapore? {#before-entering-sg}
 
@@ -77,8 +74,7 @@ All related costs (tests, SHN, medical fees if any) will no longer be waived by 
 
 You may want to download TraceTogether and/or SingPass, as well as the StayHome@SG app.
 
-If you are driving into, or passing through any districts/states with any form of MCO in effect, please apply for a movement permit using the form [here](/assets/borang-permit-pergerakan-pkpb.pdf) at the nearest police station. This applies to travellers departing from KLIA/KLIA2 as well. See: [Known Areas Affected By MCO][Appendix MCO]
-
+If you are driving into, or passing through any districts/states with any form of MCO in effect, please apply for a movement permit using the form [here][Movement Permit CMCO] at the nearest police station. This applies to travellers departing from KLIA/KLIA2 as well. See: [Known Areas Affected By MCO][Appendix MCO]
 
 ## Do I need to do a swab test before entering Singapore? {#sg-pre-entry-swab}
 
@@ -128,5 +124,7 @@ You can leave your accommodation after 12pm on the last day of your SHN, but onl
 
 [Appendix MCO]: /appendix-mco
 [MyTravelPass]: https://mtp.imi.gov.my/myTravelPass/main
+[Movement Permit MCO]: /assets/borang-permit-pergerakan-pkp.jpg
+[Movement Permit CMCO]: /assets/borang-permit-pergerakan-pkpb.pdf
 
 [MOH Presser SHN MY 14d]: https://www.moh.gov.sg/news-highlights/details/updated-border-measures-for-travellers-from-malaysia-and-japan

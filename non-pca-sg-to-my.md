@@ -54,8 +54,6 @@ If the non-citizen traveller(s) do not have a [LTSVP][Acronyms] yet, also apply 
 
 Additionally, foreigners are required to make payment for the accommodation and operational costs using [MySafeTravel] before entering Malaysia.
 
-\* _Please expect delays in the approval process due to the existing [nationwide MCO][Appendix MCO]._
-
 ## Who do I need to put as Witness on my Letter of Undertaking (LoU)? {#lou-witness}
 
 There is no need. It will be filled in when you arrive at the checkpoint.
@@ -247,7 +245,7 @@ Take note that inter-state travel is not allowed for the whole country, and stat
 
 You should make arrangements to travel home on your own, if possible.
 
-If you have difficulties travelling home on your own, your family will have to apply for a movement permit using the [MCO / PKP][Movement Permit MCO] or [CMCO / PKPB][Movement Permit CMCO] forms. Physical copies of the form are available at the nearest police station, or can be printed using the above links.
+If you have difficulties travelling home on your own, your family will have to apply for a movement permit using the [CMCO / PKPB][Movement Permit CMCO] form. Physical copies of the form are available at the nearest police station, or can be printed using the above link.
 
 Please send to your friends/relatives photos of these documents to support the movement permit application:
 
