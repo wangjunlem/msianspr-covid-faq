@@ -10,7 +10,7 @@ hide_footer: true
 
 There are no restrictions for exiting Singapore. The official travel advisory by MOH is to defer all travel to Malaysia. The latest advisory can be found [here](https://www.moh.gov.sg/covid-19).
 
-Please verify that your Re-entry Permit (REP) is still valid before exiting Singapore. Additionally, please ensure that you have a digital copy of your REP on your phone or in cloud storage.
+Please verify that your Re-entry Permit (REP) is still valid before exiting Singapore. Additionally, please ensure that you have a digital copy of your REP on your phone or in cloud storage. You may obtain a copy of the REP [here][e-REP]
 
 Regarding the issue of myPASS for travel to Malaysia, if you are travelling:
 
@@ -87,7 +87,7 @@ Bring along the following with you:
 
 1. a pen
 2. a thermometer
-3. a digital/physical copy of valid SPR Re-entry Permit (REP)
+3. a [digital][e-REP]/physical copy of valid SPR Re-entry Permit (REP)
 4. the MySafeTravel receipt(s)/QR code(s) (if payment was made ahead of time)
 5. cash of at least RM400 (if payment not made ahead of time)
 6. a printed and signed Letter of Undertaking (LoU) (optional, can be filled on arrival)
@@ -261,3 +261,4 @@ The police will have to approve your family's movement permit, after which your 
 [MySafeTravel]: https://safetravel.myeg.com.my
 [Movement Permit MCO]: /assets/borang-permit-pergerakan-pkp.jpg
 [Movement Permit CMCO]: /assets/borang-permit-pergerakan-pkpb.pdf
+[e-REP]: https://eservices.ica.gov.sg/esvclandingpage/erep

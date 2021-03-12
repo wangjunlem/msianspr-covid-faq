@@ -53,8 +53,13 @@ No. You must serve a [14-day SHN][MOH Presser SHN MY 14d] at a SHN dedicated fac
 
 ## What if my spouse/children are going over with me to Singapore? {#enter-sg-non-pr}
 
-If you are exiting the country with Malaysian citizen(s) who do not qualify for any approval exemptions listed in the JIM memo [here](https://www.facebook.com/imigresen/posts/3525366314196465) (please check JIM page in case this becomes outdated), then you will need to apply for [MyTravelPass] for them to exit the country at least 5 working days\* before your journey. Include all relevant supporting documents - your SPR NRIC and reentry permit, marriage/birth certificates, and an appeal letter at the bare minimum. Please submit your application only once until there is a response on your application.
+If you are exiting the country with Malaysian citizen(s) who do not qualify for any approval exemptions listed in the JIM memo [here](https://www.facebook.com/imigresen/posts/3525366314196465) (please check JIM page in case this becomes outdated), then you will need to apply for [MyTravelPass] for them to exit the country at least 5 working days\* before your journey. Include all relevant supporting documents; the bare minimum would be 
+- your Singapore PR NRIC(s)
+- your Singapore PR re-entry permit(s) _(a copy of it can be obtained [here][e-REP])_
+- marriage/birth certificates
+- an appeal letter
 
+Please submit your application only once until there is a response on your application.
 
 You will also need to submit an appeal to ICA for entry to Singapore for people not holding SPR; see [here](https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process) for more info. Non-SC/non-SPR travellers will also require a valid negative COVID-19 to enter Singapore. See [here][MOH Presser SHN MY 14d] for more details.
 
@@ -124,6 +129,7 @@ You can leave your accommodation after 12pm on the last day of your SHN, but onl
 
 [Appendix MCO]: /appendix-mco
 [MyTravelPass]: https://mtp.imi.gov.my/myTravelPass/main
+[e-REP]: https://eservices.ica.gov.sg/esvclandingpage/erep
 [Movement Permit MCO]: /assets/borang-permit-pergerakan-pkp.jpg
 [Movement Permit CMCO]: /assets/borang-permit-pergerakan-pkpb.pdf
 
