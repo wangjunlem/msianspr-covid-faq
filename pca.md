@@ -49,6 +49,12 @@ No, PRs are exempt from the pre-departure swab test.
 
 However, you will undergo a swab test at the end of your SHN. If you are entering from 25th January onwards, you will also take a swab test on arrival.
 
+## Is it possible to stay in the same room for SHN with other people? {#pca-sg-shn-share}
+
+Yes, but only if the person is a family member (spouse/child who does not need to be under PCA). Employees from the same company are no longer allowed to share the room.
+
+See the [response][ICA SafeTravel Response] from the Safe Travel team on costs and appeal details.
+
 ## I would like to travel on a different date from the dates in the PCA application. Am I allowed to do so? {#pca-date-change}
 
 No, you must travel on the dates that were mentioned. 
