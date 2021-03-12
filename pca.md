@@ -75,7 +75,7 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 |Pre-departure swab test required|No|No|No|
 |Arrival swab test required|No\*|No\*|No\*|
 |Quarantine / SHN duration |14 days|14 days|14 days|
-|SHN roommate restriction|Family members or (same sex) colleague|Family members only|Family members only|
+|SHN roommate restriction|Family members only\*\*|Family members only|Family members only|
 |End of SHN swab test required|Yes|Yes|Yes|
 |Estimated total spend^|up to $2200|up to $2200|up to $2200|
 
@@ -84,9 +84,12 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 
 \* _All travellers arriving from 25th January onwards will be subject to arrival swab._
 
+\*\* _Based on [an email][ICA SafeTravel Response] from the SafeTravel office found in the Telegram chat group on 25th February, colleagues of the same sex are no longer allowed to room together._
+
 ^ _Estimated total spend in both countries assumes a solo SPR traveller. See detailed costs for [Singapore][SG SHN Cost] and [Malaysia][Non-PCA Quarantine]._
 
 [SafeTravel]: https://safetravel.ica.gov.sg/pca/overview
 [PCA Requirements and Process]: https://safetravel.ica.gov.sg/pca/requirements-and-process
 [Non-PCA Quarantine]: /non-pca-sg-to-my#my-hso-cost
 [SG SHN Cost]: /non-pca-my-to-sg#shn-cost
+[ICA SafeTravel Response]: /assets/safetravel-ica-response-2021-02-25.jpg
