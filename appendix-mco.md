@@ -15,7 +15,10 @@ This page will not include targeted small-scale lockdowns with EMCO/TEMCO (e.g. 
 ## Current Status
 
 The entire country is on RMCO until 31 Mar 2021.
-<!-- | States |  |  |  |
+
+<!-- 
+
+| States |  |  |  |
 |--------|--|--|--|
 | Johor<sup>1</sup>    | [Negeri Sembilan]  | Perlis<sup>3</sup>   | Terengganu<sup>2</sup> |
 | Kedah<sup>2</sup>    | Pahang<sup>2</sup> | Sabah<sup>1</sup>    | W.P. Kuala Lumpur<sup>1</sup> |
@@ -27,7 +30,8 @@ _<sup>1</sup> MCO until 4 Feb 2021_
 
 _<sup>2</sup> CMCO until 21 Jan 2021, then MCO until 4 Feb 2021_
 
-_<sup>3</sup> RMCO until 21 Jan 2021, then MCO until 4 Feb 2021_ -->
+_<sup>3</sup> RMCO until 21 Jan 2021, then MCO until 4 Feb 2021_ 
+-->
 
 <!-- 
 | States/F.T.s | MCOs and Effective Periods |
