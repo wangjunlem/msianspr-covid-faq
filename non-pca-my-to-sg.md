@@ -20,7 +20,7 @@ If you are travelling with others, see: [What if my spouse/children are going ov
 
 You will need to submit a [Health Declaration](https://eservices.ica.gov.sg/sgarrivalcard/) up to 3 days before your arrival in Singapore.
 
-You will need to pay for your swab test (up to $200 per swab, including GST). Payment will not be made at the border; register and follow the instructions [here](https://go.gov.sg/covid19test). You will be informed of the date of your swab test later.
+You will need to pay for your swab test (up to $200 per swab, including GST). For the swab test on arrival, please follow the instructions [here][SafeTravel Swab]. For the swab test at the end of SHN, payment will not be made at the border; register and follow the instructions [here](https://go.gov.sg/covid19test). You will be informed of the date of your swab test later.
 
 If you are entering Singapore with a non-SC/non-SPR, please ensure that they have approval from the relevant authorities for entry into Singapore. See the ICA page for more information [here](https://www.ica.gov.sg/covid-19/enteringsg). 
 
@@ -75,7 +75,7 @@ You do not need to do a swab test before entering Singapore. See [here](#sg-pre-
 
 There is a regular hourly bus offered by the Johor government. See [here](#enter-sg-transport).
 
-All related costs (tests, SHN, medical fees if any) will no longer be waived by the Singapore government if you enter after 1 January 2021. See [here](https://www.gov.sg/article/cost-of-shn-stays-swab-tests-and-medical-expenses-when-you-travel) for the latest updates on cost, and [here](https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers) for the change in policy.
+All related costs (tests, SHN, medical fees if any) will no longer be waived by the Singapore government if you enter after 1 January 2021. The latest updates on cost can be found at the links for [SHN Dedicated Facilities][SafeTravel SDF] and [swab tests][SafeTravel Swab]. See [here](https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers) for the change in policy.
 
 You may want to download TraceTogether and/or SingPass, as well as the StayHome@SG app.
 
@@ -95,11 +95,11 @@ Additionally, from 19th January onwards, if you have recent travel history to th
 
 ## How much will the entirety of the SHN cost? {#shn-cost}
 
-For staying at a SHN Dedicated Facility (SDF), it will cost $2000 per person. If you are sharing the room with another person (limited to family members and subject to approval), the cost will be $1300 per person.
+For staying at a [SHN Dedicated Facility][SafeTravel SDF] (SDF), it will cost $2000 per person. If you are sharing the room with another person (limited to family members and subject to approval), the cost will be $1300 per person.
 
 If you have children, they may qualify for reduced charges depending on their age. You can appeal to ICA via the hotel in which you are serving your SHN; the hotel manager on duty will forward the appeal.
 
-For the swab test, it will cost maximum $200 per person per swab. (Last known price: $125)
+For the [swab tests][SafeTravel Swab], it will cost maximum $200 per person per swab. (Last known price: $160 for arrival swab, $125 for swab at end of SHN)
 
 ## What happens to my vehicle if I’m driving in? {#vehicle-before-shn}
 
@@ -110,10 +110,9 @@ There have been instances of escort officers and vehicles that will follow you t
 
 ## When is my swab test? {#swab-when}
 
-You will complete a swab test closer to the end of your SHN.
+You will be required to take a swab test on arrival. This rule applies to all travellers.
 
-Additionally, from 25th January onwards, you will also take a swab test on arrival in Singapore. This rule applies to all travellers.
-
+You will also complete a swab test closer to the end of your SHN.
 
 ## When and where can I check my swab test results? {#check-swab-results}
 
@@ -132,5 +131,7 @@ You can leave your accommodation after 12pm on the last day of your SHN, but onl
 [e-REP]: https://eservices.ica.gov.sg/esvclandingpage/erep
 [Movement Permit MCO]: /assets/borang-permit-pergerakan-pkp.jpg
 [Movement Permit CMCO]: /assets/borang-permit-pergerakan-pkpb.pdf
+[SafeTravel SDF]: https://safetravel.ica.gov.sg/health/shn/sdf
+[SafeTravel Swab]: https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest#pcr-test-in-singapore
 
 [MOH Presser SHN MY 14d]: https://www.moh.gov.sg/news-highlights/details/updated-border-measures-for-travellers-from-malaysia-and-japan

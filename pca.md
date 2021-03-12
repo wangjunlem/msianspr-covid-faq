@@ -80,23 +80,25 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 |Estimated total spend^|min. RM200<br/>(arrival swab + hotel stay if no residence in Johor)|up to RM1800<br/>(hotel + 2 swabs in Malaysia)|up to RM1200 + up to $200<br/>(hotel + 1 swab in Singapore + 1 swab in Malaysia)|
 |**RETURNING TO SINGAPORE**| | |
 |Pre-departure swab test required|No|No|No|
-|Arrival swab test required|No\*|No\*|No\*|
+|Arrival swab test required|Yes|Yes|Yes|
 |Quarantine / SHN duration |14 days|14 days|14 days|
-|SHN roommate restriction|Family members only\*\*|Family members only|Family members only|
+|SHN roommate restriction|Family members only\*|Family members only|Family members only|
 |End of SHN swab test required|Yes|Yes|Yes|
-|Estimated total spend^|up to $2200|up to $2200|up to $2200|
+|Estimated total spend^^|up to $2400|up to $2400|up to $2400|
 
 
 **NOTES:**
 
-\* _All travellers arriving from 25th January onwards will be subject to arrival swab._
+\* _Based on [an email][ICA SafeTravel Response] from the SafeTravel office found in the Telegram chat group on 25th February, colleagues of the same sex are no longer allowed to room together._
 
-\*\* _Based on [an email][ICA SafeTravel Response] from the SafeTravel office found in the Telegram chat group on 25th February, colleagues of the same sex are no longer allowed to room together._
+^ _Estimated total spend assumes a solo SPR traveller. See detailed costs for [Malaysia][Non-PCA Quarantine]._
 
-^ _Estimated total spend in both countries assumes a solo SPR traveller. See detailed costs for [Singapore][SG SHN Cost] and [Malaysia][Non-PCA Quarantine]._
+^^ _Estimated total spend assumes a solo SPR traveller. See detailed costs for [Singapore][SG SHN Cost]. For official information, please see [here][SG SDF Cost] for accommodation and [here][SG Swab Cost] for swab tests._
 
 [SafeTravel]: https://safetravel.ica.gov.sg/pca/overview
 [PCA Requirements and Process]: https://safetravel.ica.gov.sg/pca/requirements-and-process
 [Non-PCA Quarantine]: /non-pca-sg-to-my#my-hso-cost
 [SG SHN Cost]: /non-pca-my-to-sg#shn-cost
+[SG SDF Cost]: https://safetravel.ica.gov.sg/health/shn/sdf
+[SG Swab Cost]: https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest#pcr-test-in-singapore
 [ICA SafeTravel Response]: /assets/safetravel-ica-response-2021-02-25.jpg
