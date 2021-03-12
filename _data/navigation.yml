@@ -1,8 +1,8 @@
 - name: "Non-PCA"
   dropdown:
-    - name: SG ➔ MY
+    - name: ... to Malaysia
       link: non-pca-sg-to-my
-    - name: MY ➔ SG
+    - name: ... to Singapore
       link: non-pca-my-to-sg
 - name: "PCA"
   link: pca

@@ -8,12 +8,11 @@ hide_footer: true
 
 ## Passport Renewal 
 
-
 ### Where can I renew my passport? 
 
 You may refer to the [myPassport] service. Also see the Malaysian High Comm FAQ page [here][MHC FAQ].
 
-<!-- [This page](http://foodwinetravelmore.com/how-to-renew-malaysian-passport-in-singapore/) is a good guide to the application process. -->
+[This page](http://foodwinetravelmore.com/how-to-renew-malaysian-passport-in-singapore/) is a good guide to the application process. _Credits to the blog owner! :)_
 
 ### My passport is expiring soon. What will happen to my Re-entry Permit? 
 

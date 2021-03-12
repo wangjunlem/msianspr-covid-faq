@@ -10,7 +10,7 @@ hide_footer: true
 
 There are no restrictions for exiting Singapore. The official travel advisory by MOH is to defer all travel to Malaysia. The latest advisory can be found [here](https://www.moh.gov.sg/covid-19).
 
-Please verify that your Re-entry Permit (REP) is still valid before exiting Singapore. Additionally, please ensure that you have a digital copy of your REP on your phone or in cloud storage.
+Please verify that your Re-entry Permit (REP) is still valid before exiting Singapore. Additionally, please ensure that you have a digital copy of your REP on your phone or in cloud storage. You may obtain a copy of the REP [here][e-REP]
 
 Regarding the issue of myPASS for travel to Malaysia, if you are travelling:
 
@@ -54,8 +54,6 @@ If the non-citizen traveller(s) do not have a [LTSVP][Acronyms] yet, also apply 
 
 Additionally, foreigners are required to make payment for the accommodation and operational costs using [MySafeTravel] before entering Malaysia.
 
-\* _Please expect delays in the approval process due to the existing [nationwide MCO][Appendix MCO]._
-
 ## Who do I need to put as Witness on my Letter of Undertaking (LoU)? {#lou-witness}
 
 There is no need. It will be filled in when you arrive at the checkpoint.
@@ -89,7 +87,7 @@ Bring along the following with you:
 
 1. a pen
 2. a thermometer
-3. a digital/physical copy of valid SPR Re-entry Permit (REP)
+3. a [digital][e-REP]/physical copy of valid SPR Re-entry Permit (REP)
 4. the MySafeTravel receipt(s)/QR code(s) (if payment was made ahead of time)
 5. cash of at least RM400 (if payment not made ahead of time)
 6. a printed and signed Letter of Undertaking (LoU) (optional, can be filled on arrival)
@@ -205,6 +203,9 @@ If there are truly extenuating circumstances (e.g. people requiring long term ca
 
 Please refer to [guidelines on requesting for exemptions](/appendix-appeal-moh-my).
 
+## I have taken the vaccine for Covid-19. Can I get an exemption for quarantine? {#hso-vaccine}
+
+No. There are currently no policies that exempt those who have been vaccinated against Covid-19 from their quarantine obligations.
 
 ## Can I be exempted from paying the quarantine fees? {#my-hso-payment-exemption}
 
@@ -244,7 +245,7 @@ Take note that inter-state travel is not allowed for the whole country, and stat
 
 You should make arrangements to travel home on your own, if possible.
 
-If you have difficulties travelling home on your own, your family will have to apply for a movement permit using the [MCO / PKP][Movement Permit MCO] or [CMCO / PKPB][Movement Permit CMCO] forms. Physical copies of the form are available at the nearest police station, or can be printed using the above links.
+If you have difficulties travelling home on your own, your family will have to apply for a movement permit using the [CMCO / PKPB][Movement Permit CMCO] form. Physical copies of the form are available at the nearest police station, or can be printed using the above link.
 
 Please send to your friends/relatives photos of these documents to support the movement permit application:
 
@@ -260,3 +261,4 @@ The police will have to approve your family's movement permit, after which your 
 [MySafeTravel]: https://safetravel.myeg.com.my
 [Movement Permit MCO]: /assets/borang-permit-pergerakan-pkp.jpg
 [Movement Permit CMCO]: /assets/borang-permit-pergerakan-pkpb.pdf
+[e-REP]: https://eservices.ica.gov.sg/esvclandingpage/erep
