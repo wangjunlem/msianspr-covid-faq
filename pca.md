@@ -8,10 +8,9 @@ hide_footer: true
 
 ## Does the Periodic Commuting Arrangement (PCA) apply to us SPRs? {#pca-spr-qualify}
 
-Yes, if you are employed by a company. Please consult with your company’s HR on the exact procedures.
+Yes, if you are employed by a company. Please consult with your company’s HR on their stance on PCA and the exact procedures for application.
 
 See more information about the PCA scheme [here][SafeTravel] and the requirements and process [here][PCA Requirements and Process].
-
 
 ## What are the travel requirements, conditions, restrictions? {#pca-travel-conditions}
 
