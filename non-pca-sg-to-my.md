@@ -205,6 +205,9 @@ If there are truly extenuating circumstances (e.g. people requiring long term ca
 
 Please refer to [guidelines on requesting for exemptions](/appendix-appeal-moh-my).
 
+## I have taken the vaccine for Covid-19. Can I get an exemption for quarantine? {#hso-vaccine}
+
+No. There are currently no policies that exempt those who have been vaccinated against Covid-19 from their quarantine obligations.
 
 ## Can I be exempted from paying the quarantine fees? {#my-hso-payment-exemption}
 

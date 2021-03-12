@@ -45,6 +45,9 @@ Yes, with the condition that you hold a valid Singapore PR or long-term pass. Ot
 
 _You are strongly advised to not abuse this, please, and to only travel if absolutely necessary._
 
+## I have taken the vaccine for Covid-19. Can I get an exemption for SHN? {#shn-vaccine}
+
+No. There are currently no policies that exempt those who have been vaccinated against Covid-19 from their SHN obligations.
 
 ## Can I serve my SHN at my residence in Singapore? {#shn-own-home}
 
