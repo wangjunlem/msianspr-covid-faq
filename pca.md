@@ -24,6 +24,11 @@ You can be out of Singapore for up to 60 days per PCA application, and will have
 
 The total number of PCA travellers per day is subject to a daily quota (unknown number). Please make arrangements with your employer ahead of time.
 
+## What do I need to bring when travelling into Malaysia or into Singapore? {#pca-before-entering}
+
+In addition to the advice given here for travelling [into Malaysia](/non-pca-sg-to-my#before-entering-my) or [into Singapore](/non-pca-my-to-sg#before-entering-sg), you **must** bring along your PCA approval letter.
+
+Failure to do so would mean that you will be subject to prevailing quarantine requirements under the non-PCA route.
 
 ## I am self-employed/unemployed. Am I allowed to apply for PCA? {#pca-no-corppass}
 
