@@ -8,10 +8,9 @@ hide_footer: true
 
 ## Does the Periodic Commuting Arrangement (PCA) apply to us SPRs? {#pca-spr-qualify}
 
-Yes, if you are employed by a company. Please consult with your company’s HR on the exact procedures.
+Yes, if you are employed by a company. Please consult with your company’s HR on their stance on PCA and the exact procedures for application.
 
 See more information about the PCA scheme [here][SafeTravel] and the requirements and process [here][PCA Requirements and Process].
-
 
 ## What are the travel requirements, conditions, restrictions? {#pca-travel-conditions}
 
@@ -25,6 +24,11 @@ You can be out of Singapore for up to 60 days per PCA application, and will have
 
 The total number of PCA travellers per day is subject to a daily quota (unknown number). Please make arrangements with your employer ahead of time.
 
+## What do I need to bring when travelling into Malaysia or into Singapore? {#pca-before-entering}
+
+In addition to the advice given here for travelling [into Malaysia](/non-pca-sg-to-my#before-entering-my) or [into Singapore](/non-pca-my-to-sg#before-entering-sg), you **must** bring along your PCA approval letter.
+
+Failure to do so would mean that you will be subject to prevailing quarantine requirements under the non-PCA route.
 
 ## I am self-employed/unemployed. Am I allowed to apply for PCA? {#pca-no-corppass}
 
@@ -48,6 +52,14 @@ Yes. Due to increase in Covid-19 cases in Malaysia, Singapore now imposes a 14-d
 No, PRs are exempt from the pre-departure swab test.
 
 However, you will undergo a swab test at the end of your SHN. If you are entering from 25th January onwards, you will also take a swab test on arrival.
+
+## Is it possible to stay in the same room for SHN with other people? {#pca-sg-shn-share}
+
+Yes, but only if the person is a family member (spouse/child who does not need to be under PCA). Please prepare proof of familial ties, such as a copy of the marriage/birth certificate.
+
+Employees from the same company are no longer allowed to share rooms.
+
+See the [response][ICA SafeTravel Response] from the Safe Travel team on costs and appeal details.
 
 ## I would like to travel on a different date from the dates in the PCA application. Am I allowed to do so? {#pca-date-change}
 
@@ -73,20 +85,25 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 |Estimated total spend^|min. RM200<br/>(arrival swab + hotel stay if no residence in Johor)|up to RM1800<br/>(hotel + 2 swabs in Malaysia)|up to RM1200 + up to $200<br/>(hotel + 1 swab in Singapore + 1 swab in Malaysia)|
 |**RETURNING TO SINGAPORE**| | |
 |Pre-departure swab test required|No|No|No|
-|Arrival swab test required|No\*|No\*|No\*|
+|Arrival swab test required|Yes|Yes|Yes|
 |Quarantine / SHN duration |14 days|14 days|14 days|
-|SHN roommate restriction|Family members or (same sex) colleague|Family members only|Family members only|
+|SHN roommate restriction|Family members only\*|Family members only|Family members only|
 |End of SHN swab test required|Yes|Yes|Yes|
-|Estimated total spend^|up to $2200|up to $2200|up to $2200|
+|Estimated total spend^^|up to $2400|up to $2400|up to $2400|
 
 
 **NOTES:**
 
-\* _All travellers arriving from 25th January onwards will be subject to arrival swab._
+\* _Based on [an email][ICA SafeTravel Response] from the SafeTravel office found in the Telegram chat group on 25th February, colleagues of the same sex are no longer allowed to room together._
 
-^ _Estimated total spend in both countries assumes a solo SPR traveller. See detailed costs for [Singapore][SG SHN Cost] and [Malaysia][Non-PCA Quarantine]._
+^ _Estimated total spend assumes a solo SPR traveller. See detailed costs for [Malaysia][Non-PCA Quarantine]._
+
+^^ _Estimated total spend assumes a solo SPR traveller. See detailed costs for [Singapore][SG SHN Cost]. For official information, please see [here][SG SDF Cost] for accommodation and [here][SG Swab Cost] for swab tests._
 
 [SafeTravel]: https://safetravel.ica.gov.sg/pca/overview
 [PCA Requirements and Process]: https://safetravel.ica.gov.sg/pca/requirements-and-process
 [Non-PCA Quarantine]: /non-pca-sg-to-my#my-hso-cost
 [SG SHN Cost]: /non-pca-my-to-sg#shn-cost
+[SG SDF Cost]: https://safetravel.ica.gov.sg/health/shn/sdf
+[SG Swab Cost]: https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest#pcr-test-in-singapore
+[ICA SafeTravel Response]: /assets/safetravel-ica-response-2021-02-25.jpg
