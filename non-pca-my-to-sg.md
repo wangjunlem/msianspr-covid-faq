@@ -20,7 +20,7 @@ If you are travelling with others, see: [What if my spouse/children are going ov
 
 You will need to submit a [Health Declaration](https://eservices.ica.gov.sg/sgarrivalcard/) up to 3 days before your arrival in Singapore.
 
-You will need to pay for your swab test (up to $200 per swab, including GST). For the swab test on arrival, please follow the instructions [here][SafeTravel Swab]. For the swab test at the end of SHN, payment will not be made at the border; register and follow the instructions [here](https://go.gov.sg/covid19test). You will be informed of the date of your swab test later.
+You will need to pay for your swab tests (up to $200 per swab, including GST). For the swab test on arrival, please follow the instructions [here][SafeTravel Swab]. For the swab tests on the 14th day and 21st day of SHN, payment will not be made at the border; register and follow the instructions [here](https://go.gov.sg/covid19test). You will be informed of the exact dates of your swab tests later.
 
 If you are entering Singapore with a non-SC/non-SPR, please ensure that they have approval from the relevant authorities for entry into Singapore. See the ICA page for more information [here](https://www.ica.gov.sg/covid-19/enteringsg). 
 
@@ -49,7 +49,7 @@ No. There are currently no policies that exempt those who have been vaccinated a
 
 ## Can I serve my SHN at my residence in Singapore? {#shn-own-home}
 
-No. You must serve a [14-day SHN][MOH Presser SHN MY 14d] at a SHN dedicated facility, including any RGL travellers. For normal travellers, all prevailing costs for tests and accommodation apply. (If you are travelling under RGL, please check with the authorities, but the likelihood is that you will have to pay for the prevailing costs as well.)
+No. You must serve a [21-day SHN][MOH SG 4May Presser] at a SHN dedicated facility, including any RGL travellers. For normal travellers, all prevailing costs for tests and accommodation apply. (If you are travelling under RGL, please check with the authorities, but the likelihood is that you will have to pay for the prevailing costs as well.)
 
 ## What if my spouse/children are going over with me to Singapore? {#enter-sg-non-pr}
 
@@ -75,7 +75,7 @@ You do not need to do a swab test before entering Singapore. See [here](#sg-pre-
 
 There is a regular hourly bus offered by the Johor government. See [here](#enter-sg-transport).
 
-All related costs (tests, SHN, medical fees if any) will no longer be waived by the Singapore government if you enter after 1 January 2021. The latest updates on cost can be found at the links for [SHN Dedicated Facilities][SafeTravel SDF] and [swab tests][SafeTravel Swab]. See [here](https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers) for the change in policy.
+All related costs (tests, SHN, medical fees if any) will no longer be waived by the Singapore government. The latest updates on cost can be found at the links for [SHN Dedicated Facilities][SafeTravel SDF] and [swab tests][SafeTravel Swab].
 
 You may want to download TraceTogether and/or SingPass, as well as the StayHome@SG app.
 
@@ -89,17 +89,15 @@ However, if there are non-SCs/non-SPRs in your travelling party, they will need 
 
 ## How long is the SHN going to be? {#shn-duration}
 
-14 days at a SHN dedicated facility. See [here][MOH Presser SHN MY 14d] for the latest update.
-
-Additionally, from 19th January onwards, if you have recent travel history to the UK or South Africa, you will serve 7 more days of SHN at your place of residence. See [here](https://www.moh.gov.sg/news-highlights/details/updates-on-border-measures-and-travel-insurance).
+21 days at a SHN dedicated facility. See [here][MOH SG 4May Presser] for the latest update.
 
 ## How much will the entirety of the SHN cost? {#shn-cost}
 
-For staying at a [SHN Dedicated Facility][SafeTravel SDF] (SDF), it will cost $2000 per person. If you are sharing the room with another person (limited to family members and subject to approval), the cost will be $1300 per person.
+For staying at a [SHN Dedicated Facility][SafeTravel SDF] (SDF), it will cost $3000 per person for 21 days. If you are sharing the room with another person (limited to family members and subject to approval), the cost will be $1950 per person.
 
 If you have children, they may qualify for reduced charges depending on their age. You can appeal to ICA via the hotel in which you are serving your SHN; the hotel manager on duty will forward the appeal.
 
-For the [swab tests][SafeTravel Swab], it will cost maximum $200 per person per swab. (Last known price: $160 for arrival swab, $125 for swab at end of SHN)
+For the [swab tests][SafeTravel Swab], it will cost maximum $200 per person per swab. (Last known price: $160 for arrival swab, $125 for swabs at end of SHN)
 
 ## What happens to my vehicle if I’m driving in? {#vehicle-before-shn}
 
@@ -112,7 +110,7 @@ There have been instances of escort officers and vehicles that will follow you t
 
 You will be required to take a swab test on arrival. This rule applies to all travellers.
 
-You will also complete a swab test closer to the end of your SHN.
+You will also complete a swab test on the 14th and the 21st day of your SHN.
 
 ## When and where can I check my swab test results? {#check-swab-results}
 
@@ -135,3 +133,4 @@ You can leave your accommodation after 12pm on the last day of your SHN, but onl
 [SafeTravel Swab]: https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest#pcr-test-in-singapore
 
 [MOH Presser SHN MY 14d]: https://www.moh.gov.sg/news-highlights/details/updated-border-measures-for-travellers-from-malaysia-and-japan
+[MOH SG 4May Presser]: https://moh.gov.sg/news-highlights/details/updates-on-local-situation-border-measures-and-shift-to-heightened-alert-to-minimise-transmission_4May2021
