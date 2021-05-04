@@ -14,9 +14,11 @@ This page will not include targeted small-scale lockdowns with EMCO/TEMCO (e.g. 
 
 ## Current Status
 
-The entire country is on RMCO until 31 Mar 2021.
+See [here](http://covid-19.moh.gov.my/faqsop/sop-perintah-kawalan-pergerakan-pkp) for the official news on changes to MCO areas.
 
 <!-- 
+
+The entire country is on RMCO until 31 Mar 2021.
 
 | States |  |  |  |
 |--------|--|--|--|
@@ -31,9 +33,8 @@ _<sup>1</sup> MCO until 4 Feb 2021_
 _<sup>2</sup> CMCO until 21 Jan 2021, then MCO until 4 Feb 2021_
 
 _<sup>3</sup> RMCO until 21 Jan 2021, then MCO until 4 Feb 2021_ 
--->
 
-<!-- 
+
 | States/F.T.s | MCOs and Effective Periods |
 |--------|-|
 |Johor| MCO: until 26 Jan 2021 |
@@ -51,7 +52,7 @@ _<sup>3</sup> RMCO until 21 Jan 2021, then MCO until 4 Feb 2021_
 |Terengganu| CMCO: until 21 Jan 2021<br/>MCO: 22 Jan - 4 Feb 2021 |
 |W.P. Kuala Lumpur| MCO: until 26 Jan 2021 |
 |W.P. Labuan| MCO: until 26 Jan 2021 |
-|W.P. Putrajaya| MCO: until 26 Jan 2021 | -->
+|W.P. Putrajaya| MCO: until 26 Jan 2021 | 
 
 The following arrangement is valid until 31 Mar 2021, unless otherwise indicated.
 
@@ -67,14 +68,11 @@ _* Sarawak's CMCO takes effect until 29 Mar 2021._
 
 ## Additional Notes
 
-<!-- 
 
 _-_
 ### Johor {#johor}
 
 \-
-
--->
 
 ### Kedah {#kedah}
 
@@ -82,8 +80,6 @@ _-_
 |:--------:|----------------|:--------------:|
 | CMCO | Kuala Muda, Kulim | until 31 Mar 2021 |
 | RMCO | All other areas | until 31 Mar 2021 |
-
-<!--
 
 ### Kelantan {#kelantan}
 
@@ -101,7 +97,6 @@ _-_
 
 \- 
 
--->
 
 ### Negeri Sembilan {#negeri-sembilan}
 
@@ -109,8 +104,6 @@ _-_
 |:--------:|----------------|:--------------:|
 | CMCO | Seremban | until 31 Mar 2021 |
 | RMCO | All other areas | until 31 Mar 2021 |
-
-<!--
 
 ### Pahang {#pahang}
 
@@ -132,8 +125,6 @@ _-_
 
 \-
 
--->
-
 ### Sabah {#sabah}
 
 | MCO Type | Areas Affected | Effective Period |
@@ -141,7 +132,6 @@ _-_
 | MCO | Nabawan | until 31 Mar 2021 |
 | RMCO | All other areas | until 31 Mar 2021 |
 
-<!--
 ### Sarawak {#sarawak}
 
 | MCO Type | Areas Affected | Effective Period |
@@ -156,6 +146,7 @@ _-_
 ### Terengganu {#terengganu}
 
 \-
+
  -->
 
 [Johor]: #johor
