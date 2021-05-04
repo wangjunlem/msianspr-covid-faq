@@ -45,13 +45,13 @@ No. You will be swabbed on arrival in Malaysia, and placed under quarantine whil
 
 ## Do I need to quarantine after returning from Malaysia to Singapore? {#pca-sg-shn}
 
-Yes. Due to increase in Covid-19 cases in Malaysia, Singapore now imposes a 14-day SHN at SDFs. payable by the employer. The final cost arrangement between you and your employer will differ from company to company.
+Yes. Due to increase in Covid-19 cases in Malaysia, Singapore now imposes a 21-day SHN at SDFs, payable by the employer. The final cost arrangement between you and your employer will differ from company to company.
 
 ## Do I need to do a swab test before going back to Singapore? {#pca-sg-swab}
 
 No, PRs are exempt from the pre-departure swab test.
 
-However, you will undergo a swab test at the end of your SHN. If you are entering from 25th January onwards, you will also take a swab test on arrival.
+However, you will undergo swab tests on the 14th and 21st days of your SHN. You will also take a swab test on arrival.
 
 ## Is it possible to stay in the same room for SHN with other people? {#pca-sg-shn-share}
 
@@ -86,10 +86,10 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 |**RETURNING TO SINGAPORE**| | |
 |Pre-departure swab test required|No|No|No|
 |Arrival swab test required|Yes|Yes|Yes|
-|Quarantine / SHN duration |14 days|14 days|14 days|
+|Quarantine / SHN duration |21 days|21 days|21 days|
 |SHN roommate restriction|Family members only\*|Family members only|Family members only|
-|End of SHN swab test required|Yes|Yes|Yes|
-|Estimated total spend^^|up to $2400|up to $2400|up to $2400|
+|End of SHN swab test required|Yes (14th & 21st day)|Yes (14th & 21st day)|Yes (14th & 21st day)|
+|Estimated total spend^^|up to $3500|up to $3500|up to $3500|
 
 
 **NOTES:**
