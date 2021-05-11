@@ -18,7 +18,7 @@ You must travel in and out via the land borders (i.e. Woodlands/BSI and Tuas/KSA
 
 You must strictly follow the date agreed to return to Singapore as specified in your PCA application. See [here](#pca-date-change).
 
-While waiting for your swab test results on entry to Malaysia, you must have a place of residence in the state of Johor, if not, you will need to arrange for a hotel room to stay. If your Malaysia IC does not reflect it, please show proof of residence (e.g. bank statements or bills).
+From 13 May onwards, MOH imposes a mandatory 14-day hotel quarantine on all travellers from Singapore, including those travelling under the PCA scheme. ~~While waiting for your swab test results on entry to Malaysia, you must have a place of residence in the state of Johor, if not, you will need to arrange for a hotel room to stay. If your Malaysia IC does not reflect it, please show proof of residence (e.g. bank statements or bills).~~
 
 You can be out of Singapore for up to 60 days per PCA application, and will have to be back in Singapore for another 90 days before you can submit another PCA application.
 
@@ -34,14 +34,13 @@ Failure to do so would mean that you will be subject to prevailing quarantine re
 
 No. The application for PCA requires the company to apply for you with a CorpPass account.
 
-
 ## Do I need to quarantine after returning from Singapore to Malaysia? {#pca-my-hso}
 
-You will need to quarantine for the first 3 days while waiting for results. During this time, even if you are staying home, you should minimise contact with others.
+Yes. 14 day hotel quarantine is now mandatory.
 
 ## Do I need to do a swab test before returning to Malaysia? {#pca-my-swab}
 
-No. You will be swabbed on arrival in Malaysia, and placed under quarantine while waiting for the swab test results.
+No. You will be swabbed on arrival in Malaysia, and placed under quarantine for 14 days afterwards.
 
 ## Do I need to quarantine after returning from Malaysia to Singapore? {#pca-sg-shn}
 
@@ -71,25 +70,26 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 
 ## What are the differences between returning via the PCA and non-PCA routes? {#pca-comparison}
 
-|  | PCA | Non-PCA<br>w/o pre-swab | Non-PCA<br>with pre-swab |
-|--|:-----:|:---------:|:------:|
-|Freedom to enter/exit without approval|No; see [above](#pca-travel-conditions)|Yes|Yes|
-|Freedom to enter/exit on any date|No; see [above](#pca-date-change)|Yes|Yes|
-|Mode of transport|Land only|Any|Any|
-|Allowed points of entry|BSI or KSAB|Any|Any|
-|**RETURNING TO MALAYSIA**| | |
-|Pre-departure swab test required|No|No|Yes|
-|Arrival swab test required|Yes|Yes|Yes|
-|Quarantine / HSO duration|1-3 days<br/>(release of swab test results)| 10 days | 7 days|
-|End of HSO swab test required|N/A|Yes|Yes
-|Estimated total spend^|min. RM200<br/>(arrival swab + hotel stay if no residence in Johor)|up to RM1800<br/>(hotel + 2 swabs in Malaysia)|up to RM1200 + up to $200<br/>(hotel + 1 swab in Singapore + 1 swab in Malaysia)|
-|**RETURNING TO SINGAPORE**| | |
-|Pre-departure swab test required|No|No|No|
-|Arrival swab test required|Yes|Yes|Yes|
-|Quarantine / SHN duration |21 days|21 days|21 days|
-|SHN roommate restriction|Family members only\*|Family members only|Family members only|
-|End of SHN swab test required|Yes (14th & 21st day)|Yes (14th & 21st day)|Yes (14th & 21st day)|
-|Estimated total spend^^|up to $3500|up to $3500|up to $3500|
+
+|  | PCA | Non-PCA | 
+|--|:-----:|:---------:|
+|Freedom to enter/exit without approval|No; see [above](#pca-travel-conditions)|Yes|
+|Freedom to enter/exit on any date|No; see [above](#pca-date-change)|Yes|
+|Mode of transport|Land only|Any|
+|Allowed points of entry|BSI or KSAB|Any|
+|**RETURNING TO MALAYSIA**| |
+|Pre-departure swab test required|No|No|
+|Arrival swab test required|Yes|Yes|
+|Quarantine / HSO duration| 14 days | 14 days |
+|End of HSO swab test required| Yes |Yes|
+|Estimated total spend^|up to RM2400<br/>(hotel + 2 swabs in Malaysia)|up to RM1800<br/>(hotel + 2 swabs in Malaysia)|
+|**RETURNING TO SINGAPORE**| |
+|Pre-departure swab test required|No|No|
+|Arrival swab test required|Yes|Yes|
+|Quarantine / SHN duration |21 days|21 days|
+|SHN roommate restriction|Family members only\*|Family members only|
+|End of SHN swab test required|Yes (14th & 21st day)|Yes (14th & 21st day)|
+|Estimated total spend^^|up to $3500|up to $3500|
 
 
 **NOTES:**

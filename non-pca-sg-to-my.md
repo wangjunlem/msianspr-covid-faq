@@ -110,12 +110,7 @@ They will be confiscated by the team during bag checks and there is no guarantee
 
 ## Do I need to do a swab test before entering Malaysia? {#my-pre-entry-swab}
 
-If you’re going back as a normal returning Malaysian, it is not mandatory to do a swab test; you will be swabbed on entry into Malaysia and be quarantined for 10 days.
-
-However, if you complete an RT-PCR (**not** RTK antigen) swab test within 72 hours before departure to Malaysia, you will skip the arrival swab and have your quarantine shortened to 7 days. See [here](#my-hso-cost) for costs and [here](#my-hso-duration) for explanation and sources. 
-
-For those returning from Singapore, you can find a list of RT-PCR swab test providers [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers).
-
+No. You will be subject to 14 days of quarantine regardless of whether you have done a pre-departure swab test.
 
 ## What are the procedures I can expect after entering Malaysia? {#after-entering-my-procedures}
 
@@ -136,10 +131,10 @@ For normal accommodation, it will cost RM150/night.
 
 Non-Malaysians also have to pay a fixed administrative cost of RM2600/person.
 
-|  | 10 days | 7 days (see [here](#my-hso-duration)) |
-|-|:-:|:-:|
-| Malaysian | First person:<br>RM1500<br><br>Second person:<br>RM500<br><br>Third person (6y/o and below):<br>free | First person: <br>RM1050<br><br>Second person: <br>RM350<br>  <br>Third person (6y/o and below):<br>free |
-| Non-Malaysian | First person:<br>RM1500 + RM2600 = RM4100<br><br>Second person:<br>RM500 + RM2600 = RM3100<br><br>Third person (6y/o and below):<br>RM2600 | First person:<br>RM1050 + RM2600 = RM3650<br><br>Second person:<br>RM350 + RM2600 = RM2950<br><br>Third person (6y/o and below):<br>RM2600 |
+|  | 14 days quarantine |
+|-|:-:|
+| Malaysian | First person:<br>RM2100<br><br>Second person:<br>RM700<br><br>Third person (6y/o and below):<br>free |
+| Non-Malaysian | First person:<br>RM2100 + RM2600 = RM4700<br><br>Second person:<br>RM700 + RM2600 = RM3300<br><br>Third person (6y/o and below):<br>RM2600 |
 
 _The "second person" only applies to: legally married spouse, children, and siblings._
 
@@ -147,24 +142,19 @@ Additional charges may apply if you opt for premium accommodation.
 
 For swab tests, you will be swabbed a day or two before the end of quarantine. 
 
-Those who have done a pre-departure RT-PCR swab test within 72 hours before departure to Malaysia will not be required to do an arrival swab (on the condition that they do not show any symptoms).
-
-|  | **WITHOUT** pre-departure RT-PCR swab<br>72 hours before departure to Malaysia | **WITH** pre-departure RT-PCR swab<br>72 hours before departure to Malaysia <br>AND no symptoms (see [here](#my-hso-duration)) |
-|-|:-:|:-:|
-| Malaysian | RM150 x 2 = RM300<br>(arrival swab and end of quarantine swab) | RM150<br>(end of quarantine swab) |
-| Non-Malaysian | RM250 x 2 = RM500<br>(arrival swab and end of quarantine swab) | RM250<br>(end of quarantine swab) |
+|  | Swab test prices | 
+|-|:-:|
+| Malaysian | RM150 x 2 = RM300<br>(arrival swab and end of quarantine swab) |
+| Non-Malaysian | RM250 x 2 = RM500<br>(arrival swab and end of quarantine swab) |
 
 
 ## How many days is the quarantine going to be? {#my-hso-duration}
 
-7 days if you have done a pre-departure RT-PCR swab test within 72 hours before departure to Malaysia. (You will also skip the arrival swab if you do not show any symptoms; see [here](https://www.facebook.com/MajlisKeselamatanNegara/posts/3003689579733928).)
-
-Otherwise, 10 days.
-
+14 days; see [here](https://www.facebook.com/kementeriankesihatanmalaysia/posts/10157918000176237).
 
 ## How do I know the last date of my quarantine? {#my-hso-last-day}
 
-Follow the date on the wristband.
+Follow the date on the wristband or on the papers issued to you on arrival.
 
 
 ## Can I choose which hotel to stay in? {#my-hso-choose-hotel}
