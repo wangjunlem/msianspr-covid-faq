@@ -14,6 +14,8 @@ This page will not include targeted small-scale lockdowns with EMCO/TEMCO (e.g. 
 
 ## Current Status
 
+As of 12 May, Malaysia has entered a nationwide MCO until 6 June 2021*.
+
 See [here](http://covid-19.moh.gov.my/faqsop/sop-perintah-kawalan-pergerakan-pkp) for the official news on changes to MCO areas.
 
 <!-- 

@@ -101,9 +101,9 @@ For the [swab tests][SafeTravel Swab], it will cost maximum $200 per person per 
 
 ## What happens to my vehicle if I’m driving in? {#vehicle-before-shn}
 
-You will not be parking the car at the SHN Dedicated Facility (SDF). Instead, you will have to drive to a car park you have arranged beforehand (e.g. HDB/condo), and then head to the SDF.
+You will not be allowed to park the car at the SHN Dedicated Facility (SDF). Instead, you will be asked for the car park you wish to park your vehicle at, and the ICA officers will give you a tracker, as well as the car plate of the taxi that will be waiting for you on arrival. You will then have to drive to the car park. Board the aforementioned taxi, and then head to the SDF. You will return your tracker afterwards.
 
-There have been instances of escort officers and vehicles that will follow you to the car park and then bring you back to the SDF, There are also stories of being given a tracker, heading to the car park yourself, and then getting a taxi back to the SDF. Please follow the instructions of the officers on the day itself.
+Please follow the instructions of the officers on the day itself. Note that any car park charges will be borne by you.
 
 
 ## When is my swab test? {#swab-when}
