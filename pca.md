@@ -36,11 +36,11 @@ No. The application for PCA requires the company to apply for you with a CorpPas
 
 ## Do I need to quarantine after returning from Singapore to Malaysia? {#pca-my-hso}
 
-Yes. 14 day hotel quarantine is now mandatory.
+Yes. 14 day hotel quarantine is now mandatory. See [here][Press Release Ismail Sabri 24May].
 
 ## Do I need to do a swab test before returning to Malaysia? {#pca-my-swab}
 
-No. You will be swabbed on arrival in Malaysia, and placed under quarantine for 14 days afterwards.
+Yes. See [here][Press Release Ismail Sabri 24May].
 
 ## Do I need to quarantine after returning from Malaysia to Singapore? {#pca-sg-shn}
 
@@ -107,3 +107,4 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 [SG SDF Cost]: https://safetravel.ica.gov.sg/health/shn/sdf
 [SG Swab Cost]: https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest#pcr-test-in-singapore
 [ICA SafeTravel Response]: /assets/safetravel-ica-response-2021-02-25.jpg
+[Press Release Ismail Sabri 24May]: /assets/press-release-ismail-sabri-20210524.pdf
