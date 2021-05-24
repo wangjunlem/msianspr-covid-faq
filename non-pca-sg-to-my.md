@@ -22,6 +22,8 @@ Regarding the issue of myPASS for travel to Malaysia, if you are travelling:
 
 You will need to print out, fill in, and sign a [Letter of Undertaking](http://www.nadma.gov.my/images/nadma/documents/garispanduan/LATEST_LOU.pdf) stating that you agree to pay any quarantine costs applicable (accommodation and Covid-19 test). 
 
+You must also do a pre-departure swab test up to 3 days before your departure to Malaysia.
+
 At least 3 working days before entering, you should also: 
 
 1. download MySejahtera
@@ -79,7 +81,7 @@ If you want to err on the side of caution, you may apply. In the event of emerge
 
 All travellers are now recommended to make payment for their accommodation, swab tests, and operational costs (for foreigners) with [MySafeTravel] before entering the country.
 
-You may also want to do a pre-departure swab test. See [here](#my-pre-entry-swab).
+Effective 24 May 2021, you must do a pre-departure swab test up to 72 hours before the start of your journey. See [here](#my-pre-entry-swab).
 
 If you are a Malaysian citizen and choose not to pay in advance, please make sure you have sufficient cash with you to pay for all prevailing charges, especially the swab test which is payable by cash upon arrival (to be safe, bring at least RM400). Credit cards may not be accepted at checkpoints.
 
@@ -110,7 +112,7 @@ They will be confiscated by the team during bag checks and there is no guarantee
 
 ## Do I need to do a swab test before entering Malaysia? {#my-pre-entry-swab}
 
-No. You will be subject to 14 days of quarantine regardless of whether you have done a pre-departure swab test.
+Yes. You must do a pre-departure swab test up to 72 hours before you begin your journey to Malaysia. See the [press release][Press Release Ismail Sabri 24May].
 
 ## What are the procedures I can expect after entering Malaysia? {#after-entering-my-procedures}
 
@@ -131,31 +133,33 @@ For normal accommodation, it will cost RM150/night.
 
 Non-Malaysians also have to pay a fixed administrative cost of RM2600/person.
 
-|  | 14 days quarantine |
-|-|:-:|
-| Malaysian | First person:<br>RM2100<br><br>Second person:<br>RM700<br><br>Third person (6y/o and below):<br>free |
-| Non-Malaysian | First person:<br>RM2100 + RM2600 = RM4700<br><br>Second person:<br>RM700 + RM2600 = RM3300<br><br>Third person (6y/o and below):<br>RM2600 |
+|  | 14 days quarantine | [21 days quarantine](#my-hso-duration) |
+|-|:-:|:-:|
+| Malaysian | First person:<br>RM2100<br><br>Second person:<br>RM700<br><br>Third person (6y/o and below):<br>free | First person:<br>RM3150<br><br>Second person:<br>RM1050<br><br>Third person (6y/o and below):<br>free |
+| Non-Malaysian | First person:<br>RM2100 + RM2600 = RM4700<br><br>Second person:<br>RM700 + RM2600 = RM3300<br><br>Third person (6y/o and below):<br>RM2600 | First person:<br>RM3150 + RM2600 = RM5750<br><br>Second person:<br>RM1050 + RM2600 = RM3650<br><br>Third person (6y/o and below):<br>RM2600 |
 
 _The "second person" only applies to: legally married spouse, children, and siblings._
 
 Additional charges may apply if you opt for premium accommodation.
 
-For swab tests, you will be swabbed a day or two before the end of quarantine. 
+For swab tests, you will be swabbed on:
+1. arrival,
+1. the 10th day of your quarantine, and
+1. the 18th day of your quarantine ([if extended](#my-hso-duration)).
 
-|  | Swab test prices | 
-|-|:-:|
-| Malaysian | RM150 x 2 = RM300<br>(arrival swab and end of quarantine swab) |
-| Non-Malaysian | RM250 x 2 = RM500<br>(arrival swab and end of quarantine swab) |
+|  | Swab test prices (14-day quarantine) | Swab test prices (21-day quarantine) |
+|-|:-:|:-:|
+| Malaysian | RM150 x 2 = RM300 | RM150 x 3 = RM450 |
+| Non-Malaysian | RM250 x 2 = RM500 | RM250 x 3 = RM750 |
 
 
 ## How many days is the quarantine going to be? {#my-hso-duration}
 
-14 days; see [here](https://www.facebook.com/kementeriankesihatanmalaysia/posts/10157918000176237).
+14 days, with a potential extension to 21 days based on risk assessment done; see [press release][Press Release Ismail Sabri 24May].
 
 ## How do I know the last date of my quarantine? {#my-hso-last-day}
 
 Follow the date on the wristband or on the papers issued to you on arrival.
-
 
 ## Can I choose which hotel to stay in? {#my-hso-choose-hotel}
 
@@ -251,4 +255,5 @@ The police will have to approve your family's movement permit, after which your 
 [MySafeTravel]: https://safetravel.myeg.com.my
 [Movement Permit MCO]: /assets/borang-permit-pergerakan-pkp.jpg
 [Movement Permit CMCO]: /assets/borang-permit-pergerakan-pkpb.pdf
+[Press Release Ismail Sabri 24May]: /assets/press-release-ismail-sabri-20210524.pdf
 [e-REP]: https://eservices.ica.gov.sg/esvclandingpage/erep
