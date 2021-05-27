@@ -20,7 +20,7 @@ If you are travelling with others, see: [What if my spouse/children are going ov
 
 You will need to submit a [Health Declaration](https://eservices.ica.gov.sg/sgarrivalcard/) up to 3 days before your arrival in Singapore.
 
-You will also require a valid negative RT-PCR COVID-19 swab test within 72 hours before departure to Singapore. See [here](#sg-pre-entry-swab) and [info sheet](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf) for more details.
+If you are entering Singapore from 30 May 2021 onwards, you will also require a valid negative RT-PCR COVID-19 swab test result within 72 hours before departure to Singapore. See [here](#sg-pre-entry-swab) and [info sheet](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf) for more details.
 
 You will need to pay for your swab tests (up to $200 per swab, including GST). For the swab test on arrival, please follow the instructions [here][SafeTravel Swab]. For the swab tests on the 14th day and 21st day of SHN, payment will not be made at the border; register and follow the instructions [here](https://go.gov.sg/covid19test). You will be informed of the exact dates of your swab tests later.
 
@@ -104,15 +104,15 @@ You will not be allowed to park the car at the SHN Dedicated Facility (SDF). Ins
 Please follow the instructions of the officers on the day itself. Note that any car park charges will be borne by you.
 
 
-## When is my swab test? {#swab-when}
+## When are my swab tests? {#swab-when}
 
-You will be required to take a swab test on arrival. This rule applies to all travellers.
+You will be required to take a swab test [before departure](#sg-pre-entry-swab) and on arrival. This rule applies to all travellers.
 
 You will also complete a swab test on the 14th and the 21st day of your SHN.
 
 ## When and where can I check my swab test results? {#check-swab-results}
 
-Your swab test result will be available on [HealthHub](https://eservices.healthhub.sg/PersonalHealth/CovidLabResults) within 24 hours of the test. You will also be contacted by phone.
+Your swab test results will be available on [HealthHub](https://eservices.healthhub.sg/PersonalHealth/CovidLabResults) within 24 hours of the test. You will also be contacted by phone.
 
 
 ## What happens at the end of my SHN? {#shn-end}
