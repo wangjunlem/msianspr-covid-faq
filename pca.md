@@ -48,7 +48,7 @@ Yes. Due to increase in Covid-19 cases in Malaysia, Singapore now imposes a 21-d
 
 ## Do I need to do a swab test before going back to Singapore? {#pca-sg-swab}
 
-Yes. All travellers returning to Singapore must present a negative pre-departure PCR swab test result up to 72 hours before departure to Singapore. See [here][MOH SG Pre-Depart Presser].
+Yes. For those entering Singapore from 30 May 2021 onwards, you must present a negative pre-departure PCR swab test result up to 72 hours before departure to Singapore. See [here][MOH SG Pre-Depart Presser].
 
 Additionally, you will undergo swab tests on arrival, and on the 14th and 21st days of your SHN.
 
