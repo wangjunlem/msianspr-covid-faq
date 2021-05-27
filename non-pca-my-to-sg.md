@@ -20,11 +20,11 @@ If you are travelling with others, see: [What if my spouse/children are going ov
 
 You will need to submit a [Health Declaration](https://eservices.ica.gov.sg/sgarrivalcard/) up to 3 days before your arrival in Singapore.
 
+You will also require a valid negative RT-PCR COVID-19 swab test within 72 hours before departure to Singapore. See [here](#sg-pre-entry-swab) and [info sheet](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf) for more details.
+
 You will need to pay for your swab tests (up to $200 per swab, including GST). For the swab test on arrival, please follow the instructions [here][SafeTravel Swab]. For the swab tests on the 14th day and 21st day of SHN, payment will not be made at the border; register and follow the instructions [here](https://go.gov.sg/covid19test). You will be informed of the exact dates of your swab tests later.
 
 If you are entering Singapore with a non-SC/non-SPR, please ensure that they have approval from the relevant authorities for entry into Singapore. See the ICA page for more information [here](https://www.ica.gov.sg/covid-19/enteringsg). 
-
-Non-SC/non-SPR travellers will also require a valid negative RT-PCR COVID-19 swab test within 72 hours before departure to Singapore. See [press release](https://www.moh.gov.sg/news-highlights/details/updated-border-measures-for-travellers-from-malaysia-and-japan) and [info sheet](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf) for more details.
 
 ## How can I enter Singapore from Malaysia via the land checkpoints? {#enter-sg-transport}
 
@@ -61,7 +61,7 @@ If you are exiting the country with Malaysian citizen(s) who do not qualify for 
 
 Please submit your application only once until there is a response on your application.
 
-You will also need to submit an appeal to ICA for entry to Singapore for people not holding SPR; see [here](https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process) for more info. Non-SC/non-SPR travellers will also require a valid negative COVID-19 to enter Singapore. See [here][MOH Presser SHN MY 14d] for more details.
+You will also need to submit an appeal to ICA for entry to Singapore for people not holding SPR; see [here](https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process) for more info. They will also require a valid negative COVID-19 to enter Singapore. See [here][MOH Presser SHN MY 14d] for more details.
 
 When exiting Malaysia, the current rule is that you (as the SPR) must exit together with any travellers under 12 who have gained the special approval on MyTravelPass.
 
@@ -71,7 +71,7 @@ Please remember to keep all receipts during your SHN, including any taxi rides, 
 
 Please ensure that you have a thermometer with you to monitor your health during SHN.
 
-You do not need to do a swab test before entering Singapore. See [here](#sg-pre-entry-swab).
+You must do a pre-departure swab test and get a negative result within 72 hours before entering Singapore. See [here](#sg-pre-entry-swab).
 
 There is a regular hourly bus offered by the Johor government. See [here](#enter-sg-transport).
 
@@ -83,9 +83,7 @@ If you are driving into, or passing through any districts/states with any form o
 
 ## Do I need to do a swab test before entering Singapore? {#sg-pre-entry-swab}
 
-No. Singapore PRs are exempt from the rule.
-
-However, if there are non-SCs/non-SPRs in your travelling party, they will need to do a pre-departure swab. See [here](#enter-sg-non-pr).
+Yes. For those entering from 30 May 2021 onwards, all travellers will need to present a valid negative PCR test within 72 hours before departing for Singapore. See [here][MOH SG Pre-Depart Presser] for the update.
 
 ## How long is the SHN going to be? {#shn-duration}
 
@@ -134,3 +132,4 @@ You can leave your accommodation after 12pm on the last day of your SHN, but onl
 
 [MOH Presser SHN MY 14d]: https://www.moh.gov.sg/news-highlights/details/updated-border-measures-for-travellers-from-malaysia-and-japan
 [MOH SG 4May Presser]: https://moh.gov.sg/news-highlights/details/updates-on-local-situation-border-measures-and-shift-to-heightened-alert-to-minimise-transmission_4May2021
+[MOH SG Pre-Depart Presser]: https://www.moh.gov.sg/news-highlights/details/updated-pre-departure-testing-requirements
