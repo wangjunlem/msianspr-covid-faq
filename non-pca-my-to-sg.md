@@ -20,7 +20,7 @@ If you are travelling with others, see: [What if my spouse/children are going ov
 
 You will need to submit a [Health Declaration](https://eservices.ica.gov.sg/sgarrivalcard/) up to 3 days before your arrival in Singapore.
 
-If you are entering Singapore from 30 May 2021 onwards, you will also require a valid negative RT-PCR COVID-19 swab test result within 72 hours before departure to Singapore. See [here](#sg-pre-entry-swab) and [info sheet](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf) for more details.
+You will also require a valid negative RT-PCR COVID-19 swab test result within 72 hours before departure to Singapore. See [here](#sg-pre-entry-swab) and [info sheet](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf) for more details.
 
 You will need to pay for your swab tests (up to $200 per swab, including GST). For the swab test on arrival, please follow the instructions [here][SafeTravel Swab]. For the swab tests on the 14th day and 21st day of SHN, payment will not be made at the border; register and follow the instructions [here](https://go.gov.sg/covid19test). You will be informed of the exact dates of your swab tests later.
 
@@ -83,7 +83,7 @@ If you are driving into, or passing through any districts/states with any form o
 
 ## Do I need to do a swab test before entering Singapore? {#sg-pre-entry-swab}
 
-Yes. For those entering from 30 May 2021 onwards, all travellers will need to present a valid negative PCR test within 72 hours before departing for Singapore. See [here][MOH SG Pre-Depart Presser] for the update.
+Yes. All travellers will need to present a valid negative PCR test within 72 hours before departing for Singapore. See [here][MOH SG Pre-Depart Presser] for the update.
 
 ## How long is the SHN going to be? {#shn-duration}
 
@@ -117,7 +117,7 @@ Your swab test results will be available on [HealthHub](https://eservices.health
 
 ## What happens at the end of my SHN? {#shn-end}
 
-First, please verify the end date of your SHN using the calculator provided [here](https://www.ica.gov.sg/covid-19/shn) at the end of the page.
+First, please verify the end date of your SHN using the calculator provided [here](https://safetravel.ica.gov.sg/shn-calculator) at the end of the page.
 
 You can leave your accommodation after 12pm on the last day of your SHN, but only if your Covid-19 test results are out.
 
