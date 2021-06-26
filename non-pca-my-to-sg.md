@@ -87,15 +87,15 @@ Yes. For those entering from 30 May 2021 onwards, all travellers will need to pr
 
 ## How long is the SHN going to be? {#shn-duration}
 
-21 days at a SHN dedicated facility. See [here][MOH SG 4May Presser] for the latest update.
+14 days at a SHN dedicated facility. See [here][MOH SG 4May Presser] for the latest update.
 
 ## How much will the entirety of the SHN cost? {#shn-cost}
 
-For staying at a [SHN Dedicated Facility][SafeTravel SDF] (SDF), it will cost $3000 per person for 21 days. If you are sharing the room with another person (limited to family members and subject to approval), the cost will be $1950 per person.
+For staying at a [SHN Dedicated Facility][SafeTravel SDF] (SDF), it will cost $2000 per person for 14 days. If you are sharing the room with another person (limited to family members and subject to approval), the cost will be $1300 per person.
 
 If you have children, they may qualify for reduced charges depending on their age. You can appeal to ICA via the hotel in which you are serving your SHN; the hotel manager on duty will forward the appeal.
 
-For the [swab tests][SafeTravel Swab], it will cost maximum $200 per person per swab. (Last known price: $160 for arrival swab, $125 for swabs at end of SHN)
+For the [swab tests][SafeTravel Swab], it will cost maximum $200 per person per swab. (Last known price: $160 for arrival swab, $125 for swab at end of SHN)
 
 ## What happens to my vehicle if I’m driving in? {#vehicle-before-shn}
 
@@ -108,7 +108,7 @@ Please follow the instructions of the officers on the day itself. Note that any 
 
 You will be required to take a swab test [before departure](#sg-pre-entry-swab) and on arrival. This rule applies to all travellers.
 
-You will also complete a swab test on the 14th and the 21st day of your SHN.
+You will also complete a swab test on the last day of your SHN.
 
 ## When and where can I check my swab test results? {#check-swab-results}
 
