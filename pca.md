@@ -48,7 +48,7 @@ Yes. Due to increase in Covid-19 cases in Malaysia, Singapore now imposes a 14-d
 
 ## Do I need to do a swab test before going back to Singapore? {#pca-sg-swab}
 
-Yes. For those entering Singapore from 30 May 2021 onwards, you must present a negative pre-departure PCR swab test result up to 72 hours before departure to Singapore. See [here][MOH SG Pre-Depart Presser].
+Yes. You must present a negative pre-departure PCR swab test result up to 72 hours before departure to Singapore. See [here][MOH SG Pre-Depart Presser].
 
 Additionally, you will undergo swab tests on arrival, and on the last day of your SHN.
 
@@ -62,9 +62,9 @@ See the [response][ICA SafeTravel Response] from the Safe Travel team on costs a
 
 ## I would like to travel on a different date from the dates in the PCA application. Am I allowed to do so? {#pca-date-change}
 
-No, you must travel on the dates that were mentioned. 
+If there are unforeseen circumstances, [appeals can be made](https://safetravel.ica.gov.sg/malaysia/pca/faq#1-my-employee-is-unable-to-enter-singapore-on-the-date-indicated-in-the-application-can-i-amend-the-application-and-seek-a-refund-for-the-covid-19-pcr-test) by your employer to MTI.
 
-No amendments are allowed once the PCA application is approved. The PCA pre-payment for SHN and swab will be forfeited and not refunded. A new PCA application can only be done 90 days after your last entry date.
+Otherwise, you must travel on the dates that were mentioned; no amendments are allowed once the PCA application is approved. The PCA pre-payment for SHN and swab will be forfeited and not refunded. A new PCA application can only be done 90 days after your last entry date.
 
 You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/non-pca-my-to-sg) without the PCA, subject to the conditions and process as a non-PCA traveller.
 
