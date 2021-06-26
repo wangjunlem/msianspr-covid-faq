@@ -114,6 +114,8 @@ They will be confiscated by the team during bag checks and there is no guarantee
 
 Yes. You must do a pre-departure swab test up to 72 hours before you begin your journey to Malaysia. See the [press release][Press Release Ismail Sabri 24May].
 
+Anecdotes mention that the land checkpoints have not enforced this. Skip the pre-departure swab test at your own risk of being denied entry.
+
 ## What are the procedures I can expect after entering Malaysia? {#after-entering-my-procedures}
 
 At arrival, you will be cleared for immigration. You will also submit your LoU (if you’ve forgotten to bring it along, you can sign a copy on the spot). 
