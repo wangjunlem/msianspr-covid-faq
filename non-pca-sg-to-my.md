@@ -237,7 +237,7 @@ Yes, you can. If you are travelling onwards to other districts outside of your q
 
 ## I would like to travel to another state/district after my quarantine ends (e.g. quarantine in Selangor after entering KLIA, but my hometown is in Perak). Can I do so? {#travel-after-mco}
 
-Take note that inter-state travel is not allowed for the whole country, and states under MCO will not allow inter-district travel. See the [latest information about the nationwide MCO][Appendix MCO]
+Take note that inter-state travel is not allowed for the whole country, and states under MCO will not allow inter-district travel.
 
 You should make arrangements to travel home on your own, if possible.
 
@@ -250,7 +250,6 @@ Please send to your friends/relatives photos of these documents to support the m
 
 The police will have to approve your family's movement permit, after which your family/friends must then carry the letter when they pick you up from the quarantine station at the end of your quarantine.
 
-[Appendix MCO]: /appendix-mco
 [Acronyms]: /appendix-acronyms
 [Sistem Temujanji Online]: http://www.sto.imi.gov.my
 [MyTravelPass]: https://mtp.imi.gov.my/myTravelPass/main

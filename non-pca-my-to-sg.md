@@ -79,7 +79,7 @@ All related costs (tests, SHN, medical fees if any) will no longer be waived by 
 
 You may want to download TraceTogether and/or SingPass, as well as the StayHome@SG app.
 
-If you are driving into, or passing through any districts/states with any form of MCO in effect, please apply for a movement permit using the form [here][Movement Permit CMCO] at the nearest police station. This applies to travellers departing from KLIA/KLIA2 as well. See: [Known Areas Affected By MCO][Appendix MCO]
+If you are driving into, or passing through any districts/states with any form of MCO in effect, please apply for a movement permit using the form [here][Movement Permit CMCO] at the nearest police station. This applies to travellers departing from KLIA/KLIA2 as well.
 
 ## Do I need to do a swab test before entering Singapore? {#sg-pre-entry-swab}
 
@@ -122,7 +122,6 @@ First, please verify the end date of your SHN using the calculator provided [her
 You can leave your accommodation after 12pm on the last day of your SHN, but only if your Covid-19 test results are out.
 
 
-[Appendix MCO]: /appendix-mco
 [MyTravelPass]: https://mtp.imi.gov.my/myTravelPass/main
 [e-REP]: https://eservices.ica.gov.sg/esvclandingpage/erep
 [Movement Permit MCO]: /assets/borang-permit-pergerakan-pkp.jpg
