@@ -22,7 +22,7 @@ You will need to submit a [Health Declaration](https://eservices.ica.gov.sg/sgar
 
 You will also require a valid negative RT-PCR COVID-19 swab test result within 72 hours before departure to Singapore. See [here](#sg-pre-entry-swab) and [info sheet](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf) for more details.
 
-You will need to pay for your swab tests (up to $200 per swab, including GST). For the swab test on arrival, please follow the instructions [here][SafeTravel Swab]. For the swab tests on the 14th day and 21st day of SHN, payment will not be made at the border; register and follow the instructions [here](https://go.gov.sg/covid19test). You will be informed of the exact dates of your swab tests later.
+You will need to pay for your swab tests (up to $200 per swab, including GST). For the swab test on arrival, please follow the instructions [here][SafeTravel Swab]. For the swab tests on the 14th day of SHN, payment will not be made at the border; register and follow the instructions [here](https://go.gov.sg/covid19test). You will be informed of the exact dates of your swab tests later.
 
 If you are entering Singapore with a non-SC/non-SPR, please ensure that they have approval from the relevant authorities for entry into Singapore. See the ICA page for more information [here](https://www.ica.gov.sg/covid-19/enteringsg). 
 
@@ -45,11 +45,11 @@ _You are strongly advised to not abuse this, please, and to only travel if absol
 
 ## I have taken the vaccine for Covid-19. Can I get an exemption for SHN? {#shn-vaccine}
 
-No. There are currently no policies that exempt those who have been vaccinated against Covid-19 from their SHN obligations.
+No. There are currently no policies that exempt travellers from Malaysia who have been vaccinated against Covid-19 from their SHN obligations.
 
 ## Can I serve my SHN at my residence in Singapore? {#shn-own-home}
 
-No. You must serve a [21-day SHN][MOH SG 4May Presser] at a SHN dedicated facility, including any RGL travellers. For normal travellers, all prevailing costs for tests and accommodation apply. (If you are travelling under RGL, please check with the authorities, but the likelihood is that you will have to pay for the prevailing costs as well.)
+No. You must serve a [14-day SHN][MOH SG 4May Presser] at a SHN dedicated facility, including any RGL travellers. For normal travellers, all prevailing costs for tests and accommodation apply. (If you are travelling under RGL, please check with the authorities, but the likelihood is that you will have to pay for the prevailing costs as well.)
 
 ## What if my spouse/children are going over with me to Singapore? {#enter-sg-non-pr}
 
@@ -79,7 +79,7 @@ All related costs (tests, SHN, medical fees if any) will no longer be waived by 
 
 You may want to download TraceTogether and/or SingPass, as well as the StayHome@SG app.
 
-If you are driving into, or passing through any districts/states with any form of MCO in effect, please apply for a movement permit using the form [here][Movement Permit CMCO] at the nearest police station. This applies to travellers departing from KLIA/KLIA2 as well. See: [Known Areas Affected By MCO][Appendix MCO]
+If you are driving into, or passing through any districts/states with any form of MCO in effect, please apply for a movement permit using the form [here][Movement Permit CMCO] at the nearest police station. This applies to travellers departing from KLIA/KLIA2 as well.
 
 ## Do I need to do a swab test before entering Singapore? {#sg-pre-entry-swab}
 
@@ -122,7 +122,6 @@ First, please verify the end date of your SHN using the calculator provided [her
 You can leave your accommodation after 12pm on the last day of your SHN, but only if your Covid-19 test results are out.
 
 
-[Appendix MCO]: /appendix-mco
 [MyTravelPass]: https://mtp.imi.gov.my/myTravelPass/main
 [e-REP]: https://eservices.ica.gov.sg/esvclandingpage/erep
 [Movement Permit MCO]: /assets/borang-permit-pergerakan-pkp.jpg
