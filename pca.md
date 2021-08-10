@@ -36,7 +36,9 @@ No. The application for PCA requires the company to apply for you with a CorpPas
 
 ## Do I need to quarantine after returning from Singapore to Malaysia? {#pca-my-hso}
 
-Yes. 14 day hotel quarantine is now mandatory. See [here][Press Release Ismail Sabri 24May].
+Yes. 14 day quarantine is now mandatory. See [here][Press Release Ismail Sabri 24May].
+
+You may apply for home quarantine if you meet the criteria. See [here](/non-pca-sg-to-my#hso-vaccine-home).
 
 ## Do I need to do a swab test before returning to Malaysia? {#pca-my-swab}
 
