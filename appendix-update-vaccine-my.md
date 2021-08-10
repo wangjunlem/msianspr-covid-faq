@@ -42,7 +42,7 @@ function copyToClipboard(lang) {
 <div id="email-content-to-clipboard-ms">
     <p>Tuan/Puan,</p>
     <p>Perkara di atas adalah dirujuk.</p>
-    <p>Saya, <i>&lt;your name&gt;</i> (<i>&lt;Malaysian IC number&gt;</i>) ingin membuat permohonan supaya status vaksinasi saya dikemaskini dengan suntikan vaksin yang saya menerima semasa di negara Singapura. </p>
+    <p>Saya, <i>&lt;your name&gt;</i> (<i>&lt;Malaysian IC number&gt;</i>) ingin membuat permohonan supaya status vaksinasi saya dikemaskini dengan suntikan vaksin yang saya terima semasa di Singapura. </p>
     <p>Maklumat vaksinasi berkenaan adalah seperti berikut:</p>
     <p>
         <b>Nama Negara Vaksin Diterima</b>: Singapura <br/>
@@ -57,7 +57,7 @@ function copyToClipboard(lang) {
         <b>Alamat Tempat Tinggal</b>: <i>&lt;address of residence in Malaysia (when in doubt, follow NRIC)&gt;</i><br/>
         <b>Nombor Telefon</b>: +65 <i>&lt;your phone number in Singapore&gt;</i>
     </p>
-    <p>Saya juga telah melampiri kad pengenalan, biodata pasport dan surat-surat pengesahan vaksinasi untuk rujukan Tuan/Puan.</p>
+    <p>Saya lampirkan bersama kad pengenalan, biodata pasport dan surat-surat pengesahan vaksinasi untuk rujukan Tuan/Puan.</p>
     <p>Perhatian dan kerjasama Tuan/Puan amat dihargai dan didahului dengan ucapan terima kasih.</p>
     <p>
         <br/>Yang benar, <br/>
