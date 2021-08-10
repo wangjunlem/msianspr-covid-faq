@@ -20,7 +20,7 @@ Regarding the issue of myPASS for travel to Malaysia, if you are travelling:
 
 ## What do I need to do to enter Malaysia? {#enter-my}
 
-You will need to print out, fill in, and sign a [Letter of Undertaking](http://www.nadma.gov.my/images/nadma/documents/garispanduan/LATEST_LOU.pdf) stating that you agree to pay any quarantine costs applicable (accommodation and Covid-19 test). 
+You will need to print out, fill in, and sign a [Letter of Undertaking](http://www.nadma.gov.my/images/nadma/documents/garispanduan/LATEST_LOU.pdf) stating that you agree to pay any quarantine costs applicable (accommodation and Covid-19 test). Leave the witness field blank.
 
 You must also do a pre-departure swab test up to 3 days before your departure to Malaysia.
 
@@ -33,7 +33,7 @@ At least 3 working days before entering, you should also:
 
 If you are entering the country with non-Malaysian citizen(s) (e.g. your spouse or children who holds non-Malaysian citizenship, and including those with Malaysian PR), see below: [What if my spouse/children are going over with me to Malaysia?](#enter-my-family-non-citizen)
 
-If you are entering Sabah or Sarawak, please take note of the latest SOPs found on [this page](https://hednp.sabah.gov.my). Take note that non-Sabahans may need approval to enter the state; see more details [here](https://phednp.wixsite.com/website). Fill in the Health Declaration Form [here](http://sm.jknsabah.gov.my/HDF/hdf.php) within 12 hours of your arrival. 
+If you are entering Sabah, please take note of the latest SOPs found on [this page](https://hednp.sabah.gov.my). Take note that non-Sabahans may need approval to enter the state; see more details [here](https://phednp.wixsite.com/website). Fill in the Health Declaration Form [here](http://sm.jknsabah.gov.my/HDF/hdf.php) within 12 hours of your arrival. 
 
 If you are entering Sarawak, please take note of the latest SOPs found on [this page](https://sarawakdisastermc.com/). If you meet the requirements, you will need to [apply for enterSarawak](https://entersarawak.socoe.co/register) and fill in the Health Declaration Form [here](https://ms.microweb.my/) within 12 hours of your arrival.
 
@@ -56,10 +56,6 @@ If you are entering Malaysia with non-citizen(s) including those holding Malaysi
 If the non-citizen traveller(s) do not have a [LTSVP][Acronyms] yet, also apply for an appointment slot at [STO][Sistem Temujanji Online] to apply for the LTSVP within 30 days of their arrival date. Proof of appointment slot is required on arrival; they risk being denied entry if it is not done.
 
 Additionally, foreigners are required to make payment for the accommodation and operational costs using [MySafeTravel] before entering Malaysia.
-
-## Who do I need to put as Witness on my Letter of Undertaking (LoU)? {#lou-witness}
-
-There is no need. It will be filled in when you arrive at the checkpoint.
 
 
 ## I am not leaving on the day stated on the myPASS / MyTravelPass / MySafeTravel, do I need to re-apply? {#my-enter-different-date}
