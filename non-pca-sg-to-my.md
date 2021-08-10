@@ -20,7 +20,7 @@ Regarding the issue of myPASS for travel to Malaysia, if you are travelling:
 
 ## What do I need to do to enter Malaysia? {#enter-my}
 
-You will need to print out, fill in, and sign a [Letter of Undertaking](http://www.nadma.gov.my/images/nadma/documents/garispanduan/LATEST_LOU.pdf) stating that you agree to pay any quarantine costs applicable (accommodation and Covid-19 test). 
+You will need to print out, fill in, and sign a [Letter of Undertaking](http://www.nadma.gov.my/images/nadma/documents/garispanduan/LATEST_LOU.pdf) stating that you agree to pay any quarantine costs applicable (accommodation and Covid-19 test). Leave the witness field blank.
 
 You must also do a pre-departure swab test up to 3 days before your departure to Malaysia.
 
@@ -29,10 +29,11 @@ At least 3 working days before entering, you should also:
 1. download MySejahtera
 1. make payment for all costs (accommodation, swab test, operational costs if foreigner) at [MySafeTravel] _(not recommended for now due to rule changes to MCO)_
 1. ~~apply for a [myPASS](https://mypass.mhc.org.sg/)/Travel Note from the High Commission of Malaysia~~ _(practically optional, see [note below](#mypass-necessary))_
+1. apply for home quarantine exemption if you qualify; see [here](#hso-vaccine-home)
 
 If you are entering the country with non-Malaysian citizen(s) (e.g. your spouse or children who holds non-Malaysian citizenship, and including those with Malaysian PR), see below: [What if my spouse/children are going over with me to Malaysia?](#enter-my-family-non-citizen)
 
-If you are entering Sabah or Sarawak, please take note of the latest SOPs found on [this page](https://hednp.sabah.gov.my). Take note that non-Sabahans may need approval to enter the state; see more details [here](https://phednp.wixsite.com/website). Fill in the Health Declaration Form [here](http://sm.jknsabah.gov.my/HDF/hdf.php) within 12 hours of your arrival. 
+If you are entering Sabah, please take note of the latest SOPs found on [this page](https://hednp.sabah.gov.my). Take note that non-Sabahans may need approval to enter the state; see more details [here](https://phednp.wixsite.com/website). Fill in the Health Declaration Form [here](http://sm.jknsabah.gov.my/HDF/hdf.php) within 12 hours of your arrival. 
 
 If you are entering Sarawak, please take note of the latest SOPs found on [this page](https://sarawakdisastermc.com/). If you meet the requirements, you will need to [apply for enterSarawak](https://entersarawak.socoe.co/register) and fill in the Health Declaration Form [here](https://ms.microweb.my/) within 12 hours of your arrival.
 
@@ -55,10 +56,6 @@ If you are entering Malaysia with non-citizen(s) including those holding Malaysi
 If the non-citizen traveller(s) do not have a [LTSVP][Acronyms] yet, also apply for an appointment slot at [STO][Sistem Temujanji Online] to apply for the LTSVP within 30 days of their arrival date. Proof of appointment slot is required on arrival; they risk being denied entry if it is not done.
 
 Additionally, foreigners are required to make payment for the accommodation and operational costs using [MySafeTravel] before entering Malaysia.
-
-## Who do I need to put as Witness on my Letter of Undertaking (LoU)? {#lou-witness}
-
-There is no need. It will be filled in when you arrive at the checkpoint.
 
 
 ## I am not leaving on the day stated on the myPASS / MyTravelPass / MySafeTravel, do I need to re-apply? {#my-enter-different-date}
@@ -84,6 +81,8 @@ All travellers are now recommended to make payment for their accommodation, swab
 Effective 24 May 2021, you must do a pre-departure swab test up to 72 hours before the start of your journey. See [here](#my-pre-entry-swab).
 
 If you are a Malaysian citizen and choose not to pay in advance, please make sure you have sufficient cash with you to pay for all prevailing charges, especially the swab test which is payable by cash upon arrival (to be safe, bring at least RM400). Credit cards may not be accepted at checkpoints.
+
+If you have been vaccinated and would like to apply for home quarantine, please do so ahead of time; see [here](#hso-vaccine-home) for more details.
 
 Bring along the following with you:
 
@@ -191,7 +190,7 @@ You are to stay in your room at all times. In general, most reports have said th
 
 ## Can I choose to quarantine at home? {#my-hso-at-home}
 
-No, all returning Malaysians will have to quarantine at designated hotels.
+Yes, provided that you are vaccinated and [meet the criteria](#hso-vaccine-home). Otherwise, you will have to quarantine at designated hotels.
 
 If there are non-life-threatening medical conditions, you may inform the officers on site to request for special arrangements. Medical officers are on site 24/7 at the quarantine stations.
 
@@ -199,9 +198,30 @@ If there are truly extenuating circumstances (e.g. people requiring long term ca
 
 Please refer to [guidelines on requesting for exemptions](/appendix-appeal-moh-my).
 
-## I have taken the vaccine for Covid-19. Can I get an exemption for quarantine? {#hso-vaccine}
+## I have taken the vaccine for Covid-19. Can I quarantine at home? {#hso-vaccine-home}
 
-No. There are currently no policies that exempt those who have been vaccinated against Covid-19 from their quarantine obligations.
+_The SOP for home quarantine for vaccinated travellers is developing and is subject to frequent changes. Please check back from time to time._
+
+You will qualify for home quarantine provided you meet the following criteria: 
+
+- Arriving in Malaysia after 10th August 2021
+- Vaccinated for more than 2 weeks after second dose\* of Pfizer / AstraZeneca / Sinovac, **or** more than 4 weeks after single dose of CanSinoBio / J&J
+- Have suitable place for quarantine (own room with toilet, no elderly or high-risk persons, proof of ownership/occupancy can be furnished)
+- Place of quarantine is within acceptable distance from point of entry _(subjective)_
+
+_\* No data available on whether Moderna is approved._
+
+If you meet the above criteria, you should complete the application form ([Malay][HSO Form Malay] / [English][HSO Form English]), and send the application form with relevant supporting documents (e.g. vaccination certificate from HealthHub and Notarise.gov.sg) to the following KKM email addresses **prior to your arrival**:
+
+- hso@moh.gov.my
+- hsokkm@gmail.com
+
+Applications can only be approved at the ministry level, and exemption cannot be provided on arrival. If your application is not processed by the time you arrive, you must first quarantine at a hotel until you are approved to quarantine at home. It is assumed that [payment for quarantine](#my-hso-cost) will be made first, followed by a pro-rated refund after the home quarantine approval is given.
+
+
+## I have taken the vaccine for Covid-19. Can I get an exemption for quarantine? {#hso-vaccine-exemption}
+
+No. Even with the [new policy to quarantine at home](#hso-vaccine-home), there are currently no policies that exempt those who have been vaccinated against Covid-19 from their quarantine obligations.
 
 ## Can I be exempted from paying the quarantine fees? {#my-hso-payment-exemption}
 
@@ -237,7 +257,7 @@ Yes, you can. If you are travelling onwards to other districts outside of your q
 
 ## I would like to travel to another state/district after my quarantine ends (e.g. quarantine in Selangor after entering KLIA, but my hometown is in Perak). Can I do so? {#travel-after-mco}
 
-Take note that inter-state travel is not allowed for the whole country, and states under MCO will not allow inter-district travel. See the [latest information about the nationwide MCO][Appendix MCO]
+Take note that inter-state travel is not allowed for the whole country, and states under MCO will not allow inter-district travel.
 
 You should make arrangements to travel home on your own, if possible.
 
@@ -250,12 +270,13 @@ Please send to your friends/relatives photos of these documents to support the m
 
 The police will have to approve your family's movement permit, after which your family/friends must then carry the letter when they pick you up from the quarantine station at the end of your quarantine.
 
-[Appendix MCO]: /appendix-mco
 [Acronyms]: /appendix-acronyms
 [Sistem Temujanji Online]: http://www.sto.imi.gov.my
 [MyTravelPass]: https://mtp.imi.gov.my/myTravelPass/main
 [MySafeTravel]: https://safetravel.myeg.com.my
 [Movement Permit MCO]: /assets/borang-permit-pergerakan-pkp.jpg
 [Movement Permit CMCO]: /assets/borang-permit-pergerakan-pkpb.pdf
+[HSO Form English]: /asssets/borang-hso-en.docx
+[HSO Form Malay]: /asssets/borang-hso-ms.docx
 [Press Release Ismail Sabri 24May]: /assets/press-release-ismail-sabri-20210524.pdf
 [e-REP]: https://eservices.ica.gov.sg/esvclandingpage/erep
