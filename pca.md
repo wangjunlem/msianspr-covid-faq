@@ -46,7 +46,7 @@ Yes. See [here][Press Release Ismail Sabri 24May].
 
 ## Do I need to quarantine after returning from Malaysia to Singapore? {#pca-sg-shn}
 
-Yes. Due to increase in Covid-19 cases in Malaysia, Singapore now imposes a 14-day SHN at SDFs, payable by the employer. The final cost arrangement between you and your employer will differ from company to company.
+Yes. Due to increase in Covid-19 cases in Malaysia, Singapore now imposes a 14-day SHN at SDFs, payable by the employer, regardless of vaccination status. The final cost arrangement between you and your employer will differ from company to company.
 
 ## Do I need to do a swab test before going back to Singapore? {#pca-sg-swab}
 
