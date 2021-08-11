@@ -36,7 +36,7 @@ function copyToClipboard(lang) {
     navigator.clipboard.write([clipboardItem]);
 }
 </script>
-<button onclick="copyToClipboard('ms')" style="font-size: 1em; padding: 0.25em 1em; height: 2em">Copy to Clipboard</button>
+<button onclick="copyToClipboard('ms')" class="button is-primary is-outlined">Copy to Clipboard</button>
 
 <blockquote>
 <div id="email-content-to-clipboard-ms">
