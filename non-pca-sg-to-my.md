@@ -273,7 +273,7 @@ The police will have to approve your family's movement permit, after which your 
 [MySafeTravel]: https://safetravel.myeg.com.my
 [Movement Permit MCO]: /assets/borang-permit-pergerakan-pkp.jpg
 [Movement Permit CMCO]: /assets/borang-permit-pergerakan-pkpb.pdf
-[HSO Form English]: /asssets/borang-hso-en.docx
-[HSO Form Malay]: /asssets/borang-hso-ms.docx
+[HSO Form English]: /assets/borang-hso-en.docx
+[HSO Form Malay]: /assets/borang-hso-ms.docx
 [Press Release Ismail Sabri 24May]: /assets/press-release-ismail-sabri-20210524.pdf
 [e-REP]: https://eservices.ica.gov.sg/esvclandingpage/erep
