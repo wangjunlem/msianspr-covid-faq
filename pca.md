@@ -90,6 +90,7 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 |Arrival swab test required|Yes|Yes|
 |Quarantine / SHN duration |14 days|14 days|
 |SHN roommate restriction|Family members only\*|Family members only|
+|ART tests required|Yes^^^|Yes^^^|
 |End of SHN swab test required|Yes|Yes|
 |Estimated total spend^^|up to $2300 + RM300|up to $2300 + RM300|
 
@@ -101,6 +102,8 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 ^ _Estimated total spend assumes a solo SPR traveller. See detailed costs for [Malaysia][Non-PCA Quarantine]._
 
 ^^ _Estimated total spend assumes a solo SPR traveller. See detailed costs for [Singapore][SG SHN Cost]. For official information, please see [here][SG SDF Cost] for accommodation and [here][SG Swab Cost] for swab tests._
+
+^^^ _SPRs are currently exempt from this payment._
 
 [SafeTravel]: https://safetravel.ica.gov.sg/pca/overview
 [PCA Requirements and Process]: https://safetravel.ica.gov.sg/pca/requirements-and-process

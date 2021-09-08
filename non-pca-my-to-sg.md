@@ -95,7 +95,9 @@ For staying at a [SHN Dedicated Facility][SafeTravel SDF] (SDF), it will cost $2
 
 If you have children, they may qualify for reduced charges depending on their age. You can appeal to ICA via the hotel in which you are serving your SHN; the hotel manager on duty will forward the appeal.
 
-For the [swab tests][SafeTravel Swab], it will cost maximum $200 per person per swab. (Last known price: $160 for arrival swab, $125 for swab at end of SHN)
+For the [PCR swab tests][SafeTravel Swab], it will cost maximum $200 per person per swab. (Last known price: $160 for arrival swab, $125 for swab at end of SHN)
+
+For the ART test kits, you may be charged $40 for 4 kits. However, SPRs are not charged this amount until further notice.
 
 ## What happens to my vehicle if I’m driving in? {#vehicle-before-shn}
 
@@ -108,12 +110,13 @@ Please follow the instructions of the officers on the day itself. Note that any 
 
 You will be required to take a swab test [before departure](#sg-pre-entry-swab) and on arrival. This rule applies to all travellers.
 
-You will also complete a swab test on the last day of your SHN.
+On days 3, 7, and 11, you will be required to do a swab test by yourself, using the ART test kits provided to you.
+
+You will also complete a PCR swab test on the last day of your SHN.
 
 ## When and where can I check my swab test results? {#check-swab-results}
 
 Your swab test results will be available on [HealthHub](https://eservices.healthhub.sg/PersonalHealth/CovidLabResults) within 24 hours of the test. You will also be contacted by phone.
-
 
 ## What happens at the end of my SHN? {#shn-end}
 
