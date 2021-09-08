@@ -211,10 +211,12 @@ You will qualify for home quarantine provided you meet the following criteria:
 
 _\* Although not officially announced, there are applicants who took the Moderna vaccine who have successfully applied._
 
-If you meet the above criteria, you should complete the application form [here][HSO Form English], and send the application form with relevant supporting documents (e.g. vaccination certificate from HealthHub and Notarise.gov.sg) to the following KKM email address **prior to your arrival**: [hso@moh.gov.my](mailto:hso@moh.gov.my)
+If you meet the above criteria, you should complete the application form [here][HSO Form English], and send the application form with relevant supporting documents (e.g. vaccination certificate from HealthHub and Notarise.gov.sg) to the following KKM email address **1 week prior to your arrival**: 
 
-Applications can only be approved at the ministry level, and exemption cannot be provided on arrival. If your application is not processed by the time you arrive, you must first quarantine at a hotel until you are approved to quarantine at home. It is assumed that [payment for quarantine](#my-hso-cost) will be made first, followed by a pro-rated refund after the home quarantine approval is given.
+- For entry via Johor Bahru checkpoints: [cprcjknj@moh.gov.my](mailto:cprcjknj@moh.gov.my)
+- For all other entries: [hso@moh.gov.my](mailto:hso@moh.gov.my)
 
+Applications can only be approved via the email above, and exemption cannot be provided on arrival. If your application is not processed by the time you arrive, you must first quarantine at a hotel until you are approved to quarantine at home. It is assumed that [payment for quarantine](#my-hso-cost) will be made first, followed by a pro-rated refund after the home quarantine approval is given.
 
 ## I have taken the vaccine for Covid-19. Can I get an exemption for quarantine? {#hso-vaccine-exemption}
 
