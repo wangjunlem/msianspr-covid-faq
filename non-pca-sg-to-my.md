@@ -205,16 +205,13 @@ _The SOP for home quarantine for vaccinated travellers is developing and is subj
 You will qualify for home quarantine provided you meet the following criteria: 
 
 - Arriving in Malaysia after 10th August 2021
-- Vaccinated for more than 2 weeks after second dose\* of Pfizer / AstraZeneca / Sinovac, **or** more than 4 weeks after single dose of CanSinoBio / J&J
+- Vaccinated for more than 2 weeks after second dose of Pfizer / Moderna\* / AstraZeneca / Sinovac, **or** more than 4 weeks after single dose of CanSinoBio / J&J
 - Have suitable place for quarantine (own room with toilet, no elderly or high-risk persons, proof of ownership/occupancy can be furnished)
 - Place of quarantine is within acceptable distance from point of entry _(subjective)_
 
-_\* No data available on whether Moderna is approved._
+_\* Although not officially announced, there are applicants who took the Moderna vaccine who have successfully applied._
 
-If you meet the above criteria, you should complete the application form ([Malay][HSO Form Malay] / [English][HSO Form English]), and send the application form with relevant supporting documents (e.g. vaccination certificate from HealthHub and Notarise.gov.sg) to the following KKM email addresses **prior to your arrival**:
-
-- hso@moh.gov.my
-- hsokkm@gmail.com
+If you meet the above criteria, you should complete the application form [here][HSO Form English], and send the application form with relevant supporting documents (e.g. vaccination certificate from HealthHub and Notarise.gov.sg) to the following KKM email address **prior to your arrival**: [hso@moh.gov.my](mailto:hso@moh.gov.my)
 
 Applications can only be approved at the ministry level, and exemption cannot be provided on arrival. If your application is not processed by the time you arrive, you must first quarantine at a hotel until you are approved to quarantine at home. It is assumed that [payment for quarantine](#my-hso-cost) will be made first, followed by a pro-rated refund after the home quarantine approval is given.
 
@@ -276,7 +273,7 @@ The police will have to approve your family's movement permit, after which your 
 [MySafeTravel]: https://safetravel.myeg.com.my
 [Movement Permit MCO]: /assets/borang-permit-pergerakan-pkp.jpg
 [Movement Permit CMCO]: /assets/borang-permit-pergerakan-pkpb.pdf
-[HSO Form English]: /asssets/borang-hso-en.docx
-[HSO Form Malay]: /asssets/borang-hso-ms.docx
+[HSO Form English]: /assets/borang-hso-en.docx
+[HSO Form Malay]: /assets/borang-hso-ms.docx
 [Press Release Ismail Sabri 24May]: /assets/press-release-ismail-sabri-20210524.pdf
 [e-REP]: https://eservices.ica.gov.sg/esvclandingpage/erep

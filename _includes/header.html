@@ -36,7 +36,7 @@
                 <hr class="navbar-divider">
                 <div class="navbar-item navbar-item__last-version">
                     <div class="is-hidden-desktop">Last released version:</div>
-                    {{ site.github.latest_release.tag_name }}
+                    <a class="navbar-item" href="{{ site.github.releases_url }}">{{ site.github.latest_release.tag_name }}</a>
                 </div>
                 {% endif %}
                 {% if site.gh_sponsor %}
