@@ -7,6 +7,8 @@ hide_hero: true
 
 ## Emailing MOH MY for Special Consideration of Hotel Quarantine Exemption 
 
+_This is pertaining to special appeals before the SOPs for vaccinated travellers were released._
+
 <p class="has-text-danger">
 <b>NOTE:</b> Please understand that in almost all cases, unless there are truly extenuating circumstances, you will <b>NOT</b> be granted exemption from quarantine.
 </p>
