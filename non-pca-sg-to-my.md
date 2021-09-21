@@ -51,7 +51,7 @@ Take note of the operating hours at each checkpoint in Malaysia (BSI operates fr
 
 ## What if my spouse/children are going over with me to Malaysia? {#enter-my-family-non-citizen}
 
-If you are entering Malaysia with non-citizen(s) including those holding Malaysia PR, then you will need to apply for [MyTravelPass] for them to enter the country at least 5 working days* before your journey. Please submit your application only once and wait for a response on your application.
+If you are entering Malaysia with non-citizen(s) including those holding Malaysia PR, then you will need to apply for [MyTravelPass] for them to enter the country at least 14 days before your journey. Please submit your application only once and wait for a response on your application.
 
 If the non-citizen traveller(s) do not have a [LTSVP][Acronyms] yet, also apply for an appointment slot at [STO][Sistem Temujanji Online] to apply for the LTSVP within 30 days of their arrival date. Proof of appointment slot is required on arrival; they risk being denied entry if it is not done.
 
@@ -67,11 +67,11 @@ Please re-apply for the passes if you are not travelling within the stated valid
 
 ## Is applying for myPASS still necessary? {#mypass-necessary}
 
-So far, most anecdotes show that both Singaporean and Malaysian authorities do not check if you have a myPASS/Travel Note before exiting Singapore and entering Malaysia respectively. Separately, [JIM has confirmed](/appendix-response-jim) that there is no restriction of entry into Malaysia as a Malaysian citizen.
+So far, most anecdotes show that both Singaporean and Malaysian authorities do not check if you have a myPASS/Travel Note before exiting Singapore and entering Malaysia respectively. There is also no restriction of entry into Malaysia as a Malaysian citizen.
 
 However, the directive to apply myPASS is given by the MHC, and airlines may still ask for a valid myPASS before travel.
 
-If you want to err on the side of caution, you may apply. In the event of emergency travel or if you have not received your myPASS before you travel, the recommendation at the moment is to travel regardless and explain your situation to the authorities (if needed) that Malaysian citizens are not barred from re-entering Malaysia using the [JIM confirmation](/appendix-response-jim) and [this news article](https://www.malaymail.com/news/malaysia/2020/12/28/malaysians-abroad-cannot-be-prevented-from-returning-says-ismail-sabri/1935587).
+If you want to err on the side of caution, you may apply. In the event of emergency travel or if you have not received your myPASS before you travel, the recommendation at the moment is to travel regardless and explain your situation to the authorities (if needed) that Malaysian citizens are not barred from re-entering Malaysia.
 
 
 ## Is there anything to do/note before entering Malaysia on the day of my travel? {#before-entering-my}
