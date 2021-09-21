@@ -83,7 +83,7 @@ If you are driving into, or passing through any districts/states with any form o
 
 ## Do I need to do a swab test before entering Singapore? {#sg-pre-entry-swab}
 
-Yes. All travellers will need to present a valid negative PCR test within 48 hours before departing for Singapore if you arrive from 10 September 2021 onwards. See [here][MOH SG Pre-Depart Presser] for the update.
+Yes. All travellers will need to present a valid negative PCR test within 48 hours before departing for Singapore. See [here][MOH SG Pre-Depart Presser] for the update.
 
 ## How long is the SHN going to be? {#shn-duration}
 
@@ -97,7 +97,7 @@ If you have children, they may qualify for reduced charges depending on their ag
 
 For the [PCR swab tests][SafeTravel Swab], it will cost maximum $200 per person per swab. (Last known price: $160 for arrival swab, $125 for swab at end of SHN)
 
-For the ART test kits, you may be charged $40 for 4 kits. However, SPRs are not charged this amount until further notice.
+For the ART test kits, you will be charged $40 for 4 kits.
 
 ## What happens to my vehicle if I’m driving in? {#vehicle-before-shn}
 

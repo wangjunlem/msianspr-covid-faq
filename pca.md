@@ -50,7 +50,7 @@ Yes. Due to increase in Covid-19 cases in Malaysia, Singapore now imposes a 14-d
 
 ## Do I need to do a swab test before going back to Singapore? {#pca-sg-swab}
 
-Yes. You must present a negative pre-departure PCR swab test result up to 48 hours before departing for Singapore if you arrive from 10 September 2021 onwards. See [here][MOH SG Pre-Depart Presser].
+Yes. You must present a negative pre-departure PCR swab test result up to 48 hours before departing for Singapore. See [here][MOH SG Pre-Depart Presser].
 
 Additionally, you will undergo swab tests on arrival, and on the last day of your SHN.
 
@@ -90,9 +90,9 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 |Arrival swab test required|Yes|Yes|
 |Quarantine / SHN duration |14 days|14 days|
 |SHN roommate restriction|Family members only\*|Family members only|
-|ART tests required|Yes^^^|Yes^^^|
+|ART tests required|Yes|Yes|
 |End of SHN swab test required|Yes|Yes|
-|Estimated total spend^^|up to $2300 + RM300|up to $2300 + RM300|
+|Estimated total spend^^|up to $2350 + RM300|up to $2350 + RM300|
 
 
 **NOTES:**
@@ -102,8 +102,6 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 ^ _Estimated total spend assumes a solo SPR traveller. See detailed costs for [Malaysia][Non-PCA Quarantine]._
 
 ^^ _Estimated total spend assumes a solo SPR traveller. See detailed costs for [Singapore][SG SHN Cost]. For official information, please see [here][SG SDF Cost] for accommodation and [here][SG Swab Cost] for swab tests._
-
-^^^ _SPRs are currently exempt from this payment._
 
 [SafeTravel]: https://safetravel.ica.gov.sg/pca/overview
 [PCA Requirements and Process]: https://safetravel.ica.gov.sg/pca/requirements-and-process
