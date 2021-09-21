@@ -38,7 +38,7 @@ No. The application for PCA requires the company to apply for you with a CorpPas
 
 Yes. 14 day quarantine is now mandatory. See [here][Press Release Ismail Sabri 24May].
 
-You may apply for home quarantine if you meet the criteria. See [here](/non-pca-sg-to-my#hso-vaccine-home).
+You may apply for home quarantine if you meet the criteria. See [here](/non-pca-sg-to-my#my-hso-at-home).
 
 ## Do I need to do a swab test before returning to Malaysia? {#pca-my-swab}
 
