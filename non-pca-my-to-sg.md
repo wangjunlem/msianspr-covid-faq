@@ -20,7 +20,7 @@ If you are travelling with others, see: [What if my spouse/children are going ov
 
 You will need to submit a [Health Declaration](https://eservices.ica.gov.sg/sgarrivalcard/) up to 3 days before your arrival in Singapore.
 
-You will also require a valid negative RT-PCR COVID-19 swab test result within 72 hours before departure to Singapore. See [here](#sg-pre-entry-swab) and [info sheet](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf) for more details.
+You will also require a valid negative RT-PCR COVID-19 swab test result within 48 hours before departure to Singapore. See [here](#sg-pre-entry-swab) and [info sheet](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf) for more details.
 
 You will need to pay for your swab tests (up to $200 per swab, including GST). For the swab test on arrival, please follow the instructions [here][SafeTravel Swab]. For the swab tests on the 14th day of SHN, payment will not be made at the border; register and follow the instructions [here](https://go.gov.sg/covid19test). You will be informed of the exact dates of your swab tests later.
 
@@ -71,7 +71,7 @@ Please remember to keep all receipts during your SHN, including any taxi rides, 
 
 Please ensure that you have a thermometer with you to monitor your health during SHN.
 
-You must do a pre-departure swab test and get a negative result within 72 hours before entering Singapore. See [here](#sg-pre-entry-swab).
+You must do a pre-departure swab test and get a negative result within 48 hours before entering Singapore. See [here](#sg-pre-entry-swab).
 
 There is a regular hourly bus offered by the Johor government. See [here](#enter-sg-transport).
 
@@ -83,7 +83,7 @@ If you are driving into, or passing through any districts/states with any form o
 
 ## Do I need to do a swab test before entering Singapore? {#sg-pre-entry-swab}
 
-Yes. All travellers will need to present a valid negative PCR test within 72 hours before departing for Singapore. See [here][MOH SG Pre-Depart Presser] for the update.
+Yes. All travellers will need to present a valid negative PCR test within 48 hours before departing for Singapore. See [here][MOH SG Pre-Depart Presser] for the update.
 
 ## How long is the SHN going to be? {#shn-duration}
 
@@ -95,7 +95,9 @@ For staying at a [SHN Dedicated Facility][SafeTravel SDF] (SDF), it will cost $2
 
 If you have children, they may qualify for reduced charges depending on their age. You can appeal to ICA via the hotel in which you are serving your SHN; the hotel manager on duty will forward the appeal.
 
-For the [swab tests][SafeTravel Swab], it will cost maximum $200 per person per swab. (Last known price: $160 for arrival swab, $125 for swab at end of SHN)
+For the [PCR swab tests][SafeTravel Swab], it will cost maximum $200 per person per swab. (Last known price: $160 for arrival swab, $125 for swab at end of SHN)
+
+For the ART test kits, you will be charged $40 for 4 kits.
 
 ## What happens to my vehicle if I’m driving in? {#vehicle-before-shn}
 
@@ -108,12 +110,13 @@ Please follow the instructions of the officers on the day itself. Note that any 
 
 You will be required to take a swab test [before departure](#sg-pre-entry-swab) and on arrival. This rule applies to all travellers.
 
-You will also complete a swab test on the last day of your SHN.
+On days 3, 7, and 11, you will be required to do a swab test by yourself, using the ART test kits provided to you.
+
+You will also complete a PCR swab test on the last day of your SHN.
 
 ## When and where can I check my swab test results? {#check-swab-results}
 
 Your swab test results will be available on [HealthHub](https://eservices.healthhub.sg/PersonalHealth/CovidLabResults) within 24 hours of the test. You will also be contacted by phone.
-
 
 ## What happens at the end of my SHN? {#shn-end}
 
@@ -131,4 +134,4 @@ You can leave your accommodation after 12pm on the last day of your SHN, but onl
 
 [MOH Presser SHN MY 14d]: https://www.moh.gov.sg/news-highlights/details/updated-border-measures-for-travellers-from-malaysia-and-japan
 [MOH SG 4May Presser]: https://moh.gov.sg/news-highlights/details/updates-on-local-situation-border-measures-and-shift-to-heightened-alert-to-minimise-transmission_4May2021
-[MOH SG Pre-Depart Presser]: https://www.moh.gov.sg/news-highlights/details/updated-pre-departure-testing-requirements
+[MOH SG Pre-Depart Presser]: https://www.moh.gov.sg/news-highlights/details/updates-on-border-measures-for-travellers

@@ -29,7 +29,7 @@ At least 3 working days before entering, you should also:
 1. download MySejahtera
 1. make payment for all costs (accommodation, swab test, operational costs if foreigner) at [MySafeTravel] _(not recommended for now due to rule changes to MCO)_
 1. ~~apply for a [myPASS](https://mypass.mhc.org.sg/)/Travel Note from the High Commission of Malaysia~~ _(practically optional, see [note below](#mypass-necessary))_
-1. apply for home quarantine exemption if you qualify; see [here](#hso-vaccine-home)
+1. apply for home quarantine exemption if you qualify; see [here](#my-hso-at-home)
 
 If you are entering the country with non-Malaysian citizen(s) (e.g. your spouse or children who holds non-Malaysian citizenship, and including those with Malaysian PR), see below: [What if my spouse/children are going over with me to Malaysia?](#enter-my-family-non-citizen)
 
@@ -78,11 +78,11 @@ If you want to err on the side of caution, you may apply. In the event of emerge
 
 All travellers are now recommended to make payment for their accommodation, swab tests, and operational costs (for foreigners) with [MySafeTravel] before entering the country.
 
-Effective 24 May 2021, you must do a pre-departure swab test up to 72 hours before the start of your journey. See [here](#my-pre-entry-swab).
+You must do a pre-departure swab test up to 72 hours before the start of your journey. See [here](#my-pre-entry-swab).
 
 If you are a Malaysian citizen and choose not to pay in advance, please make sure you have sufficient cash with you to pay for all prevailing charges, especially the swab test which is payable by cash upon arrival (to be safe, bring at least RM400). Credit cards may not be accepted at checkpoints.
 
-If you have been vaccinated and would like to apply for home quarantine, please do so ahead of time; see [here](#hso-vaccine-home) for more details.
+If you have been vaccinated and would like to apply for home quarantine, please do so 7-10 days ahead of your arrival; see [here](#my-hso-at-home) for more details.
 
 Bring along the following with you:
 
@@ -187,38 +187,25 @@ For personal belongings (e.g. clothes), **please only do so if it is urgent and 
 
 You are to stay in your room at all times. In general, most reports have said that laundry services are not provided. You may opt to do your own washing in your room.
 
-
 ## Can I choose to quarantine at home? {#my-hso-at-home}
-
-Yes, provided that you are vaccinated and [meet the criteria](#hso-vaccine-home). Otherwise, you will have to quarantine at designated hotels.
-
-If there are non-life-threatening medical conditions, you may inform the officers on site to request for special arrangements. Medical officers are on site 24/7 at the quarantine stations.
-
-If there are truly extenuating circumstances (e.g. people requiring long term care or constant monitoring), you may apply for special consideration, however note that the success rate is (understandably) low. 
-
-Please refer to [guidelines on requesting for exemptions](/appendix-appeal-moh-my).
-
-## I have taken the vaccine for Covid-19. Can I quarantine at home? {#hso-vaccine-home}
-
-_The SOP for home quarantine for vaccinated travellers is developing and is subject to frequent changes. Please check back from time to time._
 
 You will qualify for home quarantine provided you meet the following criteria: 
 
-- Arriving in Malaysia after 10th August 2021
-- Vaccinated for more than 2 weeks after second dose of Pfizer / Moderna\* / AstraZeneca / Sinovac, **or** more than 4 weeks after single dose of CanSinoBio / J&J
-- Have suitable place for quarantine (own room with toilet, no elderly or high-risk persons, proof of ownership/occupancy can be furnished)
-- Place of quarantine is within acceptable distance from point of entry _(subjective)_
+- Fully vaccinated:
+  - for double-dosed vaccines (e.g. Pfizer / Moderna / AstraZeneca / Sinovac), 14 days after second dose of vaccination; **or** 
+  - for single-dosed vaccines (e.g. CanSinoBio / J&J), 28 days after vaccination
+- Have a suitable place for quarantine (based on risk factors determined by MOH)
+- Present a negative Covid-19 PCR test on arrival
 
-_\* Although not officially announced, there are applicants who took the Moderna vaccine who have successfully applied._
+If you meet the above criteria, you should complete the application form [here][HSO Application Portal] **7-10 days** prior to your arrival. Approval will take up to 7 working days.
 
-If you meet the above criteria, you should complete the application form [here][HSO Form English], and send the application form with relevant supporting documents (e.g. vaccination certificate from HealthHub and Notarise.gov.sg) to the following KKM email address **prior to your arrival**: [hso@moh.gov.my](mailto:hso@moh.gov.my)
+Please submit fully the relevant supporting documents, including your vaccination certificate 
 
-Applications can only be approved at the ministry level, and exemption cannot be provided on arrival. If your application is not processed by the time you arrive, you must first quarantine at a hotel until you are approved to quarantine at home. It is assumed that [payment for quarantine](#my-hso-cost) will be made first, followed by a pro-rated refund after the home quarantine approval is given.
-
+If your application is not processed by the time you arrive, it should be assumed that you must first quarantine at a hotel until you are approved to quarantine at home, and that [payment for quarantine](#my-hso-cost) will be made first, followed by a pro-rated refund after the home quarantine approval is given.
 
 ## I have taken the vaccine for Covid-19. Can I get an exemption for quarantine? {#hso-vaccine-exemption}
 
-No. Even with the [new policy to quarantine at home](#hso-vaccine-home), there are currently no policies that exempt those who have been vaccinated against Covid-19 from their quarantine obligations.
+No. Even with the [new policy to quarantine at home](#my-hso-at-home), you must apply for exemption. There are currently no policies that automatically exempt those who have been vaccinated against Covid-19 from their quarantine obligations.
 
 ## Can I be exempted from paying the quarantine fees? {#my-hso-payment-exemption}
 
@@ -273,7 +260,6 @@ The police will have to approve your family's movement permit, after which your 
 [MySafeTravel]: https://safetravel.myeg.com.my
 [Movement Permit MCO]: /assets/borang-permit-pergerakan-pkp.jpg
 [Movement Permit CMCO]: /assets/borang-permit-pergerakan-pkpb.pdf
-[HSO Form English]: /assets/borang-hso-en.docx
-[HSO Form Malay]: /assets/borang-hso-ms.docx
+[HSO Application Portal]: https://ecovid19.moh.gov.my/outbreak-portal-hqa/home
 [Press Release Ismail Sabri 24May]: /assets/press-release-ismail-sabri-20210524.pdf
 [e-REP]: https://eservices.ica.gov.sg/esvclandingpage/erep

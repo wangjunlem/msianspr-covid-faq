@@ -38,7 +38,7 @@ No. The application for PCA requires the company to apply for you with a CorpPas
 
 Yes. 14 day quarantine is now mandatory. See [here][Press Release Ismail Sabri 24May].
 
-You may apply for home quarantine if you meet the criteria. See [here](/non-pca-sg-to-my#hso-vaccine-home).
+You may apply for home quarantine if you meet the criteria. See [here](/non-pca-sg-to-my#my-hso-at-home).
 
 ## Do I need to do a swab test before returning to Malaysia? {#pca-my-swab}
 
@@ -50,7 +50,7 @@ Yes. Due to increase in Covid-19 cases in Malaysia, Singapore now imposes a 14-d
 
 ## Do I need to do a swab test before going back to Singapore? {#pca-sg-swab}
 
-Yes. You must present a negative pre-departure PCR swab test result up to 72 hours before departure to Singapore. See [here][MOH SG Pre-Depart Presser].
+Yes. You must present a negative pre-departure PCR swab test result up to 48 hours before departing for Singapore. See [here][MOH SG Pre-Depart Presser].
 
 Additionally, you will undergo swab tests on arrival, and on the last day of your SHN.
 
@@ -90,8 +90,9 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 |Arrival swab test required|Yes|Yes|
 |Quarantine / SHN duration |14 days|14 days|
 |SHN roommate restriction|Family members only\*|Family members only|
+|ART tests required|Yes|Yes|
 |End of SHN swab test required|Yes|Yes|
-|Estimated total spend^^|up to $2300 + RM300|up to $2300 + RM300|
+|Estimated total spend^^|up to $2350 + RM300|up to $2350 + RM300|
 
 
 **NOTES:**
@@ -110,4 +111,4 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 [SG Swab Cost]: https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest#pcr-test-in-singapore
 [ICA SafeTravel Response]: /assets/safetravel-ica-response-2021-02-25.jpg
 [Press Release Ismail Sabri 24May]: /assets/press-release-ismail-sabri-20210524.pdf
-[MOH SG Pre-Depart Presser]: https://www.moh.gov.sg/news-highlights/details/updated-pre-departure-testing-requirements
+[MOH SG Pre-Depart Presser]: https://www.moh.gov.sg/news-highlights/details/updates-on-border-measures-for-travellers
