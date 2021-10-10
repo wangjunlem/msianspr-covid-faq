@@ -18,7 +18,7 @@ You must travel in and out via the land borders (i.e. Woodlands/BSI and Tuas/KSA
 
 You must strictly follow the date agreed to return to Singapore as specified in your PCA application. See [here](#pca-date-change).
 
-From 12 May onwards, MOH imposes a mandatory 14-day hotel quarantine on all travellers from Singapore, including those travelling under the PCA scheme. ~~While waiting for your swab test results on entry to Malaysia, you must have a place of residence in the state of Johor, if not, you will need to arrange for a hotel room to stay. If your Malaysia IC does not reflect it, please show proof of residence (e.g. bank statements or bills).~~
+From 12 May onwards, MOH imposes a mandatory 14-day hotel quarantine on all travellers from Singapore, including those travelling under the PCA scheme. You may apply for home quarantine if you meet the criteria. See [here](/non-pca-sg-to-my#my-hso-at-home).
 
 You can be out of Singapore for up to 60 days per PCA application, and will have to be back in Singapore for another 90 days before you can submit another PCA application.
 

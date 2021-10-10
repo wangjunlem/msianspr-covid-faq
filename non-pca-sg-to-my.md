@@ -10,17 +10,17 @@ hide_footer: true
 
 There are no restrictions for exiting Singapore. The official travel advisory by MOH is to defer all travel to Malaysia. The latest advisory can be found [here](https://www.moh.gov.sg/covid-19).
 
-Please verify that your Re-entry Permit (REP) is still valid before exiting Singapore. Additionally, please ensure that you have a digital copy of your REP on your phone or in cloud storage. You may obtain a copy of the REP [here][e-REP]
+Please verify that your Re-entry Permit (REP) is still valid before exiting Singapore. Additionally, please ensure that you have a digital copy of your REP on your phone or in cloud storage. You may obtain a copy of the REP [here][e-REP].
 
-Regarding the issue of myPASS for travel to Malaysia, if you are travelling:
+<!-- Regarding the issue of myPASS for travel to Malaysia, if you are travelling:
 
 - **by land**: ICA should not be asking for a myPASS. If they do, inform them that the Malaysian side will not ask for myPASS on entry.
 
-- **by air**: Airlines and immigration authorities may ask you to show your [myPASS/Travel Note](#mypass-necessary) because they liaise with the Malaysian High Comm. To be safe, please apply.
+- **by air**: Airlines and immigration authorities may ask you to show your [myPASS/Travel Note](#mypass-necessary) because they liaise with the Malaysian High Comm. To be safe, please apply. -->
 
 ## What do I need to do to enter Malaysia? {#enter-my}
 
-You will need to print out, fill in, and sign a [Letter of Undertaking](http://www.nadma.gov.my/images/nadma/documents/garispanduan/LATEST_LOU.pdf) stating that you agree to pay any quarantine costs applicable (accommodation and Covid-19 test). Leave the witness field blank.
+<!-- You will need to print out, fill in, and sign a [Letter of Undertaking](http://www.nadma.gov.my/images/nadma/documents/garispanduan/LATEST_LOU.pdf) stating that you agree to pay any quarantine costs applicable (accommodation and Covid-19 test). Leave the witness field blank. -->
 
 You must also do a pre-departure swab test up to 3 days before your departure to Malaysia.
 
@@ -31,7 +31,9 @@ At least 3 working days before entering, you should also:
 1. ~~apply for a [myPASS](https://mypass.mhc.org.sg/)/Travel Note from the High Commission of Malaysia~~ _(practically optional, see [note below](#mypass-necessary))_
 1. apply for home quarantine exemption if you qualify; see [here](#my-hso-at-home)
 
+<!-- 
 If you are entering the country with non-Malaysian citizen(s) (e.g. your spouse or children who holds non-Malaysian citizenship, and including those with Malaysian PR), see below: [What if my spouse/children are going over with me to Malaysia?](#enter-my-family-non-citizen)
+-->
 
 If you are entering Sabah, please take note of the latest SOPs found on [this page](https://hednp.sabah.gov.my). Take note that non-Sabahans may need approval to enter the state; see more details [here](https://phednp.wixsite.com/website). Fill in the Health Declaration Form [here](http://sm.jknsabah.gov.my/HDF/hdf.php) within 12 hours of your arrival. 
 
@@ -68,12 +70,13 @@ Please re-apply for the passes if you are not travelling within the stated valid
 
 ## Is applying for myPASS still necessary? {#mypass-necessary}
 
-So far, most anecdotes show that both Singaporean and Malaysian authorities do not check if you have a myPASS/Travel Note before exiting Singapore and entering Malaysia respectively. There is also no restriction of entry into Malaysia as a Malaysian citizen.
+No.
+<!--So far, most anecdotes show that both Singaporean and Malaysian authorities do not check if you have a myPASS/Travel Note before exiting Singapore and entering Malaysia respectively. There is also no restriction of entry into Malaysia as a Malaysian citizen.
 
 However, the directive to apply myPASS is given by the MHC, and airlines may still ask for a valid myPASS before travel.
 
 If you want to err on the side of caution, you may apply. In the event of emergency travel or if you have not received your myPASS before you travel, the recommendation at the moment is to travel regardless and explain your situation to the authorities (if needed) that Malaysian citizens are not barred from re-entering Malaysia.
-
+-->
 
 ## Is there anything to do/note before entering Malaysia on the day of my travel? {#before-entering-my}
 
@@ -163,6 +166,7 @@ For swab tests, you will be swabbed on:
 
 Follow the date on the wristband or on the papers issued to you on arrival.
 
+<!-- 
 ## Can I choose which hotel to stay in? {#my-hso-choose-hotel}
 
 You may put in a request with [APM](/appendix-acronyms) on the day of your arrival for your choice of hotel/room if:
@@ -174,7 +178,7 @@ On the day of your arrival, show the booking confirmation from the hotel to the 
 
 See the known quarantine stations [here](/appendix-misc#hotels-hso). All arrangements are subject to hotel availability, and additional charges may apply depending on the location.
 
-
+--> 
 ## Can I get food or personal items delivered to/from my hotel via Grab or by family members? {#my-hso-delivery-personal}
 
 The SOPs on delivery differ from hotel to hotel. You are advised to check with the hotel directly.
@@ -200,14 +204,16 @@ You will qualify for home quarantine provided you meet the following criteria:
 
 If you meet the above criteria, you should complete the application form [here][HSO Application Portal] **7-10 days** prior to your arrival. Approval will take up to 7 working days.
 
-Please submit fully the relevant supporting documents, including your vaccination certificate 
+Please submit fully the relevant supporting documents, including your vaccination certificate (downloaded from [Notarise.gov.sg](https://notarise.gov.sg) if vaccine was taken in Singapore).
 
 If your application is not processed by the time you arrive, it should be assumed that you must first quarantine at a hotel until you are approved to quarantine at home, and that [payment for quarantine](#my-hso-cost) will be made first, followed by a pro-rated refund after the home quarantine approval is given.
 
+<!--
 ## I have taken the vaccine for Covid-19. Can I get an exemption for quarantine? {#hso-vaccine-exemption}
 
 No. Even with the [new policy to quarantine at home](#my-hso-at-home), you must apply for exemption. There are currently no policies that automatically exempt those who have been vaccinated against Covid-19 from their quarantine obligations.
 
+--> 
 
 ## There is an active MCO/PKP at my point of entry, can I still go back? {#enter-with-active-mco}
 

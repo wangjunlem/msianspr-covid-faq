@@ -36,12 +36,14 @@ Alternatively, you may use the shuttle bus arranged by the Johor government, cha
 
 Take note of the operating hours at each checkpoint in Malaysia (BSI operates from 7am to 7pm; KSAB operates from 8am to 12am for light vehicles). The Singapore checkpoints operate 24 hours a day.
 
-
+<!--
 ## I entered Malaysia after 18 March 2020 (first day of MCO). Can I still exit Malaysia now? {#exit-my-after-mco}
 
 Yes, with the condition that you hold a valid Singapore PR or long-term pass. Otherwise, you will need to apply for approval to exit the country via [MyTravelPass].
 
 _You are strongly advised to not abuse this, please, and to only travel if absolutely necessary._
+
+-->
 
 ## I have taken the vaccine for Covid-19. Can I get an exemption for SHN? {#shn-vaccine}
 
