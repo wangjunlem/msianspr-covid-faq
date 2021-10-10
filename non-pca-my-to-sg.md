@@ -8,11 +8,13 @@ hide_footer: true
 
 ## What do I need to do to exit Malaysia? {#exit-my}
 
-If you are a SPR and travelling alone or with other long-term pass holders, you will have to show your long-term pass(es) - SG NRIC or FIN - to the immigration officers. Please also prepare a copy of your REP in case they ask for it. 
+<!-- If you are a SPR and travelling alone or with other long-term pass holders, you will have to show your long-term pass(es) - SG NRIC or FIN - to the immigration officers. Please also prepare a copy of your REP in case they ask for it. 
 
 You do not need a MyTravelPass to exit Malaysia if you hold a valid, full-fledged PR. Note that holding only the In-Principle Approval (IPA) does not constitute being a PR, so you will need to apply for a MyTravelPass to exit.
 
-If you are travelling with others, see: [What if my spouse/children are going over with me to Singapore?](#enter-sg-non-pr)
+If you are travelling with others, see: [What if my spouse/children are going over with me to Singapore?](#enter-sg-non-pr) -->
+
+No restrictions for exiting Malaysia apply from 11th October 2021 onwards.
 
 ## What do I need to do to enter Singapore? {#enter-sg}
 
@@ -51,6 +53,9 @@ No. You must serve a [10-day SHN][MOH SG 2Oct Presser] at a SHN dedicated facili
 
 ## What if my spouse/children are going over with me to Singapore? {#enter-sg-non-pr}
 
+No restrictions for exiting Malaysia apply from 11th October 2021 onwards.
+
+<!-- 
 If you are exiting the country with Malaysian citizen(s) who do not qualify for any approval exemptions listed in the JIM memo [here](https://www.facebook.com/imigresen/posts/3525366314196465) (please check JIM page in case this becomes outdated), then you will need to apply for [MyTravelPass] for them to exit the country at least 14 days before your journey. Include all relevant supporting documents; the bare minimum would be 
 - your Singapore PR NRIC(s)
 - your Singapore PR re-entry permit(s) _(a copy of it can be obtained [here][e-REP])_
@@ -58,10 +63,11 @@ If you are exiting the country with Malaysian citizen(s) who do not qualify for 
 - an appeal letter
 
 Please submit your application only once until there is a response on your application.
+-->
 
-You will also need to submit an appeal to ICA for entry to Singapore for people not holding SPR; see [here](https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process) for more info. They will also require a valid negative COVID-19 to enter Singapore. See [here][MOH Presser SHN MY 14d] for more details.
+You will need to submit an appeal to ICA for entry to Singapore for people not holding SPR; see [here](https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process) for more info. They will also require a valid negative COVID-19 to enter Singapore. See [here][MOH Presser SHN MY 14d] for more details.
 
-When exiting Malaysia, the current rule is that you (as the SPR) must exit together with any travellers under 12 who have gained the special approval on MyTravelPass.
+<!--When exiting Malaysia, the current rule is that you (as the SPR) must exit together with any travellers under 12 who have gained the special approval on MyTravelPass. -->
 
 ## Is there anything to do/note before I enter Singapore? {#before-entering-sg}
 

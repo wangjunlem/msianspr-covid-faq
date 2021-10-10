@@ -51,12 +51,13 @@ Take note of the operating hours at each checkpoint in Malaysia (BSI operates fr
 
 ## What if my spouse/children are going over with me to Malaysia? {#enter-my-family-non-citizen}
 
+From 11th October onwards, there are no restrictions for entering Malaysia.
+<!--
 If you are entering Malaysia with non-citizen(s) including those holding Malaysia PR, then you will need to apply for [MyTravelPass] for them to enter the country at least 14 days before your journey. Please submit your application only once and wait for a response on your application.
 
 If the non-citizen traveller(s) do not have a [LTSVP][Acronyms] yet, also apply for an appointment slot at [STO][Sistem Temujanji Online] to apply for the LTSVP within 30 days of their arrival date. Proof of appointment slot is required on arrival; they risk being denied entry if it is not done.
-
-Additionally, foreigners are required to make payment for the accommodation and operational costs using [MySafeTravel] before entering Malaysia.
-
+-->
+However, foreigners are required to make payment for the accommodation and operational costs using [MySafeTravel] before entering Malaysia.
 
 ## I am not leaving on the day stated on the myPASS / MyTravelPass / MySafeTravel, do I need to re-apply? {#my-enter-different-date}
 
@@ -206,6 +207,29 @@ If your application is not processed by the time you arrive, it should be assume
 ## I have taken the vaccine for Covid-19. Can I get an exemption for quarantine? {#hso-vaccine-exemption}
 
 No. Even with the [new policy to quarantine at home](#my-hso-at-home), you must apply for exemption. There are currently no policies that automatically exempt those who have been vaccinated against Covid-19 from their quarantine obligations.
+
+
+## There is an active MCO/PKP at my point of entry, can I still go back? {#enter-with-active-mco}
+
+Yes, you can. 
+
+## I would like to travel to another state/district after my quarantine ends (e.g. quarantine in Selangor after entering KLIA, but my hometown is in Perak). Can I do so? {#travel-after-mco}
+
+Yes. Inter-state travel is allowed from 11th October 2021 onwards. However, please note that special requirements may still apply for entry into [Sabah](https://hednp.sabah.gov.my) and [Sarawak](https://sarawakdisastermc.com/).
+<!--
+Yes. Take note that inter-state travel is not allowed for the whole country, and states under MCO will not allow inter-district travel.
+
+You should make arrangements to travel home on your own, if possible.
+
+If you have difficulties travelling home on your own, your family will have to apply for a movement permit using the [CMCO / PKPB][Movement Permit CMCO] form. Physical copies of the form are available at the nearest police station, or can be printed using the above link.
+
+Please send to your friends/relatives photos of these documents to support the movement permit application:
+
+1. the Quarantine Order document given to you at the start of the quarantine
+2. (If applying last minute) the _Surat Pelepasan_
+
+The police will have to approve your family's movement permit, after which your family/friends must then carry the letter when they pick you up from the quarantine station at the end of your quarantine.
+-->
 
 ## Can I be exempted from paying the quarantine fees? {#my-hso-payment-exemption}
 
