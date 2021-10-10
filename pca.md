@@ -18,7 +18,7 @@ You must travel in and out via the land borders (i.e. Woodlands/BSI and Tuas/KSA
 
 You must strictly follow the date agreed to return to Singapore as specified in your PCA application. See [here](#pca-date-change).
 
-From 12 May onwards, MOH imposes a mandatory 14-day hotel quarantine on all travellers from Singapore, including those travelling under the PCA scheme. ~~While waiting for your swab test results on entry to Malaysia, you must have a place of residence in the state of Johor, if not, you will need to arrange for a hotel room to stay. If your Malaysia IC does not reflect it, please show proof of residence (e.g. bank statements or bills).~~
+From 12 May onwards, MOH imposes a mandatory 14-day hotel quarantine on all travellers from Singapore, including those travelling under the PCA scheme. You may apply for home quarantine if you meet the criteria. See [here](/non-pca-sg-to-my#my-hso-at-home).
 
 You can be out of Singapore for up to 60 days per PCA application, and will have to be back in Singapore for another 90 days before you can submit another PCA application.
 
@@ -46,7 +46,7 @@ Yes. See [here][Press Release Ismail Sabri 24May].
 
 ## Do I need to quarantine after returning from Malaysia to Singapore? {#pca-sg-shn}
 
-Yes. Due to increase in Covid-19 cases in Malaysia, Singapore now imposes a 14-day SHN at SDFs, payable by the employer, regardless of vaccination status. The final cost arrangement between you and your employer will differ from company to company.
+Yes. Due to increase in Covid-19 cases in Malaysia, Singapore now imposes a 10-day SHN at SDFs, payable by the employer, regardless of vaccination status. The final cost arrangement between you and your employer will differ from company to company.
 
 ## Do I need to do a swab test before going back to Singapore? {#pca-sg-swab}
 
@@ -88,11 +88,11 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 |**RETURNING TO SINGAPORE**| |
 |Pre-departure swab test required|Yes|Yes|
 |Arrival swab test required|Yes|Yes|
-|Quarantine / SHN duration |14 days|14 days|
+|Quarantine / SHN duration |10 days|10 days|
 |SHN roommate restriction|Family members only\*|Family members only|
 |ART tests required|Yes|Yes|
 |End of SHN swab test required|Yes|Yes|
-|Estimated total spend^^|up to $2350 + RM300|up to $2350 + RM300|
+|Estimated total spend^^|up to $1800 + RM300|up to $1800 + RM300|
 
 
 **NOTES:**

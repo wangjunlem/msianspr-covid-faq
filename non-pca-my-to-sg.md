@@ -8,13 +8,13 @@ hide_footer: true
 
 ## What do I need to do to exit Malaysia? {#exit-my}
 
-If you are a SPR and travelling alone or with other long-term pass holders, you will have to show your long-term pass(es) - SG NRIC or FIN - to the immigration officers. Please also prepare a copy of your REP in case they ask for it. 
+<!-- If you are a SPR and travelling alone or with other long-term pass holders, you will have to show your long-term pass(es) - SG NRIC or FIN - to the immigration officers. Please also prepare a copy of your REP in case they ask for it. 
 
-You do not need a MyTravelPass at the moment (see [announcement (video) by DGI](https://youtu.be/oRNEHKjrel4?t=323), [JIM FB post](https://www.facebook.com/imigresen/posts/3576029612463468), [response from enquiry to MyTravelPass](/appendix-response-jim)); however, please check official sources before your travel date to ensure that this is still true on the date of your departure. If in doubt and if you have time, it is recommended to apply for [MyTravelPass] approval 5 working days* before your date of departure.
+You do not need a MyTravelPass to exit Malaysia if you hold a valid, full-fledged PR. Note that holding only the In-Principle Approval (IPA) does not constitute being a PR, so you will need to apply for a MyTravelPass to exit.
 
-Note that holding SPR In-Principle Approval (IPA) does not constitute being a PR, so you will need to apply for a MyTravelPass to exit.
+If you are travelling with others, see: [What if my spouse/children are going over with me to Singapore?](#enter-sg-non-pr) -->
 
-If you are travelling with others, see: [What if my spouse/children are going over with me to Singapore?](#enter-sg-non-pr)
+No restrictions for exiting Malaysia apply from 11th October 2021 onwards.
 
 ## What do I need to do to enter Singapore? {#enter-sg}
 
@@ -36,12 +36,14 @@ Alternatively, you may use the shuttle bus arranged by the Johor government, cha
 
 Take note of the operating hours at each checkpoint in Malaysia (BSI operates from 7am to 7pm; KSAB operates from 8am to 12am for light vehicles). The Singapore checkpoints operate 24 hours a day.
 
-
+<!--
 ## I entered Malaysia after 18 March 2020 (first day of MCO). Can I still exit Malaysia now? {#exit-my-after-mco}
 
 Yes, with the condition that you hold a valid Singapore PR or long-term pass. Otherwise, you will need to apply for approval to exit the country via [MyTravelPass].
 
 _You are strongly advised to not abuse this, please, and to only travel if absolutely necessary._
+
+-->
 
 ## I have taken the vaccine for Covid-19. Can I get an exemption for SHN? {#shn-vaccine}
 
@@ -49,21 +51,25 @@ No. There are currently no policies that exempt travellers from Malaysia who hav
 
 ## Can I serve my SHN at my residence in Singapore? {#shn-own-home}
 
-No. You must serve a [14-day SHN][MOH SG 4May Presser] at a SHN dedicated facility, including any RGL travellers. For normal travellers, all prevailing costs for tests and accommodation apply. (If you are travelling under RGL, please check with the authorities, but the likelihood is that you will have to pay for the prevailing costs as well.)
+No. You must serve a [10-day SHN][MOH SG 2Oct Presser] at a SHN dedicated facility. For normal travellers, all prevailing costs for tests and accommodation apply. 
 
 ## What if my spouse/children are going over with me to Singapore? {#enter-sg-non-pr}
 
-If you are exiting the country with Malaysian citizen(s) who do not qualify for any approval exemptions listed in the JIM memo [here](https://www.facebook.com/imigresen/posts/3525366314196465) (please check JIM page in case this becomes outdated), then you will need to apply for [MyTravelPass] for them to exit the country at least 5 working days\* before your journey. Include all relevant supporting documents; the bare minimum would be 
+No restrictions for exiting Malaysia apply from 11th October 2021 onwards.
+
+<!-- 
+If you are exiting the country with Malaysian citizen(s) who do not qualify for any approval exemptions listed in the JIM memo [here](https://www.facebook.com/imigresen/posts/3525366314196465) (please check JIM page in case this becomes outdated), then you will need to apply for [MyTravelPass] for them to exit the country at least 14 days before your journey. Include all relevant supporting documents; the bare minimum would be 
 - your Singapore PR NRIC(s)
 - your Singapore PR re-entry permit(s) _(a copy of it can be obtained [here][e-REP])_
 - marriage/birth certificates
 - an appeal letter
 
 Please submit your application only once until there is a response on your application.
+-->
 
-You will also need to submit an appeal to ICA for entry to Singapore for people not holding SPR; see [here](https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process) for more info. They will also require a valid negative COVID-19 to enter Singapore. See [here][MOH Presser SHN MY 14d] for more details.
+You will need to submit an appeal to ICA for entry to Singapore for people not holding SPR; see [here](https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process) for more info. They will also require a valid negative COVID-19 to enter Singapore. See [here][MOH Presser SHN MY 14d] for more details.
 
-When exiting Malaysia, the current rule is that you (as the SPR) must exit together with any travellers under 12 who have gained the special approval on MyTravelPass.
+<!--When exiting Malaysia, the current rule is that you (as the SPR) must exit together with any travellers under 12 who have gained the special approval on MyTravelPass. -->
 
 ## Is there anything to do/note before I enter Singapore? {#before-entering-sg}
 
@@ -87,17 +93,17 @@ Yes. All travellers will need to present a valid negative PCR test within 48 hou
 
 ## How long is the SHN going to be? {#shn-duration}
 
-14 days at a SHN dedicated facility. See [here][MOH SG 4May Presser] for the latest update.
+10 days at a SHN dedicated facility. See [here][MOH SG 2Oct Presser] for the latest update.
 
 ## How much will the entirety of the SHN cost? {#shn-cost}
 
-For staying at a [SHN Dedicated Facility][SafeTravel SDF] (SDF), it will cost $2000 per person for 14 days. If you are sharing the room with another person (limited to family members and subject to approval), the cost will be $1300 per person.
+For staying at a [SHN Dedicated Facility][SafeTravel SDF] (SDF), it will cost $1450 per person for 10 days. If you are sharing the room with another person (limited to family members and subject to approval), the cost will be $950 per person.
 
 If you have children, they may qualify for reduced charges depending on their age. You can appeal to ICA via the hotel in which you are serving your SHN; the hotel manager on duty will forward the appeal.
 
 For the [PCR swab tests][SafeTravel Swab], it will cost maximum $200 per person per swab. (Last known price: $160 for arrival swab, $125 for swab at end of SHN)
 
-For the ART test kits, you will be charged $40 for 4 kits.
+For the ART test kits, you will be charged $20 for 2 kits.
 
 ## What happens to my vehicle if I’m driving in? {#vehicle-before-shn}
 
@@ -105,12 +111,11 @@ You will not be allowed to park the car at the SHN Dedicated Facility (SDF). Ins
 
 Please follow the instructions of the officers on the day itself. Note that any car park charges will be borne by you.
 
-
 ## When are my swab tests? {#swab-when}
 
 You will be required to take a swab test [before departure](#sg-pre-entry-swab) and on arrival. This rule applies to all travellers.
 
-On days 3, 7, and 11, you will be required to do a swab test by yourself, using the ART test kits provided to you.
+On days 3 and 7, you will be required to do a swab test by yourself, using the ART test kits provided to you.
 
 You will also complete a PCR swab test on the last day of your SHN.
 
@@ -135,3 +140,4 @@ You can leave your accommodation after 12pm on the last day of your SHN, but onl
 [MOH Presser SHN MY 14d]: https://www.moh.gov.sg/news-highlights/details/updated-border-measures-for-travellers-from-malaysia-and-japan
 [MOH SG 4May Presser]: https://moh.gov.sg/news-highlights/details/updates-on-local-situation-border-measures-and-shift-to-heightened-alert-to-minimise-transmission_4May2021
 [MOH SG Pre-Depart Presser]: https://www.moh.gov.sg/news-highlights/details/updates-on-border-measures-for-travellers
+[MOH SG 2Oct Presser]: https://www.moh.gov.sg/news-highlights/details/update-on-local-situation-and-changes-to-align-border-measures-with-domestic-protocols
