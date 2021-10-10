@@ -46,7 +46,7 @@ Yes. See [here][Press Release Ismail Sabri 24May].
 
 ## Do I need to quarantine after returning from Malaysia to Singapore? {#pca-sg-shn}
 
-Yes. Due to increase in Covid-19 cases in Malaysia, Singapore now imposes a 14-day SHN at SDFs, payable by the employer, regardless of vaccination status. The final cost arrangement between you and your employer will differ from company to company.
+Yes. Due to increase in Covid-19 cases in Malaysia, Singapore now imposes a 10-day SHN at SDFs, payable by the employer, regardless of vaccination status. The final cost arrangement between you and your employer will differ from company to company.
 
 ## Do I need to do a swab test before going back to Singapore? {#pca-sg-swab}
 
@@ -88,11 +88,11 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 |**RETURNING TO SINGAPORE**| |
 |Pre-departure swab test required|Yes|Yes|
 |Arrival swab test required|Yes|Yes|
-|Quarantine / SHN duration |14 days|14 days|
+|Quarantine / SHN duration |10 days|10 days|
 |SHN roommate restriction|Family members only\*|Family members only|
 |ART tests required|Yes|Yes|
 |End of SHN swab test required|Yes|Yes|
-|Estimated total spend^^|up to $2350 + RM300|up to $2350 + RM300|
+|Estimated total spend^^|up to $1800 + RM300|up to $1800 + RM300|
 
 
 **NOTES:**
