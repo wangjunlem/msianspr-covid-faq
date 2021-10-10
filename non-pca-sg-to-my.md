@@ -22,14 +22,17 @@ Please verify that your Re-entry Permit (REP) is still valid before exiting Sing
 
 <!-- You will need to print out, fill in, and sign a [Letter of Undertaking](http://www.nadma.gov.my/images/nadma/documents/garispanduan/LATEST_LOU.pdf) stating that you agree to pay any quarantine costs applicable (accommodation and Covid-19 test). Leave the witness field blank. -->
 
-You must also do a pre-departure swab test up to 3 days before your departure to Malaysia.
+You must do a pre-departure swab test up to 3 days before your departure to Malaysia.
 
-At least 3 working days before entering, you should also: 
+Up to 10 days before departure: if you are vaccinated, you should also apply for home quarantine exemption (if you qualify). See [here](#my-hso-at-home).
 
+At least 3 working days before entering, you should also download MySejahtera.
+<!--
 1. download MySejahtera
-1. make payment for all costs (accommodation, swab test, operational costs if foreigner) at [MySafeTravel] _(not recommended for now due to rule changes to MCO)_
 1. ~~apply for a [myPASS](https://mypass.mhc.org.sg/)/Travel Note from the High Commission of Malaysia~~ _(practically optional, see [note below](#mypass-necessary))_
 1. apply for home quarantine exemption if you qualify; see [here](#my-hso-at-home)
+-->
+You can also make payment for all costs (accommodation, swab test, operational costs if foreigner) at [MySafeTravel] (optional for Malaysians).
 
 <!-- 
 If you are entering the country with non-Malaysian citizen(s) (e.g. your spouse or children who holds non-Malaysian citizenship, and including those with Malaysian PR), see below: [What if my spouse/children are going over with me to Malaysia?](#enter-my-family-non-citizen)
@@ -119,19 +122,6 @@ Yes. You must do a pre-departure swab test up to 72 hours before you begin your 
 
 Anecdotes mention that the land checkpoints have not enforced this. Skip the pre-departure swab test at your own risk of being denied entry.
 
-## What are the procedures I can expect after entering Malaysia? {#after-entering-my-procedures}
-
-At arrival, you will be cleared for immigration. You will also submit your LoU (if you’ve forgotten to bring it along, you can sign a copy on the spot). 
-
-You will then be brought to a testing centre at fixed intervals. Those travelling in their own vehicles (car/motorcycle/van/…) will be escorted by police. For those entering via the land checkpoints by foot or public transport at BSI, there will be trips to the testing centre via bus at the same time.
-
-At the testing centre, you will be swabbed and asked to wait for your test results. You may be informed that you can order food delivery services to the location.
-
-If your test results are negative, you will then be brought to the hotel for check-in procedures. There, if you have not paid using [MySafeTravel](https://safetravel.myeg.com.my), you will pay for the prevailing hotel charges (currently at RM150/night), payable by credit card.
-
-The total duration from arrival at immigration to hotel check-in can take anywhere from 5 hours up to 12 hours. Please prepare sufficient water, snacks, medication, etc.
-
-
 ## How much will the quarantine cost? {#my-hso-cost}
 
 For normal accommodation, it will cost RM150/night.
@@ -179,19 +169,6 @@ On the day of your arrival, show the booking confirmation from the hotel to the 
 See the known quarantine stations [here](/appendix-misc#hotels-hso). All arrangements are subject to hotel availability, and additional charges may apply depending on the location.
 
 --> 
-## Can I get food or personal items delivered to/from my hotel via Grab or by family members? {#my-hso-delivery-personal}
-
-The SOPs on delivery differ from hotel to hotel. You are advised to check with the hotel directly.
-
-The common SOP known is that for food delivery, only fast food is allowed. Home cooked food will not be allowed unless special approval is given by MOH (e.g. health reasons). 
-
-For personal belongings (e.g. clothes), **please only do so if it is urgent and necessary.** Hotel workers are swamped with these requests. Family members can bring it over; however, you are not allowed to hand over any items (including any perishables and souvenirs) back to your family members or friends.
-
-
-## Are there laundry services at my hotel? {#my-hso-laundry}
-
-You are to stay in your room at all times. In general, most reports have said that laundry services are not provided. You may opt to do your own washing in your room.
-
 ## Can I choose to quarantine at home? {#my-hso-at-home}
 
 You will qualify for home quarantine provided you meet the following criteria: 
@@ -264,25 +241,29 @@ You may fill in Form E ahead of time found [here](http://covid-19.moh.gov.my/gar
 The full memo from the Sec-Gen of MOH MY (in Bahasa Malaysia), including all forms and the flowchart for payment exemptions can be found [here](http://covid-19.moh.gov.my/garis-panduan/garis-panduan-pengecualian-caj-kuarantin-bagi-person-under-surveilence-pus-di-stesen-kuarantin/Panduan_Pengecualian_Kos_Kuarantin_PUS_KKM.pdf).
 
 
-## There is an active MCO/PKP at my point of entry, can I still go back? {#enter-with-active-mco}
+## What are the procedures I can expect after entering Malaysia? {#after-entering-my-procedures}
 
-Yes, you can. If you are travelling onwards to other districts outside of your quarantine location, please see below on instructions for travelling _after_ quarantine has ended.
+At arrival, you will be cleared for immigration. You will also submit your LoU (if you’ve forgotten to bring it along, you can sign a copy on the spot). 
 
+You will then be brought to a testing centre at fixed intervals. Those travelling in their own vehicles (car/motorcycle/van/…) will be escorted by police. For those entering via the land checkpoints by foot or public transport at BSI, there will be trips to the testing centre via bus at the same time.
 
-## I would like to travel to another state/district after my quarantine ends (e.g. quarantine in Selangor after entering KLIA, but my hometown is in Perak). Can I do so? {#travel-after-mco}
+At the testing centre, you will be swabbed and asked to wait for your test results. You may be informed that you can order food delivery services to the location.
 
-Take note that inter-state travel is not allowed for the whole country, and states under MCO will not allow inter-district travel.
+If your test results are negative, you will then be brought to the hotel for check-in procedures. There, if you have not paid using [MySafeTravel](https://safetravel.myeg.com.my), you will pay for the prevailing hotel charges (currently at RM150/night), payable by credit card.
 
-You should make arrangements to travel home on your own, if possible.
+The total duration from arrival at immigration to hotel check-in can take anywhere from 5 hours up to 12 hours. Please prepare sufficient water, snacks, medication, etc.
 
-If you have difficulties travelling home on your own, your family will have to apply for a movement permit using the [CMCO / PKPB][Movement Permit CMCO] form. Physical copies of the form are available at the nearest police station, or can be printed using the above link.
+## Can I get food or personal items delivered to/from my hotel via Grab or by family members? {#my-hso-delivery-personal}
 
-Please send to your friends/relatives photos of these documents to support the movement permit application:
+The SOPs on delivery differ from hotel to hotel. You are advised to check with the hotel directly.
 
-1. the Quarantine Order document given to you at the start of the quarantine
-2. (If applying last minute) the _Surat Pelepasan_
+The common SOP known is that for food delivery, only fast food is allowed. Home cooked food will not be allowed unless special approval is given by MOH (e.g. health reasons). 
 
-The police will have to approve your family's movement permit, after which your family/friends must then carry the letter when they pick you up from the quarantine station at the end of your quarantine.
+For personal belongings (e.g. clothes), **please only do so if it is urgent and necessary.** Hotel workers are swamped with these requests. Family members can bring it over; however, you are not allowed to hand over any items (including any perishables and souvenirs) back to your family members or friends.
+
+## Are there laundry services at my hotel? {#my-hso-laundry}
+
+You are to stay in your room at all times. In general, most reports have said that laundry services are not provided. You may opt to do your own washing in your room.
 
 [Acronyms]: /appendix-acronyms
 [Sistem Temujanji Online]: http://www.sto.imi.gov.my
