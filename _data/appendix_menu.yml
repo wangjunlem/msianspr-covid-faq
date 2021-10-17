@@ -2,11 +2,11 @@
   items:
     - name: Acronyms
       link: appendix-acronyms
-    - name: Updating Vaccination Records (Malaysia)
-      link: appendix-update-vaccine-my
-    - name: Appeal to MOH MY for Quarantine Exemption
-      link: appendix-appeal-moh-my
-    - name: JIM Response on SPRs Exiting
-      link: appendix-response-jim
-    - name: Miscellaneous
-      link: appendix-misc
+    # - name: Updating Vaccination Records (Malaysia)
+    #   link: appendix-update-vaccine-my
+    # - name: Appeal to MOH MY for Quarantine Exemption
+    #   link: appendix-appeal-moh-my
+    # - name: JIM Response on SPRs Exiting
+    #   link: appendix-response-jim
+    # - name: Miscellaneous
+    #   link: appendix-misc

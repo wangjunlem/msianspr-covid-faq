@@ -22,7 +22,7 @@ You will need to submit a [Health Declaration](https://eservices.ica.gov.sg/sgar
 
 You will also require a valid negative RT-PCR COVID-19 swab test result within 48 hours before departure to Singapore. See [here](#sg-pre-entry-swab) and [info sheet](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf) for more details.
 
-You will need to pay for your swab tests (up to $200 per swab, including GST). For the swab test on arrival, please follow the instructions [here][SafeTravel Swab]. For the swab tests on the 14th day of SHN, payment will not be made at the border; register and follow the instructions [here](https://go.gov.sg/covid19test). You will be informed of the exact dates of your swab tests later.
+You will need to pay for your swab tests (up to $200 per swab, including GST). For the swab test on arrival, please follow the instructions [here][SafeTravel Swab]. For the swab tests on the 10th day of SHN, payment will not be made at the border; register and follow the instructions [here](https://go.gov.sg/covid19test). You will be informed of the exact dates of your swab tests later.
 
 If you are entering Singapore with a non-SC/non-SPR, please ensure that they have approval from the relevant authorities for entry into Singapore. See the ICA page for more information [here](https://www.ica.gov.sg/covid-19/enteringsg). 
 
@@ -85,7 +85,9 @@ All related costs (tests, SHN, medical fees if any) will no longer be waived by 
 
 You may want to download TraceTogether and/or SingPass, as well as the StayHome@SG app.
 
+<!--
 If you are driving into, or passing through any districts/states with any form of MCO in effect, please apply for a movement permit using the form [here][Movement Permit CMCO] at the nearest police station. This applies to travellers departing from KLIA/KLIA2 as well.
+-->
 
 ## Do I need to do a swab test before entering Singapore? {#sg-pre-entry-swab}
 
@@ -132,12 +134,9 @@ You can leave your accommodation after 12pm on the last day of your SHN, but onl
 
 [MyTravelPass]: https://mtp.imi.gov.my/myTravelPass/main
 [e-REP]: https://eservices.ica.gov.sg/esvclandingpage/erep
-[Movement Permit MCO]: /assets/borang-permit-pergerakan-pkp.jpg
-[Movement Permit CMCO]: /assets/borang-permit-pergerakan-pkpb.pdf
 [SafeTravel SDF]: https://safetravel.ica.gov.sg/health/shn/sdf
 [SafeTravel Swab]: https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest#pcr-test-in-singapore
 
 [MOH Presser SHN MY 14d]: https://www.moh.gov.sg/news-highlights/details/updated-border-measures-for-travellers-from-malaysia-and-japan
-[MOH SG 4May Presser]: https://moh.gov.sg/news-highlights/details/updates-on-local-situation-border-measures-and-shift-to-heightened-alert-to-minimise-transmission_4May2021
 [MOH SG Pre-Depart Presser]: https://www.moh.gov.sg/news-highlights/details/updates-on-border-measures-for-travellers
 [MOH SG 2Oct Presser]: https://www.moh.gov.sg/news-highlights/details/update-on-local-situation-and-changes-to-align-border-measures-with-domestic-protocols
