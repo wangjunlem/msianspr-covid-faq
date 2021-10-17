@@ -12,21 +12,26 @@ There are no restrictions for exiting Singapore. The official travel advisory by
 
 Please verify that your Re-entry Permit (REP) is still valid before exiting Singapore. Additionally, please ensure that you have a digital copy of your REP on your phone or in cloud storage. You may obtain a copy of the REP [here][e-REP].
 
-<!-- Regarding the issue of myPASS for travel to Malaysia, if you are travelling:
+<!-- 
+Regarding the issue of myPASS for travel to Malaysia, if you are travelling:
 
 - **by land**: ICA should not be asking for a myPASS. If they do, inform them that the Malaysian side will not ask for myPASS on entry.
 
-- **by air**: Airlines and immigration authorities may ask you to show your [myPASS/Travel Note](#mypass-necessary) because they liaise with the Malaysian High Comm. To be safe, please apply. -->
+- **by air**: Airlines and immigration authorities may ask you to show your [myPASS/Travel Note](#mypass-necessary) because they liaise with the Malaysian High Comm. To be safe, please apply. 
+-->
 
 ## What do I need to do to enter Malaysia? {#enter-my}
 
-<!-- You will need to print out, fill in, and sign a [Letter of Undertaking](http://www.nadma.gov.my/images/nadma/documents/garispanduan/LATEST_LOU.pdf) stating that you agree to pay any quarantine costs applicable (accommodation and Covid-19 test). Leave the witness field blank. -->
+<!--
+ You will need to print out, fill in, and sign a [Letter of Undertaking](http://www.nadma.gov.my/images/nadma/documents/garispanduan/LATEST_LOU.pdf) stating that you agree to pay any quarantine costs applicable (accommodation and Covid-19 test). Leave the witness field blank. 
+ -->
 
 You must do a pre-departure swab test up to 3 days before your departure to Malaysia.
 
 Up to 10 days before departure: if you are vaccinated, you should also apply for home quarantine exemption (if you qualify). See [here](#my-hso-at-home).
 
 At least 3 working days before entering, you should also download MySejahtera.
+
 <!--
 1. download MySejahtera
 1. ~~apply for a [myPASS](https://mypass.mhc.org.sg/)/Travel Note from the High Commission of Malaysia~~ _(practically optional, see [note below](#mypass-necessary))_
@@ -57,11 +62,13 @@ Take note of the operating hours at each checkpoint in Malaysia (BSI operates fr
 ## What if my spouse/children are going over with me to Malaysia? {#enter-my-family-non-citizen}
 
 From 11th October onwards, there are no restrictions for entering Malaysia.
+
 <!--
 If you are entering Malaysia with non-citizen(s) including those holding Malaysia PR, then you will need to apply for [MyTravelPass] for them to enter the country at least 14 days before your journey. Please submit your application only once and wait for a response on your application.
 
 If the non-citizen traveller(s) do not have a [LTSVP][Acronyms] yet, also apply for an appointment slot at [STO][Sistem Temujanji Online] to apply for the LTSVP within 30 days of their arrival date. Proof of appointment slot is required on arrival; they risk being denied entry if it is not done.
 -->
+
 However, foreigners are required to make payment for the accommodation and operational costs using [MySafeTravel] before entering Malaysia.
 
 ## I am not leaving on the day stated on the myPASS / MyTravelPass / MySafeTravel, do I need to re-apply? {#my-enter-different-date}
@@ -74,7 +81,9 @@ Please re-apply for the passes if you are not travelling within the stated valid
 ## Is applying for myPASS still necessary? {#mypass-necessary}
 
 No.
-<!--So far, most anecdotes show that both Singaporean and Malaysian authorities do not check if you have a myPASS/Travel Note before exiting Singapore and entering Malaysia respectively. There is also no restriction of entry into Malaysia as a Malaysian citizen.
+
+<!--
+So far, most anecdotes show that both Singaporean and Malaysian authorities do not check if you have a myPASS/Travel Note before exiting Singapore and entering Malaysia respectively. There is also no restriction of entry into Malaysia as a Malaysian citizen.
 
 However, the directive to apply myPASS is given by the MHC, and airlines may still ask for a valid myPASS before travel.
 
@@ -199,6 +208,7 @@ Yes, you can.
 ## I would like to travel to another state/district after my quarantine ends (e.g. quarantine in Selangor after entering KLIA, but my hometown is in Perak). Can I do so? {#travel-after-mco}
 
 Yes. Inter-state travel is allowed from 11th October 2021 onwards. However, please note that special requirements may still apply for entry into [Sabah](https://hednp.sabah.gov.my) and [Sarawak](https://sarawakdisastermc.com/).
+
 <!--
 Yes. Take note that inter-state travel is not allowed for the whole country, and states under MCO will not allow inter-district travel.
 
@@ -269,8 +279,6 @@ You are to stay in your room at all times. In general, most reports have said th
 [Sistem Temujanji Online]: http://www.sto.imi.gov.my
 [MyTravelPass]: https://mtp.imi.gov.my/myTravelPass/main
 [MySafeTravel]: https://safetravel.myeg.com.my
-[Movement Permit MCO]: /assets/borang-permit-pergerakan-pkp.jpg
-[Movement Permit CMCO]: /assets/borang-permit-pergerakan-pkpb.pdf
 [HSO Application Portal]: https://ecovid19.moh.gov.my/outbreak-portal-hqa/home
 [Press Release Ismail Sabri 24May]: /assets/press-release-ismail-sabri-20210524.pdf
 [e-REP]: https://eservices.ica.gov.sg/esvclandingpage/erep
