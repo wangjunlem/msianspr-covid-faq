@@ -1,11 +1,13 @@
 ---
 layout: page
-menubar: appendix_menu
+menubar_toc: true
 hide_footer: true
 hide_hero: true
 ---
 
-# Appendix - Acronyms
+# Appendix
+
+## Acronyms
 
 The following list is in alphabetical order.
 
