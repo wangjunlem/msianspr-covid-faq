@@ -1,11 +1,9 @@
 ---
 layout: page
-menubar_toc: true
 hide_footer: true
-hide_hero: true
+title: "Update of Vaccination Particulars"
 ---
 
-# Update of Vaccination Particulars
 
 ## Malaysia
 
@@ -16,6 +14,7 @@ You will need your vaccine certificate ready. In the case of Singapore, follow t
 1. Select "N. I have received my vaccination overseas and would like to obtain my digital certificate in MySejahtera"
 1. Follow the instructions given in the prompt.
   - When asked for IC, please enter your Malaysian NRIC.
+  - Responses to the fields should match your vaccine certificate.
   - In some cases, uploading a PDF may fail. You may want to take a screenshot of your certificate.
 
 Vaccine records may take up to 2 weeks to be updated.
@@ -33,4 +32,6 @@ You need to be in Singapore physically to update your vaccine records.
         - Passport for visitor pass holders staying > 30 days
 1. Complete the serology test
 
-If the serology test result is positive, your vaccine records will be updated on TraceTogether and HealthHub. This may take a few days - check with your clinic. You may check the result of your serology test on HealthHub.
+If the serology test result is positive, your vaccine records will be updated on TraceTogether and HealthHub. 
+
+You may check the result of your serology test on HealthHub within 1-2 working days. The update on TraceTogether may take longer - check with your clinic. 
