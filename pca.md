@@ -18,7 +18,7 @@ You must travel in and out via the land borders (i.e. Woodlands/BSI and Tuas/KSA
 
 You must strictly follow the date agreed to return to Singapore as specified in your PCA application. See [here](#pca-date-change).
 
-From 12 May onwards, MOH imposes a mandatory 14-day hotel quarantine on all travellers from Singapore, including those travelling under the PCA scheme. You may apply for home quarantine if you meet the criteria. See [here](/non-pca-sg-to-my#my-hso-at-home).
+MOH imposes a 7-day quarantine on all vaccinated travellers from Singapore (10 days if unvaccinated). You may apply for home quarantine if you meet the criteria. See [here](/non-pca-sg-to-my#my-hso-at-home).
 
 You can be out of Singapore for up to 60 days per PCA application, and will have to be back in Singapore for another 90 days before you can submit another PCA application.
 
@@ -36,7 +36,7 @@ No. The application for PCA requires the company to apply for you with a CorpPas
 
 ## Do I need to quarantine after returning from Singapore to Malaysia? {#pca-my-hso}
 
-Yes. 14 day quarantine is now mandatory. See [here][Press Release Ismail Sabri 24May].
+Yes. Quarantine is now mandatory for 7 days if vaccinated (or 10 days if unvaccinated). See [here][Press Release Ismail Sabri 24May].
 
 You may apply for home quarantine if you meet the criteria. See [here](/non-pca-sg-to-my#my-hso-at-home).
 
@@ -80,11 +80,11 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 |Mode of transport|Land only|Any|
 |Allowed points of entry|BSI or KSAB|Any|
 |**RETURNING TO MALAYSIA**| |
-|Pre-departure swab test required|No|No|
+|Pre-departure swab test required|Yes|Yes|
 |Arrival swab test required|Yes|Yes|
-|Quarantine / HSO duration| 14 days | 14 days |
+|Quarantine / HSO duration| 7 days | 7 days |
 |End of HSO swab test required| Yes |Yes|
-|Estimated total spend^|up to RM2400<br/>(hotel + 2 swabs in Malaysia)|up to RM1800<br/>(hotel + 2 swabs in Malaysia)|
+|Estimated total spend^|up to RM1350<br/>(hotel + 2 swabs in Malaysia)|up to RM1350<br/>(hotel + 2 swabs in Malaysia)|
 |**RETURNING TO SINGAPORE**| |
 |Pre-departure swab test required|Yes|Yes|
 |Arrival swab test required|Yes|Yes|
@@ -99,9 +99,9 @@ You may still [exit to Malaysia](/non-pca-sg-to-my) and [re-enter Singapore](/no
 
 \* _Based on [an email][ICA SafeTravel Response] from the SafeTravel office found in the Telegram chat group on 25th February, colleagues of the same sex are no longer allowed to room together._
 
-^ _Estimated total spend assumes a solo SPR traveller. See detailed costs for [Malaysia][Non-PCA Quarantine]._
+^ _Estimated total spend assumes a solo vaccinated SPR traveller without home quarantine. See detailed costs for [Malaysia][Non-PCA Quarantine]._
 
-^^ _Estimated total spend assumes a solo SPR traveller. See detailed costs for [Singapore][SG SHN Cost]. For official information, please see [here][SG SDF Cost] for accommodation and [here][SG Swab Cost] for swab tests._
+^^ _Estimated total spend assumes a solo vaccinated SPR traveller. See detailed costs for [Singapore][SG SHN Cost]. For official information, please see [here][SG SDF Cost] for accommodation and [here][SG Swab Cost] for swab tests._
 
 [SafeTravel]: https://safetravel.ica.gov.sg/pca/overview
 [PCA Requirements and Process]: https://safetravel.ica.gov.sg/pca/requirements-and-process

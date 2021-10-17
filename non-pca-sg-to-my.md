@@ -61,11 +61,11 @@ Take note of the operating hours at each checkpoint in Malaysia (BSI operates fr
 
 ## What if my spouse/children are going over with me to Malaysia? {#enter-my-family-non-citizen}
 
-From 11th October onwards, there are no restrictions for entering Malaysia.
+From 11th October onwards, there are no restrictions for Malaysians entering Malaysia.
+
+If you are entering Malaysia with non-citizen(s) including those holding Malaysia PR, then you will still need to apply for [MyTravelPass] for them to enter the country at least 14 days before your journey. Please submit your application only once and wait for a response on your application.
 
 <!--
-If you are entering Malaysia with non-citizen(s) including those holding Malaysia PR, then you will need to apply for [MyTravelPass] for them to enter the country at least 14 days before your journey. Please submit your application only once and wait for a response on your application.
-
 If the non-citizen traveller(s) do not have a [LTSVP][Acronyms] yet, also apply for an appointment slot at [STO][Sistem Temujanji Online] to apply for the LTSVP within 30 days of their arrival date. Proof of appointment slot is required on arrival; they risk being denied entry if it is not done.
 -->
 
@@ -100,16 +100,14 @@ If you are a Malaysian citizen and choose not to pay in advance, please make sur
 
 If you have been vaccinated and would like to apply for home quarantine, please do so 7-10 days ahead of your arrival; see [here](#my-hso-at-home) for more details.
 
-Bring along the following with you:
+It is recommended to bring along the following with you:
 
 1. a pen
 2. a thermometer
 3. a [digital][e-REP]/physical copy of valid SPR Re-entry Permit (REP)
-4. the MySafeTravel receipt(s)/QR code(s) (if payment was made ahead of time)
-5. cash of at least RM400 (if payment not made ahead of time)
-6. a printed and signed Letter of Undertaking (LoU) (optional, can be filled on arrival)
+4. cash of at least RM400 (if payment not made ahead of time)
 
-Do not worry if you don’t have a MyPass, see: [Is applying for myPASS still necessary?](#mypass-necessary)
+<!-- Do not worry if you don’t have a MyPass, see: [Is applying for myPASS still necessary?](#mypass-necessary) -->
 
 If you are travelling in via the land checkpoints, make sure that you are expected to reach the checkpoints while they are open. For BSI, the operating hours are 7am to 7pm; for KSAB, the operating hours are 8am to 12am. See also: [How can I enter Malaysia from Singapore via the land checkpoints?](#enter-my-transport)
 
@@ -131,41 +129,40 @@ Yes. You must do a pre-departure swab test up to 72 hours before you begin your 
 
 Anecdotes mention that the land checkpoints have not enforced this. Skip the pre-departure swab test at your own risk of being denied entry.
 
-## How much will the quarantine cost? {#my-hso-cost}
+## How much will my trip cost? {#my-hso-cost}
 
-For normal accommodation, it will cost RM150/night.
+For swab tests, you will be swabbed on:
+1. arrival, and
+1. 2 days before the end of your quarantine.
 
-Non-Malaysians also have to pay a fixed administrative cost of RM2600/person.
+|  | Swab test prices |
+|-|:-:|
+| Malaysian | RM150 x 2 = RM300 |
+| Non-Malaysian | RM250 x 2 = RM500 |
 
-|  | 14 days quarantine | [21 days quarantine](#my-hso-duration) |
+For quarantine in a hotel, it will cost RM150/night.
+
+|  | 7 days quarantine | [10 days quarantine](#my-hso-duration) |
 |-|:-:|:-:|
-| Malaysian | First person:<br>RM2100<br><br>Second person:<br>RM700<br><br>Third person (6y/o and below):<br>free | First person:<br>RM3150<br><br>Second person:<br>RM1050<br><br>Third person (6y/o and below):<br>free |
-| Non-Malaysian | First person:<br>RM2100 + RM2600 = RM4700<br><br>Second person:<br>RM700 + RM2600 = RM3300<br><br>Third person (6y/o and below):<br>RM2600 | First person:<br>RM3150 + RM2600 = RM5750<br><br>Second person:<br>RM1050 + RM2600 = RM3650<br><br>Third person (6y/o and below):<br>RM2600 |
+| | First person:<br>RM1050<br><br>Second person:<br>RM350<br><br>Third person (6y/o and below):<br>free | First person:<br>RM1500<br><br>Second person:<br>RM500<br><br>Third person (6y/o and below):<br>free |
 
 _The "second person" only applies to: legally married spouse, children, and siblings._
 
 Additional charges may apply if you opt for premium accommodation.
 
-For swab tests, you will be swabbed on:
-1. arrival,
-1. the 10th day of your quarantine, and
-1. the 18th day of your quarantine ([if extended](#my-hso-duration)).
-
-|  | Swab test prices (14-day quarantine) | Swab test prices (21-day quarantine) |
-|-|:-:|:-:|
-| Malaysian | RM150 x 2 = RM300 | RM150 x 3 = RM450 |
-| Non-Malaysian | RM250 x 2 = RM500 | RM250 x 3 = RM750 |
-
+Finally, any accompanying non-Malaysians also have to pay a fixed administrative cost of RM2600/person, regardless of room sharing arrangements.
 
 ## How many days is the quarantine going to be? {#my-hso-duration}
 
-14 days, with a potential extension to 21 days based on risk assessment done; see [press release][Press Release Ismail Sabri 24May].
+7 days if you have been fully vaccinated and can show proof of vaccination.
 
+10 days otherwise.
+
+<!-- 
 ## How do I know the last date of my quarantine? {#my-hso-last-day}
 
 Follow the date on the wristband or on the papers issued to you on arrival.
 
-<!-- 
 ## Can I choose which hotel to stay in? {#my-hso-choose-hotel}
 
 You may put in a request with [APM](/appendix-acronyms) on the day of your arrival for your choice of hotel/room if:
