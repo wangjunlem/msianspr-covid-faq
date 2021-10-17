@@ -6,5 +6,7 @@
       link: non-pca-my-to-sg
 - name: "PCA"
   link: pca
+- name: "Vaccine Records"
+  link: update-vaccine
 - name: Other Matters
   link: other-matters
