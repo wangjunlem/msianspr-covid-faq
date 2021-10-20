@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 {% if page.menubar or page.menubar_toc %}
     {% assign has_left_sidebar = true %}
 {% endif %}
@@ -13,8 +14,10 @@
 {% if page.reverse_order %}
     {% assign columns_reverse_class = 'is-reverse-order-mobile' %}
 {% endif %}
-<!DOCTYPE html>
-<html {% if site.fixed_navbar %} class="has-navbar-fixed-{{ site.fixed_navbar }}" {% endif %}>
+
+<html 
+ lang="{{ site.lang | default: 'en' }}"
+ {% if site.fixed_navbar %} class="has-navbar-fixed-{{ site.fixed_navbar }}" {% endif %}>
   {% include head.html %}
   <body>
     {% include header.html %}
@@ -43,7 +46,7 @@
                     {{ content }}
                 </div>
                 {% if site.posts and page.show_sidebar %}
-                <div class="column is-4-desktop is-12-tablet">
+                <div class="column is-4-desktop is-4-tablet">
                     {% include latest-posts.html %}
                 </div>
                 {% endif %}
